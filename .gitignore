@@ -94,3 +94,4 @@ ENV/
 # Visual Studio Code
 .vscode/
 
+.virtual_documents
