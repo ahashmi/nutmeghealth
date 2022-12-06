@@ -16,6 +16,9 @@ November 18, 2022
 * [Kush Varshney - Publications and Patents](https://krvarshney.github.io/publications.htm)
 * [Trustworthy Machine Learning by Kush R. Varshney](http://www.trustworthymachinelearning.com/)
 * [AI Explainability 360: Impact and Design](https://arxiv.org/abs/2109.12151)
+* [The Disagreement Problem in Explainable Machine Learning: A Practitioner's Perspective](https://arxiv.org/abs/2202.01602)
+* [OpenXAI: Towards a Transparent Evaluation of Model Explanations](https://arxiv.org/abs/2206.11104)
+* [Responsible AI - Amazon Science](https://www.amazon.science/tag/responsible-ai)
 
 ## Healh Policy & Analysis
 
@@ -90,3 +93,11 @@ November 18, 2022
 * [Characteristics and determinants of high-risk unscheduled return visits to the emergency department | Emergency Medicine Journal](https://emj.bmj.com/content/37/2/79.abstract)
 * [Ziad Obermeyer | NBER](https://www.nber.org/people/ziad_obermeyer?page=1&perPage=50)
 * [Research – Ziad Obermeyer](http://ziadobermeyer.com/research/)
+
+## Methods
+
+* [Robert Tibshirani, Stanford](https://tibshirani.su.domains/research.html)
+* [Statistical Learning](https://www.statlearning.com/)
+* [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
+* [Gustav Sir - Towards Deep Learning for Relational Databases](https://medium.com/towards-data-science/towards-deep-learning-for-relational-databases-de9adce5bb00)
+  * [PyNeuraLogic lets you use Python to create Differentiable Logic Programs](https://pyneuralogic.readthedocs.io/en/latest/index.html)
