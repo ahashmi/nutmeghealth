@@ -19,12 +19,15 @@ November 18, 2022
 * [The Disagreement Problem in Explainable Machine Learning: A Practitioner's Perspective](https://arxiv.org/abs/2202.01602)
 * [OpenXAI: Towards a Transparent Evaluation of Model Explanations](https://arxiv.org/abs/2206.11104)
 * [Responsible AI - Amazon Science](https://www.amazon.science/tag/responsible-ai)
+* [An Audit of 9 Algorithms used by the Dutch Government](https://english.rekenkamer.nl/publications/reports/2022/05/18/an-audit-of-9-algorithms-used-by-the-dutch-government)
+* [Human Centered Data Science Lab - UW](http://depts.washington.edu/hdsl/research/)
+  * [Cecilia Aragon](https://faculty.washington.edu/aragon/)
 
 ## Healh Policy & Analysis
 
 * [KFF - Health Policy Analysis, Polling, Journalism and Social Impact Media](https://www.kff.org/)
 * [The Lancet Global Health Home Page](https://www.thelancet.com/journals/langlo/home)
-* [Assessing performance of the Healthcare Access and Quality Index, overall and by select age groups, for 204 countries and territories, 1990–2019: a systematic analysis from the Global Burden of Disease Study 2019 - The Lancet Global Health](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(22)00429-6/fulltext)
+* [Assessing performance of the Healthcare Access and Quality Index, overall and by select age groups, for 204 countries and territories, 1990-2019: a systematic analysis from the Global Burden of Disease Study 2019 - The Lancet Global Health](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(22)00429-6/fulltext)
 * [The Lancet: Global Burden of Disease](https://www.thelancet.com/gbd)
 * [Institute for Health Metrics and Evaluation |](https://www.healthdata.org/)
 * [New Report on US Data Infrastructure: An Interview with Robert Groves | Amstat News](https://magazine.amstat.org/blog/2022/11/01/data-infrastructure-with-robert-groves/)
@@ -70,11 +73,18 @@ November 18, 2022
 * [Berkeley Library: Health Statistics & Data: National & Int'l Statistics](https://guides.lib.berkeley.edu/publichealth/healthstatistics)
 * [Medicare Data Linkages for Conducting Patient-Centered Outcomes Research on Economic Outcomes](https://aspe.hhs.gov/reports/medicare-data-linkages-conducting-pcor)
 * [AHA Annual Survey Database](https://www.ahadata.com/aha-annual-survey-database)
+* [NCHS Public Use Files and Documaentation](https://www.cdc.gov/nchs/data_access/ftp_data.htm)
+  * [NCHA Data Linkage Activities](https://www.cdc.gov/nchs/data-linkage/index.htm)
+  * [NCHS Vital Statistics Online Data Portal](https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm)
+* [National Center for Health Statistics Mortality Data on CDC WONDER](https://wonder.cdc.gov/mcd.html)
+* [ICPSR at UMich - Find Data](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html)
+* [ResearchDataGov](https://www.researchdatagov.org/)
+* [World Health Statistics](https://www.who.int/data/gho/publications/world-health-statistics)
 
 ## Nutrition & Health
 
 * [Nutrition Research Funding Trends and Focus Areas at the US National Cancer Institute | JNCI Cancer Spectrum | Oxford Academic](https://academic.oup.com/jncics/article/6/5/pkac064/6680239)
-* [Nutrition in Cancer Care (PDQ®)–Patient Version - NCI](https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq)
+* [Nutrition in Cancer Care (PDQ)–Patient Version - NCI](https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-pdq)
 * [Dietary Assessment | EGRP/DCCPS/NCI/NIH](https://epi.grants.cancer.gov/dietary-assessment/)
 * [Validation of the MSM and NCI Method for Estimating the Usual Intake of Nutrients and Food According to Four Seasons of Seven Consecutive Daily 24 Hour Dietary Recalls in Chinese Adults - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8838361/)
 * [Comparing Methods from the National Cancer Institute vs Multiple Source Method for Estimating Usual Intake of Nutrients in the Hispanic Community Health Study/Study of Latino Youth - Journal of the Academy of Nutrition and Dietetics](https://www.jandonline.org/article/S2212-2672(20)30284-7/fulltext)
@@ -82,7 +92,7 @@ November 18, 2022
 ## Obermeyer
 
 * [Ziad Obermeyer | Health Care Policy](https://hcp.hms.harvard.edu/people/ziad-obermeyer)
-* [‪Ziad Obermeyer‬ - ‪Google Scholar‬](https://scholar.google.com/citations?hl=en&user=d--zW38AAAAJ&view_op=list_works&sortby=pubdate)
+* [Ziad Obermeyer - Google Scholar](https://scholar.google.com/citations?hl=en&user=d--zW38AAAAJ&view_op=list_works&sortby=pubdate)
 * [Economics of Artificial Intelligence Conference, Fall 2022 | NBER](https://www.nber.org/conferences/economics-artificial-intelligence-conference-fall-2022)
 * [Solving medicine’s data bottleneck: Nightingale Open Science | Nature Medicine](https://www.nature.com/articles/s41591-022-01804-4)
 * [w26168.pdf](https://www.nber.org/system/files/working_papers/w26168/w26168.pdf)
