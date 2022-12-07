@@ -22,6 +22,13 @@ November 18, 2022
 * [An Audit of 9 Algorithms used by the Dutch Government](https://english.rekenkamer.nl/publications/reports/2022/05/18/an-audit-of-9-algorithms-used-by-the-dutch-government)
 * [Human Centered Data Science Lab - UW](http://depts.washington.edu/hdsl/research/)
   * [Cecilia Aragon](https://faculty.washington.edu/aragon/)
+* [How is artificial intelligence used in medicine? - IBM](https://www.ibm.com/topics/artificial-intelligence-medicine)
+* [AAAI 2021 Workshop: Trustworthy AI for Healthcare](https://taih20.github.io/index.html)
+  * Organizer: [Byron Wallace - Northeastern](https://www.byronwallace.com/)
+  * IBM Paper/Poster [Bias in Clinical Risk Prediction Models: Challenges in Application to
+Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera_AAAI2020_Fairness_OUD.pdf)
+* [Healthcare & Life Sciences - IBM Research](https://research.ibm.com/topics/healthcare-and-life-sciences)
+* [Why now is the time to accelerate discoveries in health care](https://research.ibm.com/blog/accelerating-discovery-health-care)
 
 ## Healh Policy & Analysis
 
@@ -80,6 +87,9 @@ November 18, 2022
 * [ICPSR at UMich - Find Data](https://www.icpsr.umich.edu/web/pages/ICPSR/index.html)
 * [ResearchDataGov](https://www.researchdatagov.org/)
 * [World Health Statistics](https://www.who.int/data/gho/publications/world-health-statistics)
+* [Medicaid 101- MACPAC](https://www.macpac.gov/medicaid-101/)
+* [ResDAC - CMS Research Data Assistance Center](https://resdac.org/)
+* [**Medicaid & CHIP Scorecard**](https://www.medicaid.gov/state-overviews/scorecard/index.html)
 
 ## Nutrition & Health
 
@@ -111,3 +121,18 @@ November 18, 2022
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 * [Gustav Sir - Towards Deep Learning for Relational Databases](https://medium.com/towards-data-science/towards-deep-learning-for-relational-databases-de9adce5bb00)
   * [PyNeuraLogic lets you use Python to create Differentiable Logic Programs](https://pyneuralogic.readthedocs.io/en/latest/index.html)
+* [Causal Inference 360 Open Source Toolkit](https://ci360.mybluemix.net)
+  * [An Evaluation Toolkit to Guide Model Selection and Cohort Definition in Causal Inference](https://arxiv.org/abs/1906.00442)
+  * [Machine learning: From “best guess” to best data-based decisions](https://research.ibm.com/blog/causal-360-toolkit)
+* [Generative Toolkit for Scientific Discovery](https://gt4sd.github.io/gt4sd-core/)
+  * [What are generative AI models? - IBM Research](https://research.ibm.com/blog/generative-models-toolkit-for-scientific-discovery)
+
+## Fraud, Waste & Abuse
+
+* [SAS WHitepaper - Fighting the Rising Tide of Medicaid Fraud](https://www.sas.com/en/whitepapers/iia-fighting-rising-tide-medicaid-fraud-113056.html)
+* [NHCAA Webinar](https://www.nhcaa.org/events/keeping-fraud-honest-analytics-bias-in-fraud-waste-and-abuse-and-special-investigations-units/)
+  * John Maynard
+  * Tom Wriggins
+* [HHS Office of the Inspector General](https://oig.hhs.gov/)
+  * [Health Care Fruad & Abuse Control Program FY 2021 (pdf)](https://oig.hhs.gov/publications/docs/hcfac/FY2021-hcfac.pdf)
+  * [OIG's Top Unimplemented Recommendations 2021 (pdf)](https://oig.hhs.gov/reports-and-publications/compendium/index.asp)
