@@ -29,6 +29,11 @@ November 18, 2022
 Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera_AAAI2020_Fairness_OUD.pdf)
 * [Healthcare & Life Sciences - IBM Research](https://research.ibm.com/topics/healthcare-and-life-sciences)
 * [Why now is the time to accelerate discoveries in health care](https://research.ibm.com/blog/accelerating-discovery-health-care)
+* [Bias detection and mitigation in IBM AutoAI by: Lukasz Cmielowski, PhD (IBM)](https://lukasz-cmielowski.medium.com/bias-detection-and-mitigation-in-ibm-autoai-406db0e19181)
+* [IBM IBV - AI Ethics in Action](https://www.ibm.com/thought-leadership/institute-business-value/report/ai-ethics-in-action)
+* [Institute for Human-Centered Artificial Intelligence, Stanford University](https://hai.stanford.edu/)
+* [Designing Accountable Health Care Algorithms: Lessons from Covid-19 Contact Tracing - NEJM](https://catalyst.nejm.org/doi/10.1056/CAT.21.0382)
+* [Combining explainable machine learning, demographic and multi-omic data to inform precision medicine strategies for IBD](https://research.ibm.com/publications/combining-explainable-machine-learning-demographic-and-multi-omic-data-to-inform-precision-medicine-strategies-for-inflammatory-bowel-disease)
 
 ## Healh Policy & Analysis
 
@@ -53,6 +58,9 @@ Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera
 * [Public Health Data Improvement | The Pew Charitable Trusts](https://www.pewtrusts.org/en/projects/public-health-data-improvement)
 * [Public Health Infrastructure Workgroup - Healthy People 2030 | health.gov](https://health.gov/healthypeople/about/workgroups/public-health-infrastructure-workgroup)
 * [Building Data Capacity for Patient-Centered Outcomes Research](https://www.nationalacademies.org/our-work/building-data-capacity-for-patient-centered-outcomes-research-an-agenda-for-2021-to-2030)
+* [IBM’s Uncertainty Quantification 360 toolkit boosts trust in AI](https://research.ibm.com/blog/uncertainty-quantification-360)
+* [Michael Hind - IBM Research](https://researcher.ibm.com/researcher/view.php?person=us-hindm)
+* [David Piorkowski - IBM Research](https://research.ibm.com/people/david-piorkowski)
 
 ## Healthcare & Related Data
 
@@ -126,6 +134,15 @@ Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera
   * [Machine learning: From “best guess” to best data-based decisions](https://research.ibm.com/blog/causal-360-toolkit)
 * [Generative Toolkit for Scientific Discovery](https://gt4sd.github.io/gt4sd-core/)
   * [What are generative AI models? - IBM Research](https://research.ibm.com/blog/generative-models-toolkit-for-scientific-discovery)
+* [The ibm-watson-machine-learning (V4) library](http://ibm-wml-api-pyclient.mybluemix.net/)
+  * [IBM Watson AutoAI on Microsoft Machine Learning](https://lukasz-cmielowski.medium.com/ibm-watson-autoai-and-microsoft-azure-machine-learning-can-that-work-d27d71bb9d06)
+* [Large Tabular Data & AutoAI](https://lukasz-cmielowski.medium.com/large-tabular-data-autoai-6876184449dc)
+* [IBM Watson Machine Learning Samples / AutoAI](https://github.com/IBM/watson-machine-learning-samples/tree/master/cloud/notebooks/python_sdk/experiments/autoai)
+* [IBM Research - Snap Maching Learning](https://www.zurich.ibm.com/snapml/)
+* [Call for Code: Weather Company 2022](https://developer.ibm.com/blogs/call-for-code-the-weather-company-and-you/)
+  * [IBM Developer - Weather Company APIs](https://developer.ibm.com/components/weather-company/apis/)
+  * [National Weather Service - Data API](https://www.weather.gov/documentation/services-web-api)
+* [Uncertainty Quantification 360 - IBM Research](https://uq360.mybluemix.net/)
 
 ## Fraud, Waste & Abuse
 
