@@ -99,6 +99,19 @@ Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera
 * [ResDAC - CMS Research Data Assistance Center](https://resdac.org/)
 * [**Medicaid & CHIP Scorecard**](https://www.medicaid.gov/state-overviews/scorecard/index.html)
 
+## FHIR
+
+* open-source implementation by Lee S. [**Linux for Health**](https://linuxforhealth.github.io/docs/index.html)
+* <https://chat.fhir.org>
+* [CMS “Blue Button”](http://hl7.org/fhir/us/carin-bb/)
+* Talk: FHIR from Jupyter
+  * repo: <https://github.com/Alvearie/FHIR-from-Jupyter>
+  * recording: <https://www.youtube.com/watch?v=CZe48jUzNY0>
+  * Talk from FHIR DevDays w/ GiGi Yuen-Reed
+* Implementation Guides related to provider directories:
+  * [Validated Provider - older?](http://build.fhir.org/ig/HL7/VhDir/)
+  * [DaVinci PDEX Plan Net - more current](https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/)
+
 ## Nutrition & Health
 
 * [Nutrition Research Funding Trends and Focus Areas at the US National Cancer Institute | JNCI Cancer Spectrum | Oxford Academic](https://academic.oup.com/jncics/article/6/5/pkac064/6680239)
