@@ -61,6 +61,12 @@ Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera
 * [IBM’s Uncertainty Quantification 360 toolkit boosts trust in AI](https://research.ibm.com/blog/uncertainty-quantification-360)
 * [Michael Hind - IBM Research](https://researcher.ibm.com/researcher/view.php?person=us-hindm)
 * [David Piorkowski - IBM Research](https://research.ibm.com/people/david-piorkowski)
+* [National Health Expenditure Data - CMS](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData)
+  * [CMS Office of the Actuary NHE Projections](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsProjected)
+  * [Projections Methodology (PDF)](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/Downloads/ProjectionsMethodology.pdf)
+* [RWJF - Health Systems](https://www.rwjf.org/en/our-focus-areas/focus-areas/health-systems.html)
+  * [Healthcare Quality and Value](https://www.rwjf.org/en/our-focus-areas/topics/health-care-quality-and-value.html)
+  * [Healthcare Coverage and Access](https://www.rwjf.org/en/our-focus-areas/topics/health-care-coverage-and-access.html)
 
 ## Healthcare & Related Data
 
