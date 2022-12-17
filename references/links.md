@@ -67,6 +67,13 @@ Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera
 * [RWJF - Health Systems](https://www.rwjf.org/en/our-focus-areas/focus-areas/health-systems.html)
   * [Healthcare Quality and Value](https://www.rwjf.org/en/our-focus-areas/topics/health-care-quality-and-value.html)
   * [Healthcare Coverage and Access](https://www.rwjf.org/en/our-focus-areas/topics/health-care-coverage-and-access.html)
+* [Health IT Buzz - Blog Series: Artificial Intelligence & Machine Learning](https://www.healthit.gov/buzz-blog/category/blog-series-artificial-intelligence-machine-learning)
+  * Author: Kathryn Marchesini, ONC
+  * [Getting the Best out of Algorithms in Health Care](https://www.healthit.gov/buzz-blog/electronic-health-and-medical-records/getting-the-best-out-of-algorithms-in-health-care)
+  * [Minimizing Risks and Maximizing Rewards from Machine Learning](https://www.healthit.gov/buzz-blog/health-data/minimizing-risks-and-maximizing-rewards-from-machine-learning)
+  * [Two Sides of the AI/ML Coin in Health Care](https://www.healthit.gov/buzz-blog/blog-series-artificial-intelligence-machine-learning/ai-ml-in-health-care)
+  * [Back to the Future: What Predictive Decision Support Can Learn from DeLoreans and The Big Short](https://www.healthit.gov/buzz-blog/health-innovation/back-to-the-future-what-predictive-decision-support-can-learn-from-deloreans-and-the-big-short)
+  * TBD
 
 ## Healthcare & Related Data
 
@@ -104,6 +111,7 @@ Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera
 * [Medicaid 101- MACPAC](https://www.macpac.gov/medicaid-101/)
 * [ResDAC - CMS Research Data Assistance Center](https://resdac.org/)
 * [**Medicaid & CHIP Scorecard**](https://www.medicaid.gov/state-overviews/scorecard/index.html)
+* [CMS Center for Program Integrity](https://www.cms.gov/About-CMS/Components/CPI)
 
 ## FHIR
 
@@ -162,6 +170,7 @@ Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera
   * [IBM Developer - Weather Company APIs](https://developer.ibm.com/components/weather-company/apis/)
   * [National Weather Service - Data API](https://www.weather.gov/documentation/services-web-api)
 * [Uncertainty Quantification 360 - IBM Research](https://uq360.mybluemix.net/)
+* [Statistical Rethinking 2023 (course and resources)](https://github.com/rmcelreath/stat_rethinking_2023)
 
 ## Fraud, Waste & Abuse
 
