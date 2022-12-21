@@ -1,0 +1,1684 @@
+ 
+ 
+INTRODUCTION 
+Advancing Regulatory Science and Innovation 
+This Broad Agency Announcement (BAA), which sets forth research areas of interest for Food and Drug 
+Administration, is issued under the Federal Acquisition Regulation (FAR) part 35.016(c). The purpose of this 
+BAA is to provide a mechanism by which FDA can utilize industry and academia’s capabilities to advance 
+the state of the art and achieve improvements in technology, materials, processes, methods, devices, or 
+techniques in specific topics as described in this document. Proposals selected for award are the result of full 
+and open competition and in full compliance with the provision of Public Law 98-369, "The Competition  in 
+Contracting Act of 1984" and subsequent amendments. 
+The FDA protects and promotes the health and safety of all Americans through enhancing the availability of 
+safe medical products and foods and promoting innovation that addresses unmet medical and public health 
+needs. FDA also protects and promotes the health and safety of animals through assuring the availability of 
+safe animal drug products and food. Since 2009, FDA has worked to reduce the harm from all regulated 
+tobacco products. FDA is a science- based regulatory agency and a critical component to the success of the 
+nation’s public health, health care systems, and economy. FDA was created in 1906 as one of our nation’s 
+principal consumer product protection agencies and is now responsible for assuring the safety of all FDA 
+regulated products. 
+In the US, FDA-regulated products account for about 20 cents of every dollar spent by American consumers 
+each year on products that touch the lives of every American daily. FDA is responsible for advancing the 
+public health by helping to speed innovations that make foods safer and make medicines, biologics, and 
+devices safer and more effective. At the same time, FDA helps consumers and health care providers get the 
+accurate and science-based information they need to make the best possible decisions about their use of 
+medical products and foods. FDA is working to protect Americans from tobacco-related death and disease. 
+FDA must make decisions based on the best available scientific data and using the best tools and methods 
+available to ensure products meet the highest quality standards for consumers, while at the same time 
+fostering and advancing innovation in the products it regulates. 
+The core responsibility of FDA is to protect consumers by applying the best possible science to 
+its regulatory activities, ranging from pre-market review of efficacy and safety of many of its regulated 
+products to post-market product surveillance, review of product quality, regulation of product manufacture, 
+and distribution and marketing of tobacco products. In the last few years, rapid advances in innovative 
+science have provided new technologies to discover, manufacture, and assess novel medical products. In 
+order to improve food safety and quality, FDA must keep pace with and utilize these new scientific advances 
+to accomplish its mission to protect and promote the health of our nation. 
+The BAA is open to all responsible sources. Offerors may include single entities or teams from private sector 
+organizations, Federally Funded Research and Development Centers (FFRDCs), and academic institutions. 
+Non-U.S. organizations and/or individuals may participate to the extent that such participants comply with 
+any necessary nondisclosure agreements, security regulations, export control laws, and other governing 
+statutes applicable under the circumstances. 
+Federally Funded Research and Development Centers (FFRDCs) and Government entities (e.g., 
+Government/National laboratories, military educational institutions) are subject to applicable direct 
+competition limitations and cannot propose to this BAA in any capacity unless they meet the following 
+conditions: 
+1.  Clearly demonstrate that the proposed work is not otherwise available from the private sector. 
+4 
+  
+2.  Provide a letter on official letterhead from their sponsoring organization citing the specific authority 
+establishing their eligibility to propose to Government solicitations and compete with industry, and 
+their compliance with the associated sponsoring agreement and terms and conditions. 
+Historically Black Colleges and Universities (HBCU), Minority Institutions (MI), Small Business concerns, 
+Small Disadvantaged Business concerns, Women-Owned Small Business concerns, Veteran-Owned Small 
+Business concerns, Service-Disabled Veteran-Owned Small Business concerns, and HUB Zone Small 
+Business concerns are encouraged to submit proposals and to join other entities as team members in 
+submitting proposals. 
+The purpose of this BAA is to solicit proposals that focus on one or more of the following areas of interest as 
+listed below and further described in Part I of this announcement. 
+Research Areas of Interest: 
+I.  Modernize development and evaluation of FDA-regulated products  
+A.  Alternative Methods 
+B.  Advanced Manufacturing Approaches   
+C.  Analytical and Computational Methods 
+D.  Biomarkers 
+E.  Clinical Outcome Assessment 
+F.  Complex and Novel Clinical Trial Design 
+G.  Predictive Toxicology 
+H.  Methods for Assessing Behavioral, Economic, or Human Factors  
+I.  Approaches to Incorporate Patient and Consumer Input 
+J.  Methods to Assess Real-World Data to serve as Real-World Evidence 
+K.  Methods to Assess Data Source Interoperability 
+ 
+II.  Strengthen post-market surveillance and labeling of FDA-regulated products  
+A.  Methods to Assess Real-World Data to Support Regulatory Decision-Making 
+B.  Using and Validating Artificial Intelligence Approaches 
+C.  Novel Clinical Trial Design, Statistical and Epidemiologic Methods   
+D.  Automated Reporting Tools for Adverse Events and Active Surveillance 
+E.  Methods to Improve Communication About Risk to Patients and Consumers  
+F.  Approach to Expand Data Capacity, and Increase Data Quality and Use     
+G.  Efforts to Harmonize Existing and Emerging Data Standards 
+ 
+III.  Invigorate public health preparedness and response of the FDA, patients, and consumers 
+A.  Reinforce Medical countermeasures Initiative (MCMi) 
+B.  Antimicrobial Resistance 
+C.  Patient and Consumer Engagement 
+D.  Substance Use and Misuse 
+E.  One Health Approaches 
+F.  Global Product Safety net 
+Multiple awards are anticipated. The amount of resources made available for individual contract awards 
+under this BAA will depend on the quality of the proposals received and the availability of funds. All funding 
+is subject to government discretion and availability.  
+The Government reserves the right to select for negotiation all, some, one, or none of the proposals received 
+5 
+  
+in response to this solicitation, and to make awards without discussions with proposers. The Government 
+also reserves the right to conduct discussions if it is later determined to be necessary. If warranted, portions 
+of resulting awards may be segregated into pre-priced/severable options. Additionally, FDA reserves the 
+right to accept proposals in their entirety or to select only portions of proposals for award. In the event FDA 
+desires to award only portions of a proposal, negotiations may be opened with that proposer. The 
+Government reserves the right to fund proposals in phases with options for continued work at the end of one 
+or more of the phases.  
+To be eligible for award, a prospective recipient must meet certain minimum standards pertaining to financial 
+resources, ability to comply with the performance schedule, prior record of performance, integrity, 
+organization, experience, operational controls, technical controls, technical skills, facilities, and equipment.  
+This BAA is available on www.beta.sam.gov using Keyword Search “FDABAA-23-00123.” 
+This BAA is a continuously open announcement valid throughout the period from the date of issuance 
+through the closing date specified in the www.beta.sam.gov announcement. Amendments to this BAA, if 
+necessary, will be posted in the same site when they occur. Interested parties are encouraged to periodically 
+check the website for updates and amendments. 
+Please note, beginning this fiscal year, the FDA will be giving preference to proposals that use a cost 
+reimbursement model vice a firm fixed price model. Research, by definition, does not always produce a 
+deliverable, whether due to the nature of the research or the results of the research. By proposing a 
+severable, cost reimbursable contract, risk is reduced to both the government and the awardee. In the future, 
+the FDA may move to only utilizing a cost type model for this BAA award.  
+Requirements for cost contracts can be found in the list of clauses in attachment 5. Please note, the contract 
+requirements differ between commercial and educational entities. It is HIGHLY recommended that all 
+potential proposal submitters review Part 31 - Contract Cost Principles and Procedures: 
+ 31.103 Contracts with commercial organizations. 
+      3 1.104 Contracts with educational institutions. 
+Part I: Research Areas of Interest 
+Through this BAA, FDA seeks to support advanced research and development strategies with potential for 
+regulatory application in the following research areas of interest. This section presents the technical 
+objectives that FDA seeks to achieve through this BAA. Because resources are limited, preference will be 
+given to projects geared toward advancing regulatory science, the science of developing new tools, 
+standards, and approaches to assess the safety, efficacy, quality, and performance of FDA-regulated 
+products, which include medical devices, drugs, biologics, combination products, veterinary medicine, food, 
+cosmetics, dietary supplements and tobacco products. 
+In addition to the product areas that FDA regulates, FDA aims to target innovation in regulatory science that 
+advances the health of the following demographic groups and populations, some of which have clinical 
+characteristics that may frequently preclude their participation in clinical research or bear disproportionate 
+burden of tobacco product risk and harm: racial & ethnic minorities, women’s health, persons with cancer 
+and persons with rare diseases (including rare cancers). 
+Offerors should propose a Statement of Work (SOW) that is consistent with research and development work 
+as defined in FAR 35.001. Proposal preparation and submission instructions are contained in Part III. 
+6 
+  
+Through collaborative interactions with stakeholders, we aim to foster robust and innovative approaches to 
+advance regulatory science through the following framework.   
+Additional information regarding specific FDA initiatives, and/or center and office priorities can be found in 
+the appendix. 
+ 
+REGULATORY SCIENCE FRAMEWORK – OVERVIEW 
+The goal of this framework is to harness regulatory science research to accomplish the following three 
+charges that directly align with FDA’s mission, to: 
+I.  Modernize development and evaluation of FDA-regulated products  
+II. Strengthen post-market surveillance and labeling of FDA-regulated products  
+III. Invigorate public health preparedness and response of the FDA, patients, and consumers  
+These three charges are foundational to FDA’s mission, and thus are not expected to change.  We have 
+designated areas to target regulatory science efforts that support the FDA’s mission for each charge.  The 
+areas of regulatory science are designed to change with the evolution of science, technologies, and public 
+health needs.  Moreover, each area has been designated under a specific charge, and where possible, 
+specific product areas and/or demographics and populations have been labeled.  When multiple product 
+areas and/or demographics and populations have been identified for a given regulatory science area, we use 
+the term cross-cutting in place of the specific product area and/or demographic or population. Lastly, 
+please see Table 1, which highlights the topic areas that are priorities for FDA for FY 23. 
+7 
+  
+FDA-Regulated  Demographics 
+Areas & Populations
+y
+rit
+o
+n
+Anticipated FY23 Funding for  ne Mi
+BAA Projects edici ducts hnic  alth s
+Biologics Devices Drugs Veterinary M Tobacco Pro Racial and Et Women's He Rare Disease Oncology
+I.  Modernize development and evaluation of FDA-regulated products
+A. Alternative Methods X X X X X X X X
+B.Advanced Manufacturing Approaches  (includes MCMi) X X X X
+C. Analytical and Computational Methods X X X X X X X X
+D. Biomarkers X X X X X X
+E. Clinical Outcome Assessment X X X X
+F. Complex and Novel Clinical Trial Design X X X X X X X
+G. Predictive Toxicology X X X X
+H. Methods for Assessing Behavioral, Economic, or Human Factors  X
+I. Approaches to Incorporate Patient and Consumer Input X X X
+J. Methods to Assess Real-World Data to serve as Real-World Evidence X X X X X X
+K. Methods to Assess Data Source Interoperability X
+II.  Strengthen post-market surveillance and labeling of regulated products
+A. Methods to Assess Real-World Data to Support Regulatory Decision-Making X X X X X
+B. Using and Validating Artificial Intelligence Approaches X X X X X
+C. Novel Clinical Trial Design, Statistical and Epidemiologic Methods   X X X
+D. Automated Reporting Tools for Adverse Events and Active Surveillance X X X X X
+E. Methods to Improve Communication About Risk to Patients and Consumers  X X X
+F. Approach to Expand Data Capacity, and Increase Data Quality and Use     X X
+G. Efforts to Harmonize Existing and Emerging Data Standards  X X X
+III.  Invigorate public health preparedness and response of the FDA, patients, and consumers
+A. Reinforce Medical Countermeasures Initiative (MCMi) X X X X X X
+B. Antimicrobial Resistance X
+C. Patient and Consumer Engagement X X X X
+D. Substance Use and Misuse X X X
+E. One Health Approaches X X X X X X X X X
+F. Global Product Safety net X X X  
+Table 1:  Areas of regulatory science for each charge (rows), and relevant applicable to product 
+areas, and demographics & populations (columns).  The “x” marks priority areas for FDA in FY 23. 
+I. Modernize development and evaluation of FDA-regulated products  
+ 
+The following focus areas of regulatory science are identified to accomplish Charge I, modernize development 
+and evaluation of FDA-regulated products:  
+ 
+A.  Alternative Methods  
+Examples: Novel in-vitro, in-vivo, and in-silico methods; Microphysiological System; Organ-on-a-chip; 
+Use of alternative assays 
+ 
+1.  Cross-cutting  
+a.  Integrate an understanding of product quality and safety based on novel genomic, 
+proteomic, metabolomic, and other-omic technologies.   
+8 
+  
+b.  Develop and use microphysiological systems and computational modeling approaches to 
+improve predictivity of nonclinical testing and potentially address the 3Rs (replace, reduce, and 
+refine) of animal use in product testing and scientific research.  
+2.  Devices  
+a.  Develop new methods for biocompatibility testing approaches to research and 
+characterize biological response to extracts of medical devices (e.g., in vitro alternatives) and 
+particulates in line with 21st Century Cures Least Burdensome measures and the reduction in 
+the use of animals. 
+b.  Evaluate the application and validation of modeling and simulation data as digital evidence 
+throughout the total product life cycle to augment and/or replace physical product testing. 
+c. Develop and validate methods to create digital twins (i.e., highly complex models using artificial 
+intelligence and large amounts of digital and physical data to create simulations of new 
+treatments and personalized innovative devices). 
+3.  Tobacco: 
+a.  Evaluate and promote the use of cell- and tissue-based assays that more accurately 
+represent human susceptibility than animal models to adverse reactions (e.g., differentiated 
+primary lung cells grown at an air liquid interface or lung-on-a-chip and microphysiological 
+systems model); 
+i.  Predict threshold of toxicological concerns resulting from exposure to Electronic 
+Nicotine Delivery Systems (ENDS) aerosols and other new and emerging tobacco 
+products or their constituents. 
+ii.  Predict levels of tobacco-related toxicants resulting from exposure to ENDS aerosols 
+and other new and emerging tobacco products or their constituents that induce in vitro 
+responses to in vivo exposure levels that could result in human or animal adverse 
+effects. 
+4.  Women’s Health: 
+a.  Develop alternative methods in support of development of diagnostics and therapeutics 
+targeting women, including, but not limited to:  
+i.  methods to evaluate innovative, new devices and diagnostics specifically designed for use 
+in women. 
+ii.   methods to enhance the evaluation of devices used in both men and women to take into 
+consideration sex differences like organ size/anatomy/ physiology/human factors 
+differences that may affect device performance.  
+iii.  Foster development methods to evaluate sex-matched devices and companion 
+diagnostics. 
+b.   Methods to evaluate FDA regulated-product safety and effectiveness during pregnancy and 
+lactation. 
+5.  Rare diseases:  
+a.  Develop new alternate methods (microphysiological systems and Complex in vitro 
+Methods) to support regulatory submissions demonstrating efficacy and safety assessment of 
+drugs for rare diseases. 
+B.  Advanced Manufacturing Approaches   
+Examples: New medical product manufacturing technologies and processes that can improve quality of 
+FDA regulated products, address shortages of medicines, and/or speed time-to-market; Technologies 
+may include Continuous, Additive and Smart manufacturing 
+  
+1.  Cross-cutting:  
+a.  Facilitate development and evaluation of: 
+i.  automated or semi-automated in-process monitoring and control systems and 
+methods. 
+9 
+  
+ii.  test and validation metrics for advanced manufacturing processes including additive 
+manufacturing, integration and intensification of process unit operations, adaptive 
+processes, and automation of operations. 
+iii.  new ways to evaluate gene and cell therapy products and their manufacturing 
+methods develop in this period of face-paced scientific progress. 
+iv.  how implementation of digital technologies in product design, development, and life 
+cycle risk management impacts the control, responsiveness, and product quality. 
+b.  Investigate the effect of advanced manufacturing on product quality. Examine specific novel 
+material and manufacturing technologies to determine how they impact product failure rates; 
+i.  Research focuses on technologies and materials that result in manufacturing technology, 
+tools, or approaches that enhance control of critical quality attributes for drug substances 
+or products. 
+ii.  Improve manufacturing capabilities for devices, complex drugs, and biologics. 
+c.  Investigate the effects in supply chain of implementing advanced manufacturing for specific 
+types of medical products, especially such as biologics, vaccines and medical devices. 
+Topics may include: 
+i.  Supply chain resilience to disruption 
+ii.  Increased access, 
+iii.  Personalization, 
+iv.  Decreased reliance on foreign supply chains. 
+d.  Develop improved methods and tools to detect and measure the physical structure, chemical 
+properties, and biological behavior of engineered nanomaterials, additively manufactured 
+pharmaceuticals (pharmacoprinted products), biological products (e.g., therapeutic proteins 
+or monoclonal antibodies) and complex dosage forms (e.g., transdermal patches, inhalation 
+delivery systems, and targeted drug delivery systems) in FDA-regulated products. 
+e.  Investigate or develop methods to increase implementation and adoption advanced 
+manufacturing methods in critical areas that impact production of vaccines, diagnostics, 
+critical medicines and devices, and potential shortage products. 
+2.  Drugs:  
+a.  Develop improved methods and tools for the validation and lifecycle maintenance of digital 
+technologies for Industry 4.0 for pharmaceutical manufacturing including data capture and 
+storage, adaptive process control, digital twins, and internet of things. 
+b.  Develop improved methods for the manufacturing of sterile drug products including rapid 
+monitoring for the detection of microbial contamination. 
+3.  Biologics:  
+a.  Explore novel applications of advanced (e.g., integrated and continuous) manufacturing 
+processes for complex biologic products, such as vaccines, tissue-engineered products, and 
+cell and gene therapies.  Describe the potential impact of the proposed enabling technology 
+on process control strategy and its readiness for broad implementation in the 
+biopharmaceutical industry. Quantify the improvement metric for implementation of advanced 
+manufacturing processes at a commercial scale as compared to traditional batch production 
+or small-scale pilot production, if relevant. Topics may include but are not limited to:  
+i.  Closed and automated manufacturing processes,  
+ii.  Modular manufacturing platforms with integrated in-process testing capabilities,  
+iii.  Manufacturing process modeling and simulation,  
+iv.  Advanced or novel process analytical technologies for real time process control 
+and release, 
+v.  Improved cell lines and improved upstream cell culture production processes for 
+vaccine antigen or viral vector manufacturing. 
+b.  Develop new approaches such as in vitro and in vivo methods to identify measurable 
+characteristics of product safety, quality, and potency when evaluating new biotherapeutics 
+10 
+  
+(e.g., engineered tissues or cell therapy products, including stem cell- derived products), for 
+clinical application in regenerative medicine; 
+i.  Identification of critical quality attributes (CQAs) and development of advanced assays for 
+characterization of CQAs in products for gene and cell therapies, 
+ii.  Development of reference materials and standards for gene and cell therapies. 
+4.  Devices:  
+a.  Develop novel materials intended for use as materials of construction or manufacturing aids 
+for medical devices; 
+i.  Advance the development of novel materials for manufacturing of respirators and 
+other personal protective equipment including the development of integrated 
+virocidal or other infection control blocking capabilities. 
+b.  Develop standardized methods for devices to dynamically update their data dictionary and 
+related embedded software to respond to new data needs, such as those driven by public 
+health response to emerging threats 
+5.  Medical Countermeasure Initiative (MCMi): 
+a.  Refine or enhance existing technologies to improve the sensitivity, specificity, and 
+robustness of testing methods used to measure medical countermeasure (MCM) potency, in-
+process characteristics, and final drug substance characteristics (for example, in-line sensors 
+process analytical technologies). 
+b.   Advance broadly applicable, commercially ready (pilot ready or commercially 
+implementable: MRL 4-6 and 7-9 respectively) tools, technologies, and platforms that 
+improve manufacturing efficiency, consistency, quality, and speed of medical 
+countermeasures (MCMs) to bolster the MCM supply chain; for example, “plug-and-play” 
+modular unit operations applicable for downstream processing, or continuous manufacturing.  
+6.  Neo-antigen-based therapies, Oncology 
+a.  Create novel technologies and approaches to evaluate both efficacy and safety for 
+neoantigen-based therapies that incorporate unique features of individual cancers, 
+neoantigen and immune responses. Examples may include neoantigen-based vaccines, 
+redirecting T-cell specificity by genetically modifying T cells with receptors specific against 
+neoantigen-derived epitopes. 
+7.  Pediatric Oncology:  
+a.  Development of immune based therapies (engineered immune effector cells or bifunctional 
+activators) that recognize tumor specific altered glycan epitopes (glycolipids or glycoproteins) 
+that NK and T-cells do not generally recognize. 
+ 
+C.  Analytical and Computational Methods   
+Examples: Develop and use of computational methods and in-silico modeling; Simulation-based 
+approaches; Advanced quantitative methods-based modeling; Predictive modeling, Model-
+informed drug development  
+ 
+1.  Cross-cutting: 
+a.  Develop and evaluate the use of model-based digitally integrated systems, artificial 
+intelligence, machine learning and simulation in production or quality system activities. 
+Proposals may include but are not limited to: 
+ii.  Generative Design 
+iii.  Production simulation and simulated process validation,  
+iv.  AI/ML application to quality system activities, such as, complaint management, trending, 
+or others,  
+v.  Intelligent Design Control 
+vi.  Closed loop risk-management. 
+b.  Develop computer models of cells, organs, and systems (including the impact of hormones) 
+to predict product risk, safety and efficacy of 
+i.  FDA regulated products  
+11 
+  
+ii.  ingredients in dietary supplements, including potential interactions with drugs and other 
+dietary supplements. 
+c.  Develop computer models that integrate pharmacokinetic, pharmacodynamic, materials 
+science, or mechanistic safety data to predict clinical risk and corroborate post-market 
+findings in different patient populations. 
+d.   Develop and apply data mining, knowledge building, and data visualization tools to inform 
+computer model development, clinical risk prediction, and regulatory decision-making; 
+e.  Develop novel methods to display model output in both graphical and numeric formats; 
+f.  Explore the role of digital health technologies in the evaluation of new medical products; 
+g.  Identify opportunities and develop computer simulation and modeling to streamline data 
+analysis and model biological systems and their responses to agents of concern, such as 
+toxins, toxic compounds, pathogens, and biomaterials. 
+h.  Develop clinical trial simulation models that can reveal interactions between drug or device 
+effects, patient characteristics, and disease variables influencing outcomes. 
+2.  Biologics:  
+a.  Develop computational tools and models to predict immunogenicity for biologic products 
+including modified sequences for mitigation of immunogenicity risk. 
+3.  Devices:  
+a.  Develop computational modeling and simulation methods to promote the use of in-silico 
+assessment of devices and materials. 
+b.  Evaluate the use of computational modeling and simulation to improve or optimize device 
+sterilization processes. Explore validation requirements and methods to enable the use of the 
+modeling and simulation data as a valid source of digital evidence. 
+4.  Drugs:  
+a.  Improve the efficiency of Biosimilar product development 
+i.  Evaluate advancements in analytical (including physical, chemical and biological 
+function assays), and pharmacological assessments and experience with prior biosimilar 
+product development to identify opportunities to streamline biosimilar product 
+development. 
+ii.  Investigate and evaluate informative, scientifically appropriate methodologies to predict 
+immunogenicity by advancing the knowledge of analytical (including physical, chemical, 
+and biological function assays), pharmacological and clinical correlations as it relates to 
+biosimilarity. 
+b.  Develop Methods for Generics to Address Harmful Impurities such as Nitrosamines:  
+This research area focuses on understanding how ingredients in generic drug products may 
+either contribute to or mitigate the formation of harmful impurities such as nitrosamine 
+adducts such as nitrosamine drug substance related impurities (NDSRIs), evaluating the risk 
+of human exposure to these impurities, and developing methods for abbreviated new drug 
+application (ANDA) applicants to efficiently address the potential risks. For more information, 
+see the Generic Drug User Fee Amendments (GDUFA) science and research priority 
+initiatives for fiscal year (FY) 2023. 
+c.  Enhance the Efficiency of BE Approaches for Complex Active Ingredients:  
+This research area focuses on improving advanced orthogonal methods for the 
+characterization of chemical compositions, molecular structures, and distributions of complex 
+active ingredients that can elucidate attributes of complex active ingredients that may be 
+critical to their performance and, thereby, support the development of efficient 
+characterization-based BE approaches. For more information, see the GDUFA science and 
+research priority initiatives for FY 2023. 
+d.  Enhance the Efficiency of BE Approaches for Complex Dosage Forms and Formulations:  
+This research area focuses on improving efficient characterization-based (in vitro) BE 
+approaches for complex dosage forms by identifying relevant critical quality attributes 
+(CQAs) to characterize and suitable test methods for doing so. For more information, see the 
+12 
+  
+GDUFA science and research priority initiatives for FY 2023. 
+e.  Enhance the Efficiency of BE Approaches for Complex Routes of Delivery:  
+This research area focuses on understanding of how ingredients and other aspects of a 
+formulation influence drug absorption via complex routes of delivery, building in vivo 
+predictive models and identifying corresponding failure modes for BE, to support the 
+development of efficient BE approaches for these products. For more information, see the 
+GDUFA science and research priority initiatives for FY 2023. 
+f.  Enhance the Efficiency of BE Approaches for Complex Drug-Device Combination Products:  
+This research area focuses on evaluating the impact of identified differences in the user-
+interfaces, hardware, software or propellants between prospective generic and the reference 
+standard on the BE, therapeutic equivalence or post-marketing safety of generic drug-device 
+combination products. For more information, see the GDUFA science and research priority 
+initiatives for FY 2023. 
+g.  Improve the Efficiency of BE Approaches for Oral and Parenteral Generic Products:  
+This research area focuses on understanding of how ingredients in oral and parenteral drug 
+products may modulate bioavailability, and on improving biorelevant dissolution methods as 
+well as in silico models to support the expansion of biowaivers and to support global 
+harmonization. This includes developing evidence to support the feasibility of biowaivers for 
+immediate release (IR) oral drug products with differences in formulations larger than 
+currently recommended in FDA guidance, or for IR oral drug products that do not 
+demonstrate comparable dissolution profiles across strengths. It also includes establishing 
+approaches to manage potential risks related to subject safety more consistently when 
+developing clinical BE study recommendations and elucidating potential failure modes for BE 
+with special populations (e.g., pediatric or geriatric patients) to improve tools and 
+methodologies that can be incorporated into BE study recommendations which ensure the 
+equivalence of therapeutic outcomes in diverse populations. For more information, see the 
+GDUFA science and research priority initiatives for FY 2023. 
+h.  Facilitate the Utility of Model-Integrated Evidence (MIE) to Support Demonstrations of BE:  
+This research area focuses on developing tools and advancing approaches to integrate 
+complementary in silico (modeling), in vivo and in vitro evidence in ways that collectively 
+mitigate the risk of failure modes for BE and support a framework for virtual BE studies. For 
+example, while it may not be feasible to adequately characterize the long-term bioavailability 
+of drugs from LAI products using in vivo or in vitro methods alone, it may be feasible to 
+integrate limited in vivo and in vitro data with PBPK models that generate the remaining 
+evidence needed to support a demonstration of BE. This area includes research on the use 
+of MIE to evaluate failure modes for BE and to optimize the design of BE studies. For more 
+information, see the GDUFA science and research priority initiatives for FY 2023. 
+i.  Expand the Use of Artificial Intelligence (AI) and Machine Learning (ML) Tools:  
+This research area focuses on building systems and infrastructure that support the 
+functionality of AI/ML tools which FDA can use to improve the efficiency and consistency of 
+scientific assessments and advice. This includes using AI/ML tools such as natural language 
+processing (NLP) that automate the assembly of key information routinely assessed during 
+the development of recommendations in Product Specific Guidelines (PSGs), or during the 
+assessment of ANDAs, as well as AI/ML tools that facilitate planning and resource allocation 
+to support GDUFA commitments. For more information, see the GDUFA science and 
+research priority initiatives for FY 2023. 
+ 
+5.  Immuno-Oncology:  
+a.  Perform analyses of clinical data to develop a better understanding of the proportion of 
+patients with atypical response and/or resistance and explore the development of predictive 
+analytics related to ICI treatment and resistance; 
+6.  Neo-antigen-based therapies, Oncology:  
+13 
+  
+a.  Develop, optimize and standardize algorithms for neoantigen identification. These are 
+important to ensure the efficacy and safety of these products in the treatment of patients with 
+cancer. 
+7.  Precision Oncology:   
+a.  Develop novel selection/response biomarkers using algorithms combining different types of 
+medical images including radiology images (e.g., CT, PET) and/or histopathology images 
+combined with novel analysis approaches such radiomics and machine learning. 
+8.  Rare Cancers, Oncology: 
+a.  Investigations using text mining and artificial intelligence to analyze, assess and interpret the 
+scientific literature and other public databases of genomic and transcriptomic analyses in rare 
+cancers to identify drugs that have been used against molecular targets relevant in rare 
+cancers. 
+9.  Minority health:  
+a.  Examine the distinctive health characteristics and attributes of racial and/or ethnic minority 
+groups in the development of innovative health products, new materials, and novel 
+assessment tools and methodologies, including nanotechnology, precision medicine, 
+pharmacogenomics, novel imaging and diagnostic technologies, 3-D printing, stem cells and 
+regenerative medicine, and In- silico modeling. 
+10. Women’s health:  
+a.  Develop methods to evaluate sex differences in the safety and efficacy of FDA regulated 
+products. 
+b.   Develop novel tools to evaluate regulated-product toxicity or the safety and efficacy 
+during pregnancy and lactation. 
+11. Rare disease:  
+a.  Develop rare-disease clinical trial simulation models that can reveal interactions between drug 
+or device effects, patient characteristics, and disease variables influencing outcomes, with 
+attention to the challenges of small populations (e.g., pediatrics) and heterogeneity of patients 
+with rare conditions. 
+12. Tobacco:  
+a.  Develop innovative models for effectively extrapolating in vitro exposure levels that cause 
+toxicological response to in vivo adverse effects for the assessment of human health risk 
+resulting from exposure to ENDS and other new and emerging tobacco products or their 
+constituents. 
+b.  Understand the potential or actual impact of FDA regulatory actions. Priorities for impact 
+analysis include: behavioral economics experiments and modeling (e.g., population modeling, 
+agent-based modeling) studies to estimate the range of potential impacts on behavior and 
+health of potential FDA regulatory actions such as product standards addressing toxicity, 
+appeal, and addiction (e.g., prohibiting flavored cigars other than tobacco flavored, prohibiting 
+menthol as a characterizing flavor in cigarettes and cigars, lowering the nicotine content in 
+combustible cigarettes); and where appropriate to the research question, studies involving 
+populations with disproportionate burden of tobacco product risk and harm are encouraged. 
+c.  Develop new modeling approaches to assess the risk of new tobacco products (e.g., non-
+tobacco nicotine products) that will potentially enter the market by considering how such 
+products may affect users and non-users of the product based on factors including, but not 
+limited to exposure to toxicants, product characteristics and demographic attributes of the 
+users and usage patterns. 
+d.  Develop new modeling approaches to characterize exposures that reflect long-term non-
+continuous tobacco product inhalation exposures from use of new/novel tobacco products as 
+well as dual use with conventional cigarettes. Inhaled tobacco product exposure assessment 
+would ideally consider the following modeling parameters: 
+14 
+  
+i.  Concentration of chemicals in the smoke or aerosol, or in the tobacco product itself (e.g., 
+e-liquid, tobacco filler), 
+ii.  Puff topography (e.g., sessions per day, puffs per session, puff volume, inter-puff interval), 
+iii.  Tobacco product intake rate (e.g., volume of e-liquid used per day, cigarettes smoked per 
+day), 
+iv.  Exposure frequency (e.g., daily, one day per week, five days per month), 
+v.  Exposure duration – How long a person has been using the tobacco product of interest (in 
+years), 
+vi.  Averaging time – Lifespan for a given population, 
+vii.  Transitions between different tobacco products used in a lifetime, 
+viii.  Potential use of single or multiple tobacco products in the same timeframe (e.g., exclusive, 
+dual, or poly-use), 
+ix.  Transitions between tobacco use and no tobacco use in a lifetime, 
+x.  Potentially different effects of tobacco use earlier in life versus later in life. 
+D.  Biomarkers  
+Examples (includes imaging): Biomarker identification; Biomarker qualification; Biomarker evaluation, 
+Biomarker validation  
+ 
+1.  Cross-cutting:  
+a.  Advance methodologies for qualification of biomarkers and to support analytical and clinical 
+validation of biomarkers that can provide objective measures to replace or compliment 
+subjective classifications of disease diagnosis or progression. 
+b.  Advance biomarker and clinical tool validation to reduce disease heterogeneity in clinical 
+trials by refining clinical disease classification or inform reproducible patient stratification 
+based on risk factors in therapeutic areas with unmet need. 
+c.  Assess concordance between animal and human biomarkers of toxicity and determine how 
+the performance of these biomarkers and their interpretation may vary across different organ 
+systems and human populations. 
+d.  Evaluate the biomarkers and the role of the microbiome in contributing to adverse responses 
+through alterations in metabolism or other mechanisms, especially in pediatrics, and the 
+associated long-term health impact. 
+e.  Evaluate strategies for validation of innovative biomarkers or clinical tools that offer a 
+sensitive and specific reflection of the pathophysiologic state for progressive diseases with 
+unmet need. 
+f.  Investigate precision medicine and biomarkers for predicting medical device performance, 
+disease diagnosis and progression. 
+g.   Identify and evaluate improved clinical endpoints and related biomarkers for trials in areas 
+where optimal endpoints are lacking (e.g., efficacy and safety endpoints for osteoarthritis in 
+humans and animals, for gene therapy, for transplant-related studies (endpoints and 
+duration), for tumor vaccines, and for stem cell-derived therapies). 
+2.  Drugs:  
+a.  Evaluate strategies for assessment of innovative non-biomarker drug development tools that 
+offer a sensitive and specific reflection of pathology or treatment responses. 
+3.  Immuno-Oncology 
+a.  Develop biomarkers and/or pharmacodynamic end points to demonstrate the effect of ICI 
+in cancer immunotherapies or as part of a combination regimen in treatment-naïve and 
+immuno-therapy resistance settings. 
+b.  Develop technologies and approaches that better predict or characterize atypical response 
+patterns to ICI such as radiomics, circulating tumor DNA, and/or novel approaches for 
+immune cell profiling of the micro-environment. 
+4.  Precision Oncology: 
+a.   Identify biomarkers (including liquid biopsy biomarkers) for escalation/de-escalation of 
+treatments in the neoadjuvant, adjuvant or advanced disease settings; 
+15 
+  
+b.  Conduct studies to compare the performance of local and centralized molecular tests used 
+for patient enrollment on cancer clinical trials; 
+c.  Conduct studies to understand why tumors located at different organ sites with molecular 
+alterations in the same target respond differently to therapies to inform future potential tumor 
+agnostic drug development; 
+d.  Conduct retrospective or prospective studies/biomarker evaluations to understand if there 
+are differences in response to targeted cancer treatment based on somatic vs. germline 
+alterations of the target gene. 
+5.  Pediatric Oncology: 
+a.  Development of preclinical models (e.g., patient-derived xenograft models, orthotopic mouse 
+models, organoids) of pediatric tumors to facilitate decision-making regarding the evaluation 
+of emerging novel agents potentially applicable to tumors which predominantly occur in the 
+pediatric population; 
+b.  Investigations using text mining and artificial intelligence to analyze, assess and interpret the 
+scientific literature and other public databases of genomic and transcriptomic analyses of 
+pediatric cancers to: (1) identify drugs that have been used against molecular targets 
+relevant in pediatric cancers and/or (2) elucidate the relevance of specific molecular targets 
+to the growth and/or progression of pediatric tumors to understand and assess target 
+actionability. 
+6.  Health equity and special population, Oncology:  
+a.  Characterize the prevalence of currently druggable biomarkers in racial/ethnic minorities and 
+assess implications for enrollment in clinical trials. 
+7.  Rare Cancers, Oncology: 
+a.  Innovative approaches to identify new biologically-driven opportunities for clinical 
+development of previously approved drugs (or drugs for which development has been 
+discontinued) in rare cancers. 
+8.  Women’s Health:  
+a.  Identify and qualify biomarkers and study endpoints: Identify and evaluate biomarkers to be 
+used in the assessment of products related to conditions that affect women and identify sex 
+differences in biomarkers related to the performance of medical products. 
+9.  Tobacco: 
+a.  Impact of novel product use (e.g., ENDS, heated tobacco products) on biomarkers of 
+exposure and biomarkers of potential harm 
+b.  Identifying biomarkers of potential harm to assess short- and long-term health effects of 
+tobacco products, with a focus on products other than conventional cigarettes, including 
+deemed products or other novel products. 
+ 
+E.  Clinical Outcome Assessment (COA)  
+Examples: Patient-reported outcomes; Clinician reported outcomes; Performance outcomes, Patient 
+focused drug development.  
+ 
+1.  Devices: 
+a.  Develop methods for predicting and monitoring clinical performance of devices and 
+materials. 
+2.  Minority Health:  
+a.  Foster and assess the development of culturally and linguistically appropriate clinical 
+outcome assessments and biomarkers to better understand health inequities and develop 
+improved medical products; 
+16 
+  
+b.  Conduct studies among racial and ethnic minorities and underserved groups (e.g., rural, 
+elderly) that investigate patient preferences in benefit-risk assessments to advance 
+understanding and aid regulatory decisions. 
+3.  Oncology patient-focused drug development:   
+a.  Investigate measurement characteristics for new and existing patient-reported global items 
+quantifying overall side effect impact such as the FACIT GP5 item for patients undergoing 
+anti-cancer therapy. 
+b.  Implement PRO symptom and functional measures using ePRO in advanced cancer patients 
+using the FDA MyStudies application to test feasibility, accuracy and ease of use. 
+c.  Investigate the sensitivity and measurement characteristics of existing patient-reported 
+physical function measures in patients with rare and ultra-rare cancers. 
+d.  Investigate open label bias: evaluate the impact of patient’s knowledge of their treatment on 
+patient-reported outcomes in cancer clinical trials. 
+e.  Evaluate differences in measurement characteristics between core patient-reported 
+outcomes collecting in US vs. ex-US oncology patient populations 
+f.  Studies to develop and characterize symptom function measures for rare cancers to 
+complement information obtained from traditional clinical trial endpoints used in regulatory 
+submissions. 
+g.  Support research to improve understanding of the side effects of ICIs. 
+4.  Pediatric Oncology:  
+a. Investigate to solicit children’s self-report of treatment related adverse events to accommodate the 
+child’s voice in assessing patient tolerability of new drugs. 
+F.  Complex and Novel Clinical Trial Design:  
+Examples: Complex, Adaptive, Bayesian, and other novel clinical trial designs. Methods may include 
+design elements and/or analysis approaches that generally require computer simulations to determine 
+the statistical properties of a clinical trial (e.g., power, Type I error). Methods for considering different 
+endpoints, approaches for utilizing and validating artificial intelligence, machine learning, and natural 
+language processing 
+ 
+1.  Devices:  
+a.  Evaluate the effectiveness of interventions designed to enroll diverse populations in device 
+clinical trials such as digital health technologies, decentralized clinical trials, 
+patient/community/language navigators; 
+b.  Understand the impact of remote assessments and decentralized procedures (e.g., e- 
+consent, telemedicine, collecting laboratory and/or imaging data from local facilities) on 
+underrepresented subgroups participating in device clinical trials; 
+c.  Develop framework for assessing clinical site readiness to achieve adequate enrollment of 
+participants from historically under-represented racial/ethnic subgroups in medical device 
+clinical trials. 
+d.  Medical device studies incorporating use of telemedicine and/or decentralized approaches 
+(e.g., collecting laboratory and/or imaging data from local facilities) for patient assessments to 
+facilitate clinical trial enrollment. 
+2.  Oncology:  
+a.  Develop novel statistical approaches for using external controls in oncology trials, which could 
+supplement concurrent control arm data and address key challenges such as differences in 
+eligibility criteria, exposure, and outcomes between external control and clinical trial patients; 
+bias, and rapidly evolving standards of care. 
+b.  Develop statistical methods to assess bias and misclassification when RWD is used in 
+estimating treatment effect. 
+c.  Multi-disciplinary research that includes expert clinical and statistical input addressing how 
+external control data can be used as supportive data to isolate the treatment effect of 
+experimental combination therapies. 
+17 
+  
+d.  Develop innovative clinical trial designs to find the optimal dose for oncology therapeutics. 
+3.  Pediatric Oncology:   
+a.  Evaluate (in collaboration with statistical experts) novel study designs for small populations 
+including Bayesian approached to borrowing from adult data and relaxed type 1 error 
+considerations to facilitate randomized trials wherever possible. 
+b.  Translational research to design and develop rational combination regimens for pediatric 
+patients that may include immune checkpoint inhibitors (ICIs) and other treatments (e.g., 
+chemotherapy, vaccines, radiation) based on strong scientific rationale that addresses the 
+current data suggesting lack of activity of single agent ICIs in pediatric tumors. 
+4.  Immuno-Oncology:  
+a.  Develop clinical trial endpoints that account for atypical response patterns and more fully 
+characterize the clinical benefit of ICI and other cancer immunotherapies. 
+b.  Develop clinical trial designs that can help capture atypical response to ICI and other cancer 
+immunotherapies and can facilitate therapeutic development in immune-therapy resistant 
+settings. 
+5.  Neo-antigen-based therapies, Oncology:  
+a.  Implement innovative clinical trial designs for a group of cell or neoantigen-based 
+therapies that were developed using a common platform (but target distinct antigens) to 
+compare safety and clinical activity among products to identify the most promising 
+candidates for further development. 
+6.  Health equity and special population, Oncology: 
+a.   Evaluate the effectiveness of interventions designed to enroll diverse populations in oncology 
+clinical trials such as digital health technologies, decentralized clinical trials, 
+patient/community/language navigators. 
+b.  Understand the impact of remote assessments and decentralized procedures (e.g., e- 
+consent, telemedicine, collecting laboratory and/or imaging data from local facilities) on 
+underrepresented subgroups participating in oncology clinical trials. 
+c.   Develop framework for assessing clinical site readiness to achieve adequate enrollment of 
+participants from historically under-represented racial/ethnic subgroups in therapeutic 
+oncology clinical trials. 
+d.  Studies in rare cancers incorporating use of telemedicine and/or decentralized approaches 
+(e.g., collecting laboratory and/or imaging data from local facilities) for patient assessments to 
+facilitate enrollment of patients with rare cancers. 
+7.  Minority Health:  
+a.  Utilize large, pooled clinical trial datasets to identify potential trial endpoints, explore 
+differences in specific populations and subpopulations (e.g., stage of disease, chronic disease 
+states, sex, gender, race and ethnicity, pediatrics, and age groups) and different subsets of 
+diseases, improve understanding of relationships between clinical parameters and outcomes, 
+and evaluate clinical utility of potential biomarkers; 
+b.  Improve clinical study design and conduct to better identify and evaluate possible differences 
+related to sex and gender, racial and ethnic minorities, and/or pediatric populations, related to 
+FDA-regulated products. 
+c.  Identify develop and evaluate data sources and efficient techniques for data mining, data 
+linkage, and large data set analysis that can be used to assess the safety and effectiveness of 
+FDA-regulated products among racial and ethnic minorities and underserved populations; 
+d.  Identify methods to improve data collection in clinical trials for racial and ethnic minorities, as 
+well as rural and underserved populations (rural, elderly), including the use of remote clinical 
+trials and evidence generation tools to support remote clinical trials. 
+8.  Rare Diseases:  
+a.  Develop natural history studies on both prevalent and rare diseases to identify disease 
+subsets/phenotypes amenable to differential approaches for therapy or management, and 
+possibly with novel biomarkers for their identification; 
+18 
+  
+b.  In particular for orphan products, effectiveness of programs and incentives to address unmet 
+medical needs in the rare disease population and FDA's use of flexibility for rare disease 
+medical product development and approvals. 
+9.  Women’s Health:  
+a.  Improve clinical study design and conduct to examine diseases and conditions primarily 
+affecting women across the lifespan, including during pregnancy, lactation, and pre- and post- 
+menopause. 
+i.   Develop analytical methods for interpreting and using data on sex differences from trials 
+and studies with small sample sizes. 
+ii.   Identify and evaluate best practices for the recruitment and retention of women in clinical 
+trials (e.g., new strategies, approaches). 
+iii.  Identify appropriate endpoints and outcome measures, including patient reported outcome 
+measures, for diseases or medical products that may affect women differently from men 
+(e.g., certain types of cardiovascular disease present differently in men than in women). 
+10. Tobacco: Incorporate machine learning into clinical studies identifying unique biomarkers of 
+potential harm associated with specific products or product types. 
+ 
+G.  Predictive Toxicology  
+Examples (include traditional and novel methods): Biocompatibility; Microphysiological systems; Identify 
+potential toxicity; Determine acceptable and safe dose levels; Comparative and rare toxicity; Identify 
+human relevance of toxicity findings  
+ 
+1.  Cross-cutting:  
+a. Develop new animal models that better mimic diseases to better understand the potential 
+influence of disease progression and risk factors, including disease co-morbidities on the 
+emergence of adverse events. 
+b. Evaluate the accuracy (specificity and sensitivity) with which animal models and in-vitro 
+assays better predict potential human and animal risk, both overall and/or in sub-
+populations (e.g., pediatric populations). 
+c. Promote a better understanding of toxicity mechanisms by evaluating safety assessment 
+data at multiple levels of biological organization including genes, proteins, pathways, and 
+cell/organ function. 
+d. Toxicologic and pharmacologic tools to assess and characterize molecular targets, host 
+genetic and inflammatory factors that may be associated with rare and unexpected adverse 
+events (“off-target” drug effects). 
+e.  Develop and use microphysiological systems and modeling approaches to predict toxicity.  
+2.  Tobacco:  
+a. Develop new methods that can assess toxicokinetics and toxicodynamics of nicotine across 
+different routes of exposure and its contribution to cancer and non-cancer toxicological risk. 
+b.  Evaluate critical toxicity mechanisms and modes of action for key constituents of ENDS and 
+other new and emerging tobacco products, including Harmful and Potentially Harmful 
+Constituents (HPHCs) that drive cancer and non-cancer toxicological risk. 
+c. Develop computational toxicological models to predict toxicity from a mixture of ingredients or 
+HPHCs in aerosols or smoke from ENDS and other new and emerging tobacco products or 
+their constituents. 
+ 
+H.  Methods for Assessing Behavioral, Economic, or Human Factors  
+Examples: Human factors or usability engineering processes; Qualitative and quantitative social and 
+behavioral data analysis; Usability and optimization of interactions between the FDA regulated product 
+and the user(s) including elements such as displays, controls, packaging, product labels, instructions for 
+use, etc.  
+ 
+1.  Drugs:  
+19 
+  
+a.  Human Factors considerations for biosimilars and generics: 
+i.  Evaluate whether the comparative use human factors study methodology described in the 
+draft Guidance, Comparative Analyses and Related Comparative Use Human Factors 
+Studies for a Drug-Device Combination Product Submitted in an ANDA: Draft Guidance for 
+Industry, is an acceptable approach to assess whether differences in the user interfaces 
+between a proposed interchangeable product and a reference product will lead to a 
+difference in safe and effective use when the interchangeable product is substituted for the 
+reference product. 
+ii.  Develop an acceptable methodology, or acceptable methodologies, to assess whether 
+differences in the user interfaces between a proposed biosimilar interchangeable product 
+and a reference product will lead to a difference in safe and effective use when the 
+interchangeable product is substituted for the reference product.   
+iii.  Produce data that provides scientific clarity about (1) what user interface differences may 
+affect the safe and effective use of the biosimilar interchangeable product as compared to 
+the reference product when the biosimilar interchangeable product is substituted for the 
+reference product, or (2) when the differences in the user interfaces between a proposed 
+interchangeable product and a reference product should be further evaluated to determine 
+if they affect safe and effective use of the biosimilar interchangeable product as compared 
+to the reference product when the interchangeable product is substituted for the reference 
+product.  
+b.  Proprietary Name Evaluation:  Identify a methodology that can determine the risk of name 
+confusion medication errors between proprietary names for drug products in the health IT 
+world (e.g., Computerized physician order entry, automatic dispensing cabinets, smart pumps, 
+electronic health records, etc.).  The goal is for FDA to be able to apply such methodology 
+towards a regulatory determination on the acceptability of a proposed proprietary name.  
+ 
+I.  Approaches to Incorporate Patient and Consumer Input 
+Examples: Patient and consumer preferences and perspectives; Empowering patients and consumers to 
+make better-informed decisions 
+ 
+1.  Cross-cutting:  
+a.  Collect and use patient input in regulatory decision-making. Patients are increasingly 
+providing their input to spur patient-centric medical product development and to inform 
+patient-centric regulation; 
+b.  Develop and validate methods for collecting patient experience data; 
+c.  Correlate these patient experience data to product quality management maturity at the firm 
+level; 
+d.  Perform patient preference studies in preference sensitive areas for use in regulatory 
+decision making (e.g. understanding benefit-risk tradeoffs, improving clinical trial designs, or 
+prioritizing treatment outcomes). 
+2.  Devices:  
+a.  Explore human factors engineering principles in device and combination product design and 
+review.  
+3.  Health equity and special population, Oncology: 
+a.  Conduct qualitative research to understand barriers to including underrepresented groups in 
+oncology clinical trials (e.g., access to clinical trial sites, patient and/or physician preference, 
+and/or other structural, operational, or trial-specific barriers). 
+b.  Identify best practices for enrolling underrepresented subgroups in oncology clinical trials, 
+including patient-, physician-, and community-focused approaches. 
+ 
+J.  Methods to Assess Real-World Data (RWD) to serve as Real-World Evidence (RWE)  
+Examples: Generation of RWD from electronic health records (EHRs), claims and billing activities, 
+product and disease registries, patient-generated health data including in home-use settings, and/or data 
+20 
+  
+gathered from other sources that can inform on health status, such as mobile devices;  Analysis and 
+assessment methods of RWD; RWE generation from RWD such as registries, observational data, 
+electronic health records, claims data, diagnostic data, patient-generated health data) are “fit-for-
+purpose” to serve as real-world evidence  
+ 
+1.  Cross-cutting 
+a. Leverage existing and future data to develop new tools and methodologies to harness big data 
+and real-world data (e.g., data derived from electronic health records (EHRs); medical claims 
+and billing data; data from product and disease registries; patient-generated health data, 
+including from in- home-use settings; and data gathered from other sources that can inform on 
+health status, such as digital heath technologies (DHTs) like wearables or mobile applications) 
+to support regulatory decision-making. 
+b. Advance methodologies to generate clinical evidence from real-world data sufficient to support 
+regulatory use: 
+i.  Incorporate real-world data (RWD) sources in innovative clinical trial designs, 
+ii.  Demonstrate how clinical evidence generated from real-world data could inform 
+randomized controlled trials for regulatory use, 
+iii.  Develop and validate tools and models that assess fitness of real-world data to 
+support regulatory decision making, 
+iv.  Develop and validate methods to predict medical product performance using real-
+world data, 
+v.  Using a collaborative approach, identify high-priority areas for development of real-
+world data source methodology that meet stakeholder needs, 
+vi.  Evaluate methods of observational study design with a focus on identifying and/or 
+addressing sources of (methodological) bias, 
+vii.  Explore methodological reasons for discordant findings among randomized and 
+observational analyses addressing the same clinical topic involving FDA- regulated 
+products, 
+viii.  Advance causal inference based on real-world evidence (RWE); 
+c. Leverage existing and future data to compare use of RWD and generation of RWE with more 
+traditional approach methods for data collection and evidence generation; 
+d. Develop and demonstrate tools for assessing uncertainty around data elements and drives for 
+RWE study findings. 
+e. Methods to evaluate the capture, transmission, aggregation, analysis, and use of DHTs to 
+support medical product development and assessment 
+f. Explore the use of data from DHTs to inform public health decision-making 
+g. Support the capture, harmonization, transmission, aggregation, analysis, and use of high-
+quality, interoperable diagnostic data from real-world settings to evaluate in vitro diagnostic 
+devices and other medical product performance during clinical trial development and 
+premarket review 
+h. Explore how real-world data obtained from in vitro diagnostic devices can be used to inform 
+public health decision-making in the premarket setting 
+2.  Biologics:  
+a. Develop methods and conduct studies that replicate findings of randomized controlled trials of 
+CBER-regulated biologic products using regulatory quality real-world data for specific studies 
+of biologic products. 
+3.  Oncology:  
+a. Developing approaches to evaluate, integrate, and facilitate the use of oncology RWD, e.g., 
+electronic health records, administrative health claims, drug or disease registries, patient 
+reported or generated health data to generate high quality RWE is an active area of regulatory 
+science as noted in the 21st Century Cures Act.  Methodologically rigorous studies which 
+expand upon the need to evaluate innovative study designs, (e.g., pragmatic, hybrid) RWD 
+quality, statistical approaches, and real-world endpoints specifically through scientific research 
+studies, metric or framework development, or standardized definitions, are encouraged. 
+21 
+  
+Specific examples of interest are included in the immuno-oncology, health equity and special 
+populations in oncology drug development, oncology trial designs, endpoints and statistical 
+methodologies, pediatric oncology, oncology safety, and rare cancers sections of this 
+document. 
+b. Develop, define and test real-world oncology endpoints from RWD that could be used to 
+generate RWE to complement traditional clinical trial data submitted to FDA, particularly the 
+development of measures of real-world response 
+c. Explore and define RWD quality to consider factors including data variable collection, 
+missingness, specificity, sensitivity, data validation, harmonization, data provenance, data 
+linkage, and the potential capability to make accurate inferences from the available data. 
+4.  Pediatric Oncology:  
+a. Investigations to explore opportunities to develop acceptable external control arms from using 
+RWE to aid in accelerating new drug approvals for childhood cancer. 
+5.  Precision Oncology:  
+a. Develop methodologies to inform evidence generation (clinical trial design; use of real-world 
+data for liquid biopsy diagnostics that are assessing multiple cancer types simultaneously for 
+early detection indications (multicancer early detection [MCED]). 
+6.  Immuno-Oncology:  
+a. Analyze RWD to understand the utilization and impact of complementary in vitro diagnostics in 
+cancer immunotherapy. 
+7.  Health equity and special population, Oncology:  
+a. Conduct RWD studies to improve understanding of safety and efficacy of drugs in 
+underrepresented groups such as analyses of low-grade toxicities, symptom function 
+measures, and co-morbidities; 
+b. Study RWD to understand patterns of care and clinical outcomes in sexual and gender 
+minorities with cancer. 
+8.  Women’s Health: 
+a.  Evaluate methodologies for the identification of clinically relevant sex differences, using a 
+variety of RWD sources 
+b.  Conduct studies using RWD to evaluate the toxicity or the safety, effectiveness, and health 
+effects of FDA-regulated products used by women, including the examination of sex 
+differences  
+c.  Develop efficient data mining and analysis techniques that can be used on RWD sets that can 
+specifically identify women’s health issues on a larger scale.  
+9.  Rare Diseases:  
+a. Explore mechanisms to support and expedite development of approved drugs for non-cancer 
+rare disease indications (i.e., repurposing) such as analyzing RWD (e.g. registries) to inform 
+screening and evaluation of drugs in rare populations. 
+10. Rare Cancers, Oncology:  
+a. Studies to investigate the natural history of rare cancers to provide clinical and scientific 
+context to inform the design and interpretation of clinical trials; 
+ 
+K.  Methods to Assess Data Source Interoperability 
+Examples: Development of methods, tools, framework and data sources for safe, secure, effective, 
+portable, and interoperable exchange of information among one or more FDA regulated products, 
+technologies, or systems. 
+ 
+1.  Cross-cutting:  
+a.  Develop standards for data quality and data sources that increase the quality, interoperability, 
+and usability of real-world data; 
+b.  Design and optimize data infrastructure to facilitate information exchange and data extraction. 
+ 
+II. Strengthen post-market surveillance and labeling of regulated products 
+22 
+  
+ 
+The following focus areas of regulatory science are identified to accomplish Charge II, strengthen post-market 
+surveillance and labeling of FDA-regulated products:  
+ 
+A.  Methods to Assess Real-World Data (RWD) to Support Regulatory Decision-Making 
+Examples: Generating evidence regarding safety and effectiveness using RWD for FDA regulated 
+products; Supporting FDA’s regulatory decisions of effectiveness using RWE informed by RWD; 
+Development and application of methods for RWE generating using RWD for post-market 
+surveillance of FDA regulated products. 
+ 
+1.  Cross-cutting:  
+a.  Refine methods for analysis of post-market data, including data mining of spontaneous 
+reports and analysis of data accessible from large healthcare databases and electronic 
+health records. 
+b.  Leverage real-world evidence and employ evidence synthesis and linkage across multiple 
+domains to support regulatory decision-making; 
+c.  Enhance FDA’s capacity to assess death and cause of death as an outcome of product 
+safety and/or effectiveness in large electronic healthcare databases; 
+d.  Support the capture, harmonization, transmission, aggregation, analysis, and use of high-
+quality, interoperable diagnostic data from real-world settings to aid in post-market review 
+and/or surveillance of safety and performance of in vitro diagnostic devices and other 
+medical products; 
+e.  Explore how real-world data obtained from in vitro diagnostic devices during post-market 
+surveillance and data collection can be used to inform public health decision-making. 
+2.  Devices: 
+a.  Develop approaches for collecting data on mortality and reuse among patients exposed to 
+capital and reusable devices and how to integrate within electronic health records (EHR), 
+administrative claims, or other RWD 
+ 
+3.  Drugs:  
+a.  Studies to evaluate the safety of approved drug products: Identify RWD or other data sources 
+and methods to evaluate the impact of REMS on patient access to REMS drugs and REMS-
+related administrative burdens to healthcare providers and healthcare systems. 
+4.  Oncology safety:  
+a.  Develop approaches for collecting medical product safety data from RWD sources to 
+expand understanding of the safety profile of approved oncology products in clinical 
+practice; 
+b.   Develop approaches using RWD sources to evaluate the toxicity profile of approved 
+products in cancer patients with a history of or active COVID-19 infection including any 
+increase in known drug adverse reactions or new toxicities, longitudinal sequelae, and 
+outcomes; 
+c.  Analyze RWD to help understand which patients are most likely to experience cardiotoxicity 
+(or other types of severe toxicity) during cancer treatment. 
+ 
+B.  Using and Validating Artificial Intelligence Approaches 
+Examples: Machine learning; Deep learning; Natural language processing 
+ 
+1.  Cross-cutting:  
+a. Develop and validate a tool that uses natural language processing, machine learning or 
+artificial intelligence to semi-automate review of medical charts to improve, expedite, and lower 
+chart review costs. 
+23 
+  
+b. Develop and improve the efficiency of signal detection/data collection methods and operations 
+such as computable phenotype generation in support of future post-market active surveillance 
+systems for medical products. 
+c. Develop and evaluate risk-based methods for the validation and implementation of artificial 
+intelligence approaches in the development, manufacturing, and quality system activities for 
+medical products 
+2.  Devices: 
+a. Develop and validate methods to assess algorithm performance, including techniques to 
+manage bias for artificial intelligence/machine learning-enabled medical devices 
+3.  Drugs:  
+a. Studies to increase the safety of post-approval drug use: Evaluate the capacity of big data 
+analytics to empirically prioritize safe medication use issues within one or more health 
+systems. Empiric prioritization could potentially complement expert-derived prioritization due to 
+its speed, agility, and responsiveness to contextual factors within a health system; 
+b.  Studies to evaluate the safety of approved drug products:  
+i.   Develop and refine data analysis methods (e.g., control charts) to better understand 
+provider and patient adherence to REMS requirements leveraging data from external 
+sources such as insurance claims and electronic health records. Evaluate whether use 
+of controls charts prospectively is feasible to assess for adherence to REMS 
+requirements in real time. 
+ii.  Explore and apply the use of NLP models and advanced algorithmic and unsupervised 
+machine learning (ML) techniques to analyze medication error reports submitted to 
+FAERS, including techniques to identify and assess human factors, contributing factors, 
+data quality, and other variables. 
+4.  Women’s Health:  
+a. Develop and evaluate data sources and efficient techniques for data mining, linkage, and 
+large-scale analysis that can be used to assess real-world evidence, including post-market 
+safety and utilization of FDA-regulated products to specifically identify sex and gender 
+differences or women’s health issues. 
+ 
+b. Identify, develop, and evaluate data sources and efficient techniques for data mining, data 
+linkage, and large data set analysis that can be used to assess the safety and effectiveness of 
+FDA-regulated products, to specifically identify women’s health issues. 
+ 
+C.  Novel Clinical Trial Design, Statistical and Epidemiologic Methods   
+Examples: Novel and advanced methods to improve post-marketing surveillance of FDA regulated 
+products 
+ 
+1.  Cross-cutting 
+a. Develop methods to harness clinical evidence and enhance evidence synthesis to leverage 
+RWD from multiple domains; 
+b. Develop statistical methods for assisting compliance inspection. 
+c. Advance methods for endpoint adjudication/validation to incorporate predictive RWD analysis 
+and/or probability that determination impacts study findings 
+2.  Oncology Safety:  
+a. Develop improved and standardized approaches to collect and analyze cardiotoxicity data in 
+the context of clinical trials and clinical practice. 
+b. Conduct basic, translational or clinical studies that investigate the underlying causes of cardiac 
+toxicities associated with approved oncology agents. 
+c. Develop novel approaches to utilize AI/ML to mine different data sources (e.g., EHRs, claims, 
+clinical trial data) for safety signal identification and/or characterization of oncology 
+therapeutics. 
+24 
+  
+D.  Automated Reporting Tools for Adverse Events and Active Surveillance 
+Examples: Develop and/or enhance passive and active surveillance systems, frameworks, and/or methods 
+for post-market safety and effectiveness of FDA regulated products 
+ 
+1.  Cross-cutting: Develop assessment tools to support facility and product surveillance and 
+monitoring of quality systems and processes: 
+a.  Advance the study of quality management maturity, capability maturity, and organizational 
+excellence; including quality metrics and quality culture, supply chain oversight, inventory 
+management, application of risk management, manufacturing operations, quality management 
+systems, and continuous improvement in domestic and foreign establishments. Adaptable and 
+reproducible approaches are needed to inform consistent assessment of robustness of a 
+manufacturer’s quality management maturity. Develop methods for data collection, validation, 
+and assessment of appropriate and robust metrics; 
+b.  Advance statistical methodology, including data mining and machine learning, for 
+assessing disparate data types and sources in the evaluation of products, manufacturing 
+facilities and quality systems and processes to support post-market quality surveillance 
+programs; 
+c. Develop and evaluate methods for prioritizing quality defect report assessment, surveillance 
+sampling, and surveillance inspection scheduling; 
+d.  Develop and evaluate methods for estimating the state of quality for products and facilities 
+that enable cross-sectional comparisons and quantitative ratings; 
+e.  Advance methodologies to conduct modular active surveillance statistical analysis while 
+accounting for patient privacy and maintaining line-level data with data holder. 
+2.  Drugs:  
+a. Improve scientific approaches to evaluate generic drugs: post market evaluation of generics 
+drug to develop surveillance and monitoring methods for generic drug substitutions and 
+characterize patient perceptions of generic drug quality and effectiveness. 
+b. Studies to increase the safety of post-approval drug use: Develop innovative methods to 
+create, facilitate and encourage research in the area of safe medication use that seeks to 
+reduce preventable harm from drugs; 
+i.  Approaches could include the use of clinical studies, innovative messaging strategies, 
+electronic health records, data mining, patient generated data, or mobile technologies, but 
+this list is not exhaustive and innovative methods and approaches are encouraged. Sub 
+areas of research interest include but are not limited to the following: 
+a)  Test safe use interventions that advance the field of implementation science within 
+the healthcare system. Develop systems engineering approaches that could serve 
+as a foundation to address multiple safe use issues; 
+b)  Determine if new safe use management options might potentially be available for 
+one or more identified medication safety risks as a result of the emerging precision 
+medicine evidence base. Risks that have been probabilistically associated with 
+medications through epidemiologic study in populations may be mediated by 
+factors such as genetic polymorphisms in individuals. Knowledge of individual 
+factors could guide therapeutic decisions and enhance safe use; 
+c)  Target populations may be broad (e.g., when addressing a common high-burden 
+disease) or may be narrow, focusing on an unmet medical need in a vulnerable 
+population (e.g., very young or elderly, minorities, women, veterans, economically 
+disadvantaged groups, stigmatized populations, or those with a disability. 
+c. Improve scientific approaches for conducting postmarket surveillance of drugs: Compare 
+safety alerting patterns generated using data mining methods between electronic health record 
+databases and the FAERS database in terms of traditional performance metrics, signal 
+characteristics, and time to detection. 
+3.  Oncology Safety:  
+25 
+  
+a. Conduct translational studies that investigate underlying causes of recent safety alerts issued 
+by FDA oncology. 
+E.  Methods to Improve Communication About Risk to Patients and Consumers  
+Examples: REMS, safety recalls for medical products, food safety recalls), and support patient decision-
+making (e.g., patient-specific labeling, patient decision aids); Patient and consumer input; Qualitative and 
+quantitative social and behavioral data analysis for post-market 
+ 
+1.  Devices 
+a. Promote user-centered transparency of digital health medical devices (e.g., artificial 
+intelligence/machine learning-enabled devices, virtual reality devices) 
+b. Promote user-centered transparency of recall communication, including determining 
+appropriate level of detail in communication for patients and timing of communication 
+2.  Drugs: Studies to evaluate the safety of approved drug products:  
+a.  Improve the quality and effectiveness of Risk Evaluation and Mitigation Strategy (REMS) 
+programs while minimizing program-related burden and access barriers. 
+b.  Identify and evaluate best practices for healthcare provider and patient engagement in 
+REMS design and modification. 
+c. Identify and develop validated REMS assessment metrics, outputs, and outcomes (including 
+performance thresholds) indicating at which point REMS goals and objectives have been 
+achieved. 
+3.  Women’s Health 
+a.  Identify how factors such as sex, gender, age, literacy level, native language can affect a 
+woman’s understanding of FDA product information and its influence on her subsequent health-
+related decisions  
+b. Evaluate the reach and impact of FDA communications about FDA-regulated products used by 
+women, including but not limited to identifying and evaluating methods for communicating:  
+i. FDA information to special populations of women, including elderly women, women with 
+disabilities, caregivers, pregnant and lactating women, and women with limited English 
+proficiency  
+ ii. Specific information about sex and gender differences  
+iii. Risks of certain medical product exposures, food consumption (e.g., seafood), and the use 
+of tobacco products during pregnancy and lactation  
+iv. Information about drug exposure during breast-feeding  
+d.   Explore methods for using social media to identify gaps in knowledge,     misinformation, 
+or sentiments about specific women’s health issues and related FDA regulated products.  
+ 
+F.  Approach to Expand Data Capacity, and Increase Data Quality and Use     
+Examples: Data expansion, modernization, and enhancement to improve post-market safety 
+surveillance and labelling 
+ 
+1.  Cross-Cutting:  
+a. Identify and develop interfaces to access new, large medical databases such as EHR, claims, 
+registries, and others to improve safety and effectiveness evaluations of patient subpopulations 
+such as pediatric, elderly, rare diseases, evaluation of sex differences, different genders, and 
+geographical location. 
+2.  Minority health:  
+a. Develop and analyze large scale clinical data sets to determine comparability of non- US data 
+to the US population and refine methods for analysis of large healthcare databases and 
+electronic health records to advance understanding of treatment outcomes by racial and ethnic 
+minorities.  
+ 
+G.  Efforts to Harmonize Existing and Emerging Data Standards  
+Examples: Methods and frameworks to improve the quality, accessibility, shareability of data 
+26 
+  
+standards applied for post-market surveillance 
+ 
+1.  Cross-cutting:  
+a. Improve existing or develop new approaches to enhance quality and consistency of regulatory 
+submission data, and to harmonize standards for data synthesized across multiple sources, 
+including data captured from in vitro diagnostic devices  
+b. Harmonize healthcare and clinical research data standards including their value sets; maintain 
+the mappings provenance across standards 
+c. Enhance existing implementation guides for data standards  
+ 
+III. Invigorate public health preparedness and response of the FDA, patients, and 
+consumers 
+ 
+The following focus areas of regulatory science are identified to accomplish Charge III, invigorate public health 
+preparedness and response of the FDA, patients, and consumers: 
+ 
+A.  Reinforce Medical Countermeasures Initiative (MCMi) to Increase Preparedness and Response for 
+Emerging Public Health Threats 
+Examples: Medical countermeasures, or MCMs, are FDA-regulated products (biologics, drugs, devices) 
+that may be used in the event of a potential public health emergency.   Under the  MCMi, FDA seeks to 
+facilitate development of safe and effective MCMs through both intramural research and collaboration 
+with external partners (e.g., academia, U.S. government agencies, non- governmental organizations, and 
+industry). The FDA’s MCM regulatory science mission is to develop the tools, standards, and approaches 
+to assess the safety, quality, and performance of MCMs and to help translate cutting-edge science and 
+technology into innovative, safe, and effective MCMs. 
+ 
+1.  Develop and fully characterize tools to support MCM development under the Animal Rule or 
+Accelerated Approval: 
+a. Advance the capability to conduct natural history studies necessary to support MCM development 
+under the Animal Rule (e.g., further the understanding of the pathophysiological mechanisms of 
+toxicity, species specificity, or virulence of challenge agents); 
+b. Develop improved in-silico models to extrapolate pharmacokinetic/pharmacodynamic (PK/PD) 
+data from animals to humans (e.g., PK modeling, PK/PD modeling, physiologically-based 
+pharmacokinetic (PBPK) modeling, or population modeling); 
+c. Develop, qualify, and/or facilitate innovative analytical technology or quantitative imaging modality 
+assessments of tissues/cells infected with emergent diseases and biological threats in order to 
+advance characterization and further scientific understanding of pathophysiological mechanisms of 
+infection, disease progression, susceptibility, or virulence; 
+d. Identify and qualify biomarkers and immune correlates of protection that enhance the 
+understanding of the mechanism of action of MCMs, support appropriate clinical dosing of MCMs, 
+and enable comparisons to be made between animal models and humans; 
+e. Develop and qualify in vitro systems (e.g., microphysiological systems) that can accurately predict 
+in vivo responses in humans to complement the use of in vivo animal models to assess safety and 
+efficacy of MCMs; 
+f. Identify and evaluate biomarkers and predictors of harm, susceptibility, latency, or virulence of 
+emergent diseases and biological threats using innovative analytical technologies, imaging 
+modalities, and other advanced approaches (e.g. omics); 
+2.  Enhance the quality and utility of diagnostic data:  
+a.  Support enhanced data agility of data collection using medical devices and through the 
+use of enhanced data collection methods associated with medical products that could be 
+harnessed during public health emergencies 
+27 
+  
+3.  Modernize tools to evaluate MCM product safety, efficacy, and quality; and secure the MCM supply 
+chain 
+a. Enhance capabilities to rapidly assess the safety, efficacy and/or effectiveness of MCMs used 
+during public health emergencies including: 
+i.  Develop and refine tools and methodologies to collect, monitor, track, and analyze real-
+world data and real-world evidence to support regulatory and public health decision 
+making, 
+ii.  Develop capabilities to inform or support multisite/multi-center clinical studies including 
+pre-positioned protocols, rapid and flexible clinical trial designs, novel statistical methods 
+for analysis of clinical data, and clinical trial networks; 
+b. Develop and validate reference materials and datasets to facilitate the development of medical 
+products related to relevant CBRN threat agents and emerging infectious diseases; 
+c. Develop new tools and methodologies to leverage large, unstructured data sets for analysis of 
+MCM-relevant safety and efficacy endpoints; 
+d. Develop technologies that can rapidly detect counterfeit, substandard, or adulterated MCMs; 
+e. Develop technologies that can support the rapid assessment of MCMs for shelf-life extension; 
+f. Develop technologies and methods to monitor and predict disruptions in medical device/medical 
+product supply chain security due to technological or CBRN threats; 
+g. Explore novel approaches, technologies, and platforms to increase the availability of suppliers, 
+flexibility and ability to respond to supply disruptions, and streamline supply chains. 
+4.  Advance the development of tools to enable the rapid development and availability of investigational 
+MCMs 
+a. Develop and validate rapid testing methods to speed characterization, in-process testing, and/or 
+lot release for MCMs (e.g. sterility, immunogenicity, neurovirulence, mycoplasma, etc.); 
+b. Develop technologies and methods to accelerate collection of MCM-relevant clinical safety and 
+efficacy endpoints; 
+c. Develop methods using digital design and manufacturing data to increase efficiency of review; 
+d. Develop technologies to support the adoption of advanced manufacturing technologies for MCMs 
+e. Evaluate methods for facilitating and incentivizing the production and development of MCMs or 
+MCM supply chain within the U.S 
+f. Develop and/or advance the capability to conduct in vitro or in vivo assessments with emergent 
+infectious diseases or biological threats, at greater than or equal to Biosafety level 3 containment, 
+in order to: 
+i.  Identify measurable characteristics of toxicological effects, safety and efficacy when 
+evaluating therapeutic regimens and/or interventions to enable translational comparisons 
+between animal model species and humans and to support clinical dosing; or 
+ii.  Identify interactions between therapeutics, characteristics of alternative models of special 
+populations, and disease variables influencing efficacy and adverse event outcomes. 
+5.  Rare Diseases:  
+a.  Develop drugs for emerging or sporadic diseases- e.g. MERS, drug resistant outbreaks 
+and for underserved populations e.g. neonates, pregnant and lactating women. 
+6.  Minority Health:  
+a.  Evaluate strategies for the prevention, diagnosis, and treatment of COVID-19 for potential 
+sex- and gender-, racial- and ethnic minorities-, and/or pediatric- based health effects. Explore 
+strategies to enhance medical product development for diseases and populations with limited or 
+absent approved treatment options. 
+7.  Women’s Health:  
+a.  Explore the impact of COVID-19 and the use of novel therapies on women’s health, including the 
+effect during pregnancy and lactation. 
+b.  Examine the impact of COVID-19 on women’s health across the lifespan (e.g., pregnant, 
+lactating, pre- and post-menopausal and older women). 
+ 
+B.  Antimicrobial Resistance 
+Examples: Combat antibacterial and antifungal drug resistance; Facilitate the development of new 
+28 
+  
+antibacterial and antifungal drugs to treat patients; methods used to evaluate and improve 
+product labeling of antimicrobial drugs 
+ 
+1.  Drugs:  
+a.  Advance the science of antibacterial drug susceptibility testing to ensure that up to date 
+susceptibility testing criteria (breakpoints) are available for patient care and antimicrobial 
+stewardship. For example, provide updated data from microbiologic surveillance studies, 
+pharmacokinetic studies, including modeling, and/or clinical outcome data to support updating 
+susceptibility test interpretive criteria for certain antibacterial drugs that are a high public 
+health priority. For more information please visit www.fda.gov/oidresearch 
+b.  Advance the science of in vitro, animal model, pharmacokinetic studies, and/or real- world 
+evidence studies to facilitate drug development, including studies focused on antifungal and 
+antibacterial resistance and drug development for special populations such as patients with 
+unmet need, children and patients with renal or hepatic dysfunction For more information 
+please visit www.fda.gov/oidresearch. 
+c.  Evaluate potential innovations in clinical trial design for new drugs such as enrollment 
+strategies, data collection streamlining, drug development tools, clinical endpoints, and new 
+statistical analytic approaches; 
+d.  Evaluate strategies to enrich enrollment in clinical trials for new drugs such as the use of rapid 
+diagnostic tests. 
+e.  Evaluate the utility and impact of current methods and innovate strategies to communicate 
+FDA evaluations of safety and effectiveness of approved antimicrobial drugs to healthcare 
+providers with the goal of appropriate use of new antimicrobial drugs. For more information 
+please visit www.fda.gov/oidresearch 
+ 
+C.  Patient and Consumer Engagement and Communication  
+Examples: Engage and empower patient and consumer involvement in public health preparedness 
+ 
+1.  Cross-cutting:  
+a.  Apply social and behavioral science to empower patients and consumers, enhance FDA’s 
+understanding of its audiences and decision-making about regulated products. 
+b.  Assess awareness and understanding of FDA communications, especially among diverse 
+audiences and populations, and identify methods to improve the comprehension of content, 
+including numerical information 
+i.  Identify effective ways to communicate so that patients and consumers, including those 
+with low literacy/health literacy/digital literacy and limited English proficiency, are informed 
+but not alarmed, assess knowledge and understanding of risk associated with use of FDA- 
+approved and authorized products, assess the means of changing messages to promote 
+continued attention to advice that is not new but remains important, evaluate methods to 
+identify and accommodate cultural and language differences and assess the cost of these 
+methods to the Government; 
+ii.  Study the impact of different formats and amounts of numerical information in FDA 
+communications for consumers, patients, health care providers, health educators and 
+informal caregiver 
+iii.  Identify elements of OTC drug labeling that are confusing to consumer, particularly 
+persons with low literacy and low numeracy. Study ways to improve labeling to better 
+communicate information necessary for safe and effective use. 
+c.  Assess public understanding of regulatory terms to study the impact of FDA regulatory and 
+scientific terminology and language on the public’s ability to comprehend FDA communications 
+and identify explanatory strategies or alternatives. Examples of FDA terminology include, but are 
+not limited to, the following: safe and effective, Over-The-Counter (OTC), monograph drugs, 
+voluntary recall, and product correction. 
+d.  Explore ways that FDA communications can best enhance audience comprehension, including to 
+complement those communicated by industry and other organizations 
+29 
+  
+i.  Develop tools for measuring the effectiveness of messages being communicated to the 
+public, including those with low literacy/health literacy and limited English proficiency, by 
+FDA communications, industry advertisements and other communication materials (e.g. 
+webpages, social media), and messages developed by other organizations. 
+f.  Evaluate timing of release of recall or warning messages, how and when these messages can 
+enhance impact, and how to communicate the end of a recall or warning. 
+i.  Characterize how consumers, patients, and caregivers understand these messages; 
+evaluate the ideal frequency and means of changing messages in order to promote 
+continued attention to advice and/or labeling/packaging that is not new but remains 
+important. 
+ii.  Develop best practices for communicating about recalls, including the necessary 
+elements, accounting for differences in literacy/health literacy levels and level of English 
+proficiency 
+g.  Identify and improve science-based approaches that enhance awareness, understanding, and 
+informed decision-making by patients, consumers and health care professionals to promote 
+health and reduce harms of FDA-regulated products (foods, dietary supplements, cosmetics, 
+and products regulated by Center for Tobacco Products are excluded). 
+2.  Drugs:  
+a.  Studies to evaluate the safety of approved drug products to advance the science of medication 
+error prevention and analysis 
+i.  Determine the incidence, public health cost burden, extent of underreporting, and causes 
+of medication errors in the United States related to drug product names, labeling, 
+packaging, or product design. 
+ii.  Identify and evaluate data sources and methods for medication error pharmacovigilance, 
+including signal detection and case assessment used by global industry, regulatory 
+agencies, and other applicable sources.  
+3.  Racial and Ethnic minority health:  
+a.  Informing and enhancing audience understanding among diverse populations 
+i.  Assess awareness of FDA communications among racial and ethnic minorities, as well 
+as barriers and facilitators to use of FDA’s materials. 
+ii.  Identify methods to improve the comprehension and usability of FDA communications, 
+including assessing health literacy, different formats, and amounts of numerical 
+information in FDA communications among those with low health literacy, low digital 
+literacy, limited English proficiency, and cultural and language differences. 
+iii.  Conduct studies to determine methods to improve communication strategies among 
+racial and ethnic minorities and underserved populations. 
+iv.  Conduct studies to inform development of FDA communications to racial and ethnic 
+minorities and underserved populations. 
+ 
+D.  Understand Substance Use and Minimize Misuse  
+Examples: Opioids, Substance use disorders, Addiction to tobacco products  
+ 
+1.  Drugs: 
+1.1 Opioids 
+a.   Perform research to enhance FDA’s understanding of first responder and bystander naloxone 
+administration for out-of-hospital opioid overdose and how such naloxone administration has 
+been impacted by the COVID-19 pandemic. 
+i.  Research might include methods such as stakeholder surveys (e.g., bystanders, first 
+responders, emergency providers) and epidemiologic analyses of large datasets to 
+understand factors in out-of-hospital naloxone administration (e.g., demographics and 
+training of individuals administering naloxone; setting and circumstances; route, 
+dose(s) and timing of administration; resuscitation efforts; substances involved; patient 
+safety outcomes), 
+30 
+  
+b.  Perform research to enhance FDA’s understanding of the characteristics of naloxone that 
+make it effective in the context of reversing ultrapotent opioid and polysubstance overdoses; 
+to characterize its clinical use; and to describe both its risks and benefits.  Research might 
+include accessing datasets with information such as patient-level records with clinical course, 
+patient outcomes, and robust toxicology panels to understand:  
+i.  What parameters should be used to define “high dose” naloxone (e.g., dose, route, 
+frequency, administration period) and how it is used in clinical practice (e.g., is a test 
+dose of naloxone given to avoid high doses should withdrawal and adverse events 
+occur);  
+ii.  In which clinical scenarios does “high dose” naloxone appear to have benefit(s) over 
+lower doses of naloxone  
+a)  Key aspects of the research would be to identify all substances (opioid and non-
+opioid) involved in the overdose exposure and the degree to which naloxone was 
+effective  
+iii.  At what dose-threshold do risks associated with naloxone use outweigh its benefits.   
+a)  Key aspects of this research would be to identify, especially in the case of opioid-
+stimulant co-exposures, whether naloxone administration precipitated adverse 
+events.   
+iv.  How does “high dose” naloxone compare to other reversal agents/strategies for patients 
+presenting with ultrapotent opioid and polysubstance overdoses. 
+c. Perform research to understand the relationships between buprenorphine-containing 
+medication for opioid use disorder (MOUD) dosing strategies (e.g., dosing for induction, 
+titration/stabilization, maintenance) and patient outcomes, including but not limited to fatal and 
+nonfatal opioid-involved overdose. Consider additional factors such as use of other medications 
+(e.g., opioid analgesics, anticonvulsants, anxiolytics, and other psychiatric medications); patient 
+factors (e.g., pain, polysubstance use); and systemic and environmental factors (e.g., 
+urbanicity, settings of care, and the evolving illicit drug supply).   
+d.  Perform research to provide information on the amount (e.g., number of doses, total 
+milligrams) and formulation (e.g., tablets, oral solution) of methadone dispensed from U.S. 
+opioid treatment programs as take-home doses and how this has changed over time. Also 
+collect information on the use of specific measures to prevent unintentional exposures in 
+children (e.g., child-proof containers, patient education programs, use of locked storage boxes). 
+1.2 Substance use disorders:   
+a.  Perform research to enhance FDA’s understanding of, and the evidence supporting, the 
+features, methods to increase uptake, impact on medication use systems, benefits, and harms 
+of packaging, storage, delivery, and disposal solutions that can reduce nonmedical use, 
+accidental exposure, and overdose of opioids and other drugs that pose a serious risk of abuse 
+or overdose.  
+i.  Examples of features that can be explored in the research include (1) the methods and 
+extent of retrievability of active ingredients, (2) safety messages, (3) fixed quantity, (4) 
+individual child resistant protection of each unit or dose, or (5) user interface design. 
+ii.  Examples of methods to increase uptake that can be explored in the research include 
+(1) order sets, (2) computerized physician order entry (CPOE) software, including 
+exploration of software cues, positioning of medications, or other, (3) patient education 
+iii.  Examples of impact on medication use system that can be explored in the research 
+include (1) cost or economic impact  
+b.  Identify and evaluate appropriate endpoints for studies undertaken to assess packaging, 
+storage, delivery, and disposal solutions designed to reduce nonmedical use, accidental 
+exposure, and overdose involving opioids and other drugs that pose a serious risk of abuse or 
+overdose. Endpoints may include (1) rate of accidental exposures, (2) use of disposal options to 
+discard leftover medication, (3) medication adherence, (4) unauthorized access of medication, 
+(5) amount of leftover medication, (6) unintended consequences, and others. Compare direct 
+31 
+  
+measures of the extent of patient disposal of opioids and other drugs that pose a serious risk of 
+abuse or overdose: 
+i.  Across various prescription medication disposal options (e.g., mail back envelopes) 
+provided to patients, or 
+ii.  When there is provision of education alone, when there is provision of a prescription 
+medication disposal option alone, or when there is education plus provision of a 
+prescription medication disposal option. 
+c.  Conduct behavioral, economic, human factors, or other studies to assess prescriber, 
+pharmacist, and patient reasons, knowledge, attitudes, beliefs, and challenges regarding 
+accessing and using packaging, storage, delivery, and disposal solutions for opioids and other 
+drugs that pose a serious risk of abuse or overdose.  Such studies should consider factors such 
+as cost, design features, availability, usability, stigma, and perceptions of risk; 
+d.  Develop methods and carry out studies to better understand the trajectory of use of controlled 
+substances and associated public health consequences. 
+2.  Devices: 
+a.  Develop methods to leverage RWD in support of evaluation of digital health technologies 
+relating to OUD and SUD  
+b.  Engage academic and community medical centers, patients, and other stakeholders in the 
+evidence development of digital health technologies for OUD and SUD 
+3.  Tobacco:  
+a.  Understand the effects of tobacco product characteristics on addiction and abuse liability 
+among populations or groups that bear disproportionate burden of tobacco risk and harm. 
+Priorities for addiction studies include: 1.) correlation of ENDS, other novel tobacco products, 
+and non-tobacco nicotine products use behaviors with pharmacokinetic and pharmacodynamics 
+effects of nicotine and other HPHCs delivered by ENDS, other novel tobacco products, and 
+non-tobacco nicotine products; and 2.) the relationship between specific flavor categories in 
+ENDS, other novel tobacco products, and non-tobacco nicotine products (including, but not 
+limited to, tobacco, menthol, fruit, and sweet/dessert) and adult users’ interest in cigarette 
+smoking cessation, reduced cigarette use, switching to potentially less harmful tobacco 
+products, quit attempts, or tobacco cessation success. 
+E.  One Health Approaches  
+Examples: Opportunities to collaborate in the research, development, evaluation, testing, and scaling of 
+innovative, practical and cost-effective strategies to assist with regulatory decision that address health 
+issues prioritized by FDA’s Office of the Commissioner and the One Health Steering Committee 
+ 
+1.  Cross-cutting: 
+a.  Development of surveillance systems and networks integrating human, animal, and 
+environmental detection and measures assisting with regulatory decisions intended to prevent 
+and prepare for emerging health threats.  
+b.  Develop methods to assess the impact of contaminants on human, animal, and environmental 
+health, including the distribution and fate of contaminants in natural ecosystems, and develop 
+tools to better assess risk and to predict how sources for human and animal exposures may 
+affect the safety of human and animal food and medical products. 
+c.  Develop and apply One Health methods and criteria for collecting antimicrobial use data across 
+species in food and production systems to include:  
+i.  Assessing direct and indirect impact of the use of antimicrobial drugs on the microbiome 
+of non-targeted species; 
+ii.  Implementing culture independent methods to detect and quantify bacterial pathogens and 
+associated antimicrobial resistance genes in food and environmental samples;  
+iii.  Establishing methods and interpretive criteria for in vitro susceptibility testing methods for 
+pathogens to support prudent antimicrobial use.                          
+32 
+  
+d.  Develop, implement, and identify educational and training opportunities in sciences and 
+technologies advancing One Health. The primary focus is to enhance a transdisciplinary 
+workforce knowledgeable about One Health and how to integrate One Health knowledge and 
+skills in FDA’s regulatory activities.   
+e.  Research enhancing One Health communication approaches and interventions influencing 
+public trust, countering misinformation and disinformation, and supporting health education and 
+promotion through existing mass media, social media, or other communication channels.  
+f.  Develop One Health methods, which will contribute to the establishment of policies and 
+programs, focusing on computer models that integrate human, animal, and environmental 
+safety data to predict health risks and corroborate pre- and post-market findings for FDA-
+regulated products with relevancy across species. 
+g.  Research and develop measures that can be taken to improve mitigation of and response to the 
+impacts of natural or man-made disasters on human and animal food and medical products, 
+including supply chains. 
+ 
+F.  Strengthen Global Product Safety Net  
+Examples:  Build regulatory capacity through training, tools to strengthen surveillance systems in 
+developing countries; Harness informatics to ensure the safety of FDA-regulated products, framework, or 
+methods to support and collaborate with regulatory systems across the globe 
+ 
+1.  Cross-cutting: 
+a.   Determine how to promote and assure implementation of the essential elements of a strong 
+regulatory system in developing economies, including (a) determining core competencies for a 
+regulatory workforce and components of a global regulatory workforce curriculum, (b) assessing 
+other areas related to regulatory systems’ performance including conducting, costing, and 
+financing analyses for regulatory systems, and (c) identifying and assessing existing regulatory 
+strengthening evaluation tools utilized by governments and international organizations; 
+b.  Analyzing and utilizing global data to manage risks 
+i.  Define analytical methods and tools to foster improved utilization of risk analytics to inform 
+strategies, priority-setting, and timely decision-making in the areas of inspections, training, 
+regulatory operation and surveillance; 
+ii.  Develop predictive models that identify risks, including fraudulent products and product 
+demand surges, across the supply chain regardless of the product or its origin; 
+iii.  Develop predictive risk models that treat risks in ways across the supply chain regardless of 
+the origin of the product 
+iv.  Adopt new approaches to better aggregate and analyze multiple sources of information to 
+fully identify supply chain risks and emerging trends based on comprehensive assessments 
+of existing information platforms. The developed approaches should include data mining of 
+intelligence-related sources (event reporting, testing results, alerts, customer complaints, 
+news reports) to enable statistical analysis of correlations and threats. As an extension, 
+integrate intelligence-based threat analysis into the risk- based allocation of inspection and 
+testing resources; 
+v.  Filter and analyze external indicators/signals/environmental vulnerabilities in the supply chain 
+from various open-source intelligence and other sources to proactively identify the need for 
+appropriate FDA interventions. Note: Research in this area could include the development of 
+informatics tools to connect multiple sources of information such as regulatory, economic, 
+environmental, political and industrial factors to detectable risk signals and emerging risk 
+trends. It could also include the development of data collection and analysis systems for 
+external indicators/signals/environmental vulnerabilities in the supply chain from various 
+sources intelligence and other media to alert FDA at early onset of the need for appropriate 
+FDA actions or interventions. 
+2.  Drugs:  
+a.  Medical product shortages: FDA’s October 2019 report to Congress, Drug Shortages: Root 
+Causes and Potential Solutions, based on the work of the inter-agency Drug Shortages Task Force 
+33 
+  
+recommended efforts to “Create a Shared Understanding of the Impact of Drug Shortages and the 
+Contracting Practices That May Contribute to Them.” To implement this recommendation, FDA is 
+interested in working with stakeholders in the health system to develop quantitative estimates of the 
+full impact of drug shortages on areas such as overall costs to the healthcare system and impact 
+on, care provision, and patient outcomes. These estimates could be developed prospectively or 
+retrospectively based on one or many past drug shortages and could be either specific to an 
+organization or projected nationally. Potential areas include developing novel processes, data 
+systems, or methodologies to track, quantify, and communicate the impact of drug shortages, 
+analyzing the impact of past drug shortages on a healthcare provider, closed or integrated health 
+system, payor, or other entity (such as cost and time to provide care, rescheduling of surgeries), 
+assessing the impact of one or more drug shortages on patients, including substitution of alternative 
+therapies, adverse events, and treatment outcomes, or creating a statistical or mathematical model 
+to anticipate the impact of a drug shortage on the health system or patients. 
+3.  Biologics:  
+a.  Global vaccine production:  
+i.  Facilitate global access to vaccines and other biological products by building capacity for the 
+infrastructure for the development, delivery and post-market surveillance    
+ii.  Assess and/or develop surveillance systems for safety and efficacy of vaccines and biologics 
+in low- and middle-income countries (LMIC); 
+iii.  Develop large databases and systems for conducting surveillance and epidemiological studies 
+across a variety of participants from low- and middle-income countries and high-income 
+countries. 
+ 
+   
+34 
+  
+Appendix (Additional background) 
+1.  Antimicrobial drug development and antimicrobial drug resistance: Antimicrobial drug resistance is a 
+major threat to public health. FDA’s roles in combatting antimicrobial drug resistance is to: (1) facilitate 
+the development of new antibacterial and antifungal drugs to treat patients and (2) advance the science 
+of clinical trial design. More information on specific funding priorities can be found at: 
+www.fda.gov/oidresearch.  
+2.  Immuno-Oncology: OCE is particularly interested in supporting research to improve understanding of 
+atypical response patterns observed in patients treated with immune checkpoint inhibitors (ICIs), to 
+develop endpoints that further development of cancer immunotherapy and cancer immunotherapy 
+combination regimens, and to identify and characterize patients with resistance to cancer 
+immunotherapy. Additional background information related to these around of interest maybe found 
+here: https://www.fda.gov/about-fda/oncology-center-excellence/oce-scientific-collaborative) 
+3.  Neo-antigen-based therapies, Oncology: OCE is interested in supporting research related to clinical 
+development, safety, manufacturing and quality control for cell therapy and neo-antigen-based 
+therapies for cancer. Additional background information relating to these areas of interests may be 
+found here https://www.fda.gov/about-fda/oncology-center- excellence/oce-scientific- collaborative 
+4.  Health equity and special population, Oncology: OCE is interested in understanding the factors that 
+affect the safety and treatment response in demographic subgroups that have been historically 
+underrepresented in oncology trials (e.g., racial/ethnic minorities, sexual and gender minorities, older 
+adults). Additional background information relating to these areas of interests may be found at 
+https://www.fda.gov/about-fda/oncology-center-excellence/oce-scientific-collaborative) 
+5.  Pediatric Oncology: Additional background information relating to these areas of interests may be found 
+at https://www.fda.gov/about-fda/oncology-center- excellence/oce-scientific-collaborative 
+6.  Oncology safety: Additional background information relating to these areas of interests may be found at 
+https://www.fda.gov/about-fda/oncology-center-excellence/oce- scientific-collaborative 
+7.  Oncology patient-focused drug development: Additional background information relating to these areas 
+of interests may be found at https://www.fda.gov/about- fda/oncology-center-excellence/oce-scientific-
+collaborative 
+8.  Rare cancers: Additional background information relating to these areas of interests may be found at 
+https://www.fda.gov/about-fda/oncology-center-excellence/oce-scientific- collaborative 
+9.  Precision Oncology: Additional background information relating to these areas of interests may be found 
+at https://www.fda.gov/about-fda/oncology-center- excellence/oce-scientific-collaborative 
+10. Drugs related Biomarker and Clinical Outcome Assessments: Additional background information 
+relating to these areas of interests may be found at Biomarker Qualification Program | FDA; Clinical 
+Outcome Assessment (COA) Qualification Program | FDA; https://www.fda.gov/drugs/drug-
+development-tool-ddt-qualification-programs/innovative-science-and-technology-approaches-new-
+drugs-istand-pilot-program 
+11. Manufacturing Readiness Levels as defined by Department of Defense: Additional background 
+information relating to these areas of interests may be found at: http://www.dodmrl.com/ and further 
+explained at: https://www.nextflex.us/wp-content/uploads/NextFlex_PC3.0_MRL-TRL_Definitions.pdf) 
+12. Generic Drugs: Additional background information GDUFA science and research priority initiatives for 
+FY 2022. 
+13. Systems modeling of the opioid crisis: FDA is seeking innovative research to help understand the 
+dynamics of the opioid crisis and to model the potential impact of interventions to address it. FDA has 
+developed a system dynamics model of opioid crisis (FDA Opioid Systems Modeling Effort | FDA), 
+aligned with recommendation of the 2017 National Academies of Sciences, Engineering, and Medicine 
+(NASEM) report entitled Pain Management and the Opioid Epidemic. The purpose of the model is to 
+support FDA’s and others in a) better understanding the complexity of the interconnected mechanisms 
+35 
+  
+of the crisis, and b) assessing the potential impacts (intended and unintended) of possible policy 
+actions to address the crisis. FDA is seeking complementary approaches to augment and support 
+FDA’s modeling efforts by generating novel data, data synthesis or evidence-based quantitative 
+estimates addressing various complex aspects of the crisis, which can be incorporated into FDA 
+evolving systems model and analysis tool. 
+14. Medical Countermeasures (MCMs): FDA seeks to facilitate development of safe and effective MCMs 
+through both intramural research and collaboration with external partners (e.g., academia, U.S. 
+government agencies, non- governmental organizations, and industry). The FDA’s MCM regulatory 
+science mission is to develop the tools, standards, and approaches to assess the safety, quality, and 
+performance of MCMs and to help translate cutting-edge science and technology into innovative, safe, 
+and effective MCMs. Additional information, including current and completed projects, on the FDA 
+MCMi initiative and projects is available at: https://www.fda.gov/emergency-preparedness-and-
+response/medical-countermeasures-initiative-mcmi/mcm-regulatory-science 
+15. FDA reviews proposals for the potential of Dual Use Research of Concern as defined and in 
+accordance with USG policy: https://www.phe.gov/s3/dualuse/Pages/default.aspx 
+16. Food and Drug Administration Overdose Prevention Framework. This framework consists of four 
+priorities to address the overdose public health emergency. Additional background information is 
+available at https://www.fda.gov/drugs/drug-safety-and-availability/food-and-drug-administration-
+overdose-prevention-framework 
+17. MDUFA V Draft Commitment letter:  Additional background information is available at 
+https://www.fda.gov/media/157074/download 
+18. CDRH 2022-2025 Strategic Priorities:  More information on CDRH’s advancing health equity strategic 
+priority is available at https://www.fda.gov/media/155888/download  
+19. AI/ML-Based SaMD Action Plan:  Available at https://www.fda.gov/media/145022/download 
+20. Advancing Digital Health Medical Devices for Opioid Use Disorder:  Available at 
+https://www.fda.gov/news-events/fda-voices/fdas-budget-advancing-goal-ending-opioid-crisis 
+21. Digital Health Regulatory Science Research Spotlight: Digital Health Center of Excellence | FDA 
+22. Industry 4.0 for pharmaceutical manufacturing: 
+https://www.sciencedirect.com/science/article/pii/S0378517321003598 
+23. Animal Rule: The “Animal Rule” is defined under 21 CFR 314.600/21 CFR 601.90. Accelerated Approval 
+of Biological Products for Serious or Life-Threatening Illnesses is defined under 21 CFR Part 601, 
+Subpart E. Accelerated Approval of New Drugs 
+24. One Health Approaches: The development of One Health approaches enhances the collection of cross-
+cutting data gathering focusing on the integration of human and animal FDA-regulated products 
+impacted by environmental factors (e.g., physical, social, economic, or others) of national and global 
+importance. One Health is a conceptual framework addressing the interconnectedness of human, 
+animal, and environmental health. It provides a lens with which to analyze a diverse array of public 
+health problems that includes but is not limited to food and drug adulteration and contamination, 
+malfunctions and adverse events with medical devices, antimicrobial resistance across species, 
+emerging pandemics, food insecurity, harm caused by tobacco use across species, climate change, 
+health equity, food and medical supply chain issues, environmental justice, and chronic, non-
+communicable diseases. One Health is mentioned in recently published global and Executive Branch 
+strategic plans and proposed bills such as the 2022 National Biodefense Strategy, the One Health 
+Security Act, and the Quadripartite One Health Joint Plan of Action. 
+   
+36 
+ 
