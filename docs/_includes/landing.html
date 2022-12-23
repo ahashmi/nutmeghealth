@@ -1,0 +1,82 @@
+{% assign progress = current.progress %}
+
+<section class="usa-graphic-list usa-section usa-section--dark">
+  <div class="grid-container">
+    <div class="usa-graphic-list__row grid-row grid-gap">
+      <!-- PSHL -->
+      <div class="usa-media-block tablet:grid-col">
+        {% assign pshl_counts = progress['pshl received'] %}
+        <div class="circle-overlay">
+          {{ pshl_counts[0] }}
+        </div>
+        <div class="usa-media-block__body">
+          <h2 class="usa-graphic-list__heading">
+            Partner Supplied Hospital Lists
+          </h2>
+          <p>
+            Partners supplying at least some form of a facility list
+            with facliity ID and characteristic information.<br>
+            <strong>Target: {{ pshl_counts[1] }}</strong>
+          </p>
+        </div>
+      </div>
+      <!-- ProcFiles -->
+      <div class="usa-media-block tablet:grid-col">
+        {% assign proc_counts = progress['proc files'] %}
+        <div class="circle-overlay">
+          {{ proc_counts[0] }}
+        </div>
+        <div class="usa-media-block__body">
+          <h2 class="usa-graphic-list__heading">
+            ProcFiles/Crosswalks
+          </h2>
+          <p>
+            The HCUP processor produces listings of DSHOSPID values and 
+            discharge/encounter counts. Each of these files correspond to 
+            a crosswalk output flie.<br>
+            <strong>Target: {{ proc_counts[1] }}</strong>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="usa-graphic-list__row grid-row grid-gap">
+      <!-- Target Matches -->
+      <div class="usa-media-block tablet:grid-col">
+        {% assign trgt_counts = progress['target records'] %}
+        <div class="circle-overlay">
+          {{ trgt_counts[0] | times: 100 | divided_by: trgt_counts[1] }}%
+        </div>
+        <div class="usa-media-block__body">
+          <h2 class="usa-graphic-list__heading">
+            Target Records Matching
+          </h2>
+          <p>
+            {{ trgt_counts }}
+            Target records are the facilities identified in HCUP data
+            and need to be linked to characteristic information across
+            multiple sources.<br>
+            <strong>Actual: {{ trgt_counts[0] }}/{{ trgt_counts[1] }}</strong>
+          </p>
+        </div>
+      </div>
+      <!-- Full Matches -->
+      <div class="usa-media-block tablet:grid-col">
+        {% assign full_counts = progress['full matches'] %}
+        <div class="circle-overlay">
+          {{ full_counts[0] | times: 100 | divided_by: full_counts[1] }}%
+        </div>
+        <div class="usa-media-block__body">
+        <div class="usa-media-block__body">
+          <h2 class="usa-graphic-list__heading">Full Matches</h2>
+          <p>
+            {{ full_counts }}
+            A goal is to match facilities across <em>all</em> sources.
+            A full match is not required to meet our target, but is an
+            indicator of data consistency/completeness.<br>
+            <strong>Actual: {{ full_counts[0] }}/{{ full_counts[1] }}</strong>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

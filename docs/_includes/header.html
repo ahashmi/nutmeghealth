@@ -1,0 +1,70 @@
+<header class="usa-header usa-header--basic">
+  <div class="usa-nav-container">
+    <div class="usa-navbar">
+      <div class="usa-logo" id="-logo">
+        <img src="{{ '/assets/nh-logo-192x192.png'}}" />
+        <em class="usa-logo__text">
+          <a href="/" title="<Project title>">nutmeg</a>
+        </em>
+      </div>
+      <button type="button" class="usa-menu-btn">Menu</button>
+    </div>
+    <nav aria-label="Primary navigation," class="usa-nav">
+      <button type="button" class="usa-nav__close">
+        <img src="{{ '/assets/img/usa-icons/close.svg' | relative_url }}" role="img" alt="Close" />
+      </button>
+      <ul class="usa-nav__primary usa-accordion">
+        {% for nav in site.data.navigation %}
+          <li class="usa-nav__primary-item">
+          {% if nav.children %}
+            <button
+              type="button"
+              class="usa-accordion__button usa-nav__link
+                {% if nav.url == page.url %}usa-current{% endif %}
+              "
+              aria-expanded="false"
+              aria-controls="basic-nav-section-one"
+              >
+              <span>{{ nav.title }}</span>
+            </button>
+            <ul id="basic-nav-section-one" class="usa-nav__submenu">
+            {% for child in nav.children %}
+              <li class="usa-nav__submenu-item">
+                <a href="{{ child.url }}"><span>{{ child.title }}</span></a>
+              </li>
+            {% endfor %}
+            </ul>
+          {% else %}
+              <a 
+                href="{{ nav.url }}" 
+                class="usa-nav-link
+                  {% if nav.url == page.url %}usa-current{% endif %}
+                "
+                >
+                <span>{{ nav.title }}</span>
+              </a>
+          {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+      <!-- section aria-label="Search component">
+        <form class="usa-search usa-search--small" role="search">
+          <label class="usa-sr-only" for="search-field">Search</label>
+          <input
+            class="usa-input"
+            id="search-field"
+            type="search"
+            name="search"
+          />
+          <button class="usa-button" type="submit">
+            <img
+              src="{{ '/assets/img/usa-icons-bg/search--white.svg' | relative_url }}"
+              class="usa-search__submit-icon"
+              alt="Search"
+            />
+          </button>
+        </form>
+      </section -->
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,123 @@
+---
+---
+
+// https://designsystem.digital.gov/design-tokens/color/system-tokens/
+$red-warm-50v: #d54309;
+$blue-cool-40v: #28a0cb;
+$violet-40v: #ad79e9;
+$bg-base-lighter: #dfe1e2;
+$bg-primary: #005ea2;
+
+$full-width: 72rem;
+
+.grid-container {
+  max-width: $full-width;
+}
+.usa-nav-container {
+  max-width: $full-width;
+}
+.usa-footer__nav {
+  max-width: $full-width;
+}
+.usa-footer .grid-container {
+  max-width: $full-width;
+}
+.usa-identifier__container {
+  max-width: $full-width;
+}
+
+.grand-title {
+  font-size: 4em;
+}
+
+.alert {
+  font-weight: bold;
+  color: $red-warm-50v;
+}
+
+.usa-hero__callout {
+  float: left;
+  margin-bottom: 2rem;
+}
+
+.usa-hero {
+  background: $bg-base-lighter;
+  overflow: auto;
+}
+
+#map {
+  float: left;
+}
+
+.usa-link {
+  color: $blue-cool-40v;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;;
+  }
+  &:visited {
+    color: $violet-40v;
+  }
+}
+
+.usa-table {
+  font-size: 0.9rem;
+  margin-right: 50%;
+  line-height: 1;
+}
+
+.circle-overlay {
+  width: 8rem;
+  height: 8rem;
+  margin-right: 1.5rem;
+  background: url(../img/circle-124.png) no-repeat;
+  padding-top: 1rem;
+  font-size: 3.5rem;
+  font-weight: bold;
+  text-align: center;
+  span {
+    color: white;
+    font-size: 2rem;
+  }
+}
+
+.section-thin {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.info-box {
+  border: 8px solid $blue-cool-40v;
+  padding-left: 1rem;
+}
+
+.panel-title {
+  width: 100%;
+  color: $blue-cool-40v;
+  margin-bottom: 0;
+}
+
+.tabs {
+  background: $bg-base-lighter;
+  width: 100%;
+  border: solid 1px black;
+  button.tab-link {
+    padding: 0.75rem 1rem;
+    float: left;
+    border: none;
+    border-right: solid 1px black;
+    background: $bg-base-lighter;
+    &:hover {
+      background-color: $blue-cool-40v;
+      color: white;
+    }
+    .active {
+      background-color: $bg-primary;
+    }
+  }
+}
+
+.tab-panel {
+  padding: 0;
+  width: 100%;
+}

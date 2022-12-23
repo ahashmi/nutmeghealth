@@ -1,0 +1,19 @@
+- title: Sources
+  url: /sources.html
+  children:
+  - title: AHA Survey
+    url: /sources/aha.html
+  - title: CXDB
+    url: /sources/cxdb.html
+
+- title: States
+  url: /states.html
+
+- title: Reports
+  url: /reports.html
+
+- title: Posts
+  url: /posts.html
+
+- title: About
+  url: /about.html

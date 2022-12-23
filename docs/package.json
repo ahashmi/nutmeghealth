@@ -1,0 +1,25 @@
+{
+  "name": "nutmeg_health",
+  "version": "1.0.0",
+  "description": "exploring healthcare analytics",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahashmi/nutmeghealth.git"
+  },
+  "scripts": {
+    "copy_wds": "shx cp node_modules/@uswds/uswds/dist/css/uswds.css assets/css && shx cp node_modules/@uswds/uswds/dist/js/uswds.js assets/js && shx cp node_modules/@uswds/uswds/dist/js/uswds-init.js assets/js && shx cp -r node_modules/@uswds/uswds/dist/fonts/* assets/fonts && shx cp -r node_modules/@uswds/uswds/dist/img/* assets/img",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A. Hashmi",
+  "dependencies": {
+    "@uswds/uswds": "^3.3.0"
+  },
+  "devDependencies": {
+    "shx": "^0.3.4"
+  },
+  "bugs": {
+    "url": "https://github.com/ahashmi/nutmeghealth/issues"
+  },
+  "homepage": "https://github.com/ahashmi/nutmeghealth"
+}

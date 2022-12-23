@@ -1,0 +1,20 @@
+- name: Agency for Healthcare Research & Quality
+  url: https://www.ahrq.gov/
+
+- name: HCUP User Support
+  url: https://hcup-us.ahrq.gov/
+
+- name: AHA Annual Survey Database
+  url: https://www.ahadata.com/aha-annual-survey-database
+
+- name: AHA Data & Insights
+  url: https://www.ahadata.com/
+
+- name: Rand Hospital Data
+  url: https://www.hospitaldatasets.org
+
+- name: US Web Design System (USWDS)
+  url: https://designsystem.digital.gov/how-to-use-uswds/
+  
+- name: Data Privacy Policy
+  url: 
