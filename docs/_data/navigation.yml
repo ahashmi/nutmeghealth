@@ -1,13 +1,13 @@
-- title: Sources
-  url: /sources.html
+- title: Projects
+  url: /projectss.html
   children:
   - title: AHA Survey
     url: /sources/aha.html
   - title: CXDB
     url: /sources/cxdb.html
 
-- title: States
-  url: /states.html
+- title: Analysis
+  url: /anaylsis.html
 
 - title: Reports
   url: /reports.html

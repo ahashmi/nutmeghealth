@@ -13,6 +13,10 @@ $full-width: 72rem;
 .grid-container {
   max-width: $full-width;
 }
+.usa-logo img {
+  float: left;
+  margin: 4px;
+}
 .usa-nav-container {
   max-width: $full-width;
 }

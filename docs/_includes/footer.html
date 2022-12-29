@@ -13,7 +13,7 @@
               usa-footer__primary-content
             "
           >
-            <a class="usa-footer__primary-link" href="{{ nav.url }}"
+            <a class="usa-footer__primary-link" href="{{ nav.url | relative_url }}"
               >{{ nav.title }}</a
             >
           </li>
@@ -34,45 +34,46 @@
           <div class="mobile-lg:grid-col-auto">
             <img
               class="usa-footer__logo-img"
-              src="/assets/img/usa-icons/hospital.svg"
-              width="100" height="100"
+              src="{{ '/assets/img/nh-logo-BW-56x56.png' | relative_url }}"
             />
           </div>
           <div class="mobile-lg:grid-col-auto">
-            <p class="usa-footer__logo-heading">HCUP Hospital Characteristics</p>
+            <p class="usa-footer__logo-heading">Nutmeg Health</p>
           </div>
         </div>
         <div class="usa-footer__contact-links mobile-lg:grid-col-6">
           <div class="usa-footer__social-links grid-row grid-gap-1">
             <div class="grid-col-auto">
-              <a class="usa-social-link" href="https://github.ibm.com/ahashmi/HospDB" target="_blank"
+              <a class="usa-social-link" href="{{ site.github_url }}" target="_blank"
                 ><img
                   class="usa-social-link__icon"
-                  src="/assets/img/usa-icons/github.svg"
+                  src="{{ '/assets/img/usa-icons/github.svg' | relative_url }}"
                   alt="github"
               /></a>
             </div>
             <div class="grid-col-auto">
-              <a class="usa-social-link" href="javascript:void(0);"
+              <a class="usa-social-link" href="https://www.linkedin.com/in/ali-hashmi/" target="_blank"
                 ><img
                   class="usa-social-link__icon"
-                  src="/assets/img/usa-icons/rss_feed.svg"
-                  alt="RSS"
+                  src="{{ '/assets/img/usa-icons/linkedin.svg' | relative_url }}"
+                  alt="linkedIn"
               /></a>
             </div>
           </div>
           <p class="usa-footer__contact-heading">
-            https://github.ibm.com/ahashmi/HospDB
+            <a href="{{ site.github_url }}" target="_blank">
+              {{ site.github_url }}
+            </a>
           </p>
           <address class="usa-footer__address">
             <div class="usa-footer__contact-info grid-row grid-gap">
-              <div class="grid-col-auto">
+              <!-- <div class="grid-col-auto">
                 <a href="tel:1-800-555-5555">&lt;(800) 555-GOVT&gt;</a>
               </div>
               <div class="grid-col-auto">
                 <a href="mailto:info@agency.gov">&lt;info@agency.gov&gt;</a>
               </div>
-            </div>
+            </div> -->
           </address>
         </div>
       </div>
@@ -89,7 +90,7 @@
         <a href="javascript:void(0)" class="usa-identifier__logo"
           ><img
             class="usa-identifier__logo-img"
-            src="/assets/img/circle-gray-20.svg"
+            src="{{ '/assets/img/circle-gray-20.svg' | relative_url }}"
             alt="&lt;Parent agency&gt; logo"
             role="img"
         /></a>
@@ -97,7 +98,7 @@
       <div class="usa-identifier__identity" aria-label="Agency description">
         <p class="usa-identifier__identity-domain">localhost.4000</p>
         <p class="usa-identifier__identity-disclaimer">
-          An unofficial website of the <a href="">HCUP Project Team</a>
+          An unofficial website of <a href="">any kind</a>
         </p>
       </div>
     </div>

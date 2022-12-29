@@ -74,6 +74,21 @@ Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera
   * [Two Sides of the AI/ML Coin in Health Care](https://www.healthit.gov/buzz-blog/blog-series-artificial-intelligence-machine-learning/ai-ml-in-health-care)
   * [Back to the Future: What Predictive Decision Support Can Learn from DeLoreans and The Big Short](https://www.healthit.gov/buzz-blog/health-innovation/back-to-the-future-what-predictive-decision-support-can-learn-from-deloreans-and-the-big-short)
   * TBD
+* From [Congressional Research Service](https://crsreports.congress.gov/)
+  * [Medicaid Financing & Expenditure, Updated 2020 (pdf)](https://crsreports.congress.gov/product/pdf/R/R42640)
+  * [Medicaid’s Federal Medical Assistance Percentage (FMAP), Updated 2020 (pdf)](https://sgp.fas.org/crs/misc/R43847.pdf)
+* [ASPE > Federal Medical Assistance Percentages or Federal Financial Participation in State Assistance Expenditures (FMAP)](https://aspe.hhs.gov/federal-medical-assistance-percentages-or-federal-financial-participation-state-assistance)
+* [GAO > Medicaid: Primer on Financing Arrangements](https://www.gao.gov/products/gao-20-571r)
+* [Medicaid Financing: How the FMAP Formula Works and Why It Falls Short](https://www.ncbi.nlm.nih.gov/books/NBK561168/)
+* [State Network: resource hub for advancing state-level health policy (RWJF)](https://www.statenetwork.org/)
+* [Medicaid disproportionate share hospital (DSH) payments: the basics](http://resource.nlm.nih.gov/101513854)
+* [Federal Financial Participation in State Assistance Expenditures; Federal Matching Shares for Medicaid, the Children's Health Insurance Program, and Aid to Needy Aged, Blind, or Disabled Persons for October 1, 2023 Through September 30, 2024](https://www.federalregister.gov/documents/2022/12/05/2022-26390/federal-financial-participation-in-state-assistance-expenditures-federal-matching-shares-for)
+* ["Considering Health Spending" - Research Breif Series from HA](https://www.healthaffairs.org/topic/chs)
+  * [Value-Based Payment As A Tool To Address Excess US Health Spending](https://www.healthaffairs.org/do/10.1377/hpb20221014.526546/full/)
+  * [The Role Of Administrative Waste In Excess US Health Spending](https://www.healthaffairs.org/do/10.1377/hpb20220909.830296/full/)
+  * [The Role Of Prices In Excess US Health Spending](https://www.healthaffairs.org/do/10.1377/hpb20220506.381195/full/)
+  * [The Role Of Clinical Waste In Excess US Health Spending](https://www.healthaffairs.org/do/10.1377/hpb20220506.432025/full/)
+* [Medicaid Financing: The Basics KFF](https://www.kff.org/medicaid/issue-brief/medicaid-financing-the-basics/)
 
 ## Healthcare & Related Data
 
@@ -112,6 +127,7 @@ Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera
 * [ResDAC - CMS Research Data Assistance Center](https://resdac.org/)
 * [**Medicaid & CHIP Scorecard**](https://www.medicaid.gov/state-overviews/scorecard/index.html)
 * [CMS Center for Program Integrity](https://www.cms.gov/About-CMS/Components/CPI)
+* [HHS emPOWER Program](https://empowerprogram.hhs.gov/)
 
 ## FHIR
 
