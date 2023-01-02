@@ -25,8 +25,7 @@ November 18, 2022
 * [How is artificial intelligence used in medicine? - IBM](https://www.ibm.com/topics/artificial-intelligence-medicine)
 * [AAAI 2021 Workshop: Trustworthy AI for Healthcare](https://taih20.github.io/index.html)
   * Organizer: [Byron Wallace - Northeastern](https://www.byronwallace.com/)
-  * IBM Paper/Poster [Bias in Clinical Risk Prediction Models: Challenges in Application to
-Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera_AAAI2020_Fairness_OUD.pdf)
+  * IBM Paper/Poster [Bias in Clinical Risk Prediction Models: Challenges in Applicatios to Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera_AAAI2020_Fairness_OUD.pdf)
 * [Healthcare & Life Sciences - IBM Research](https://research.ibm.com/topics/healthcare-and-life-sciences)
 * [Why now is the time to accelerate discoveries in health care](https://research.ibm.com/blog/accelerating-discovery-health-care)
 * [Bias detection and mitigation in IBM AutoAI by: Lukasz Cmielowski, PhD (IBM)](https://lukasz-cmielowski.medium.com/bias-detection-and-mitigation-in-ibm-autoai-406db0e19181)
@@ -34,6 +33,7 @@ Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera
 * [Institute for Human-Centered Artificial Intelligence, Stanford University](https://hai.stanford.edu/)
 * [Designing Accountable Health Care Algorithms: Lessons from Covid-19 Contact Tracing - NEJM](https://catalyst.nejm.org/doi/10.1056/CAT.21.0382)
 * [Combining explainable machine learning, demographic and multi-omic data to inform precision medicine strategies for IBD](https://research.ibm.com/publications/combining-explainable-machine-learning-demographic-and-multi-omic-data-to-inform-precision-medicine-strategies-for-inflammatory-bowel-disease)
+* [In bias we trust? Explanation methods that help users determine whether to trust machine-learning model predictions can be less accurate for disadvantaged subgroups, a new study finds.](https://news.mit.edu/2022/machine-learning-bias-0601)
 
 ## Healh Policy & Analysis
 
@@ -128,6 +128,7 @@ Observational Health Data](https://taih20.github.io/papers/29/CameraReady/camera
 * [**Medicaid & CHIP Scorecard**](https://www.medicaid.gov/state-overviews/scorecard/index.html)
 * [CMS Center for Program Integrity](https://www.cms.gov/About-CMS/Components/CPI)
 * [HHS emPOWER Program](https://empowerprogram.hhs.gov/)
+* [Healthy ML Group at MIT - Dr. Marzyeh Ghassemi](https://healthyml.org/)
 
 ## FHIR
 

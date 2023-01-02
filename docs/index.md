@@ -6,3 +6,16 @@ title: home
 ---
 
 # Welcome
+
+Here are some topics for consideration:
+
+* Haealthcare Finance
+* Computational Methods
+* Healthcare Policy & Research
+* Machine Learning (ML) in Health
+
+Additional topics that can be related:
+
+* Interoperability in Health
+* ML Ops
+* Explainability
