@@ -89,6 +89,10 @@ November 18, 2022
   * [The Role Of Prices In Excess US Health Spending](https://www.healthaffairs.org/do/10.1377/hpb20220506.381195/full/)
   * [The Role Of Clinical Waste In Excess US Health Spending](https://www.healthaffairs.org/do/10.1377/hpb20220506.432025/full/)
 * [Medicaid Financing: The Basics KFF](https://www.kff.org/medicaid/issue-brief/medicaid-financing-the-basics/)
+* [Don’t Copy New York’s Medicaid Home Care Disaster (wsj)](https://www.wsj.com/articles/new-york-medicaid-home-personal-senior-care-aid-disaster-elderly-fraud-outlays-eligibility-waste-11673017075)
+  * [Full report: "Long-Term Crisis, The Case for Reforming Medicaid 'Personal Care' in New York"](https://www.empirecenter.org/publications/long-term-crisis/)
+  * [Author: Bill Hammond](https://www.empirecenter.org/publications/author/billhammond/)
+  * <https://www.empirecenter.org/wp-content/uploads/2022/11/Long-Term-Crisis-final.pdf>
 
 ## Healthcare & Related Data
 
