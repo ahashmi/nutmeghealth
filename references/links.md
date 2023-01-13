@@ -202,3 +202,7 @@ November 18, 2022
 * [HHS Office of the Inspector General](https://oig.hhs.gov/)
   * [Health Care Fruad & Abuse Control Program FY 2021 (pdf)](https://oig.hhs.gov/publications/docs/hcfac/FY2021-hcfac.pdf)
   * [OIG's Top Unimplemented Recommendations 2021 (pdf)](https://oig.hhs.gov/reports-and-publications/compendium/index.asp)
+
+## System Dynamics (to expand)
+* <https://sites.google.com/site/ranxupersonalweb/home>
+* <https://sites.google.com/vt.edu/navid>
