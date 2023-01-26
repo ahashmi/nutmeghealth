@@ -34,6 +34,8 @@ November 18, 2022
 * [Designing Accountable Health Care Algorithms: Lessons from Covid-19 Contact Tracing - NEJM](https://catalyst.nejm.org/doi/10.1056/CAT.21.0382)
 * [Combining explainable machine learning, demographic and multi-omic data to inform precision medicine strategies for IBD](https://research.ibm.com/publications/combining-explainable-machine-learning-demographic-and-multi-omic-data-to-inform-precision-medicine-strategies-for-inflammatory-bowel-disease)
 * [In bias we trust? Explanation methods that help users determine whether to trust machine-learning model predictions can be less accurate for disadvantaged subgroups, a new study finds.](https://news.mit.edu/2022/machine-learning-bias-0601)
+* [Tutorial: AI Fairness through Robustness](https://research.ibm.com/publications/ai-fairness-through-robustness)
+  * Authors: [Mikhail Yurochkin (IBM-MIT)](https://moonfolk.github.io/), [Yuekai Sun (UMich)](https://yuekai.github.io/), [Pin-Yu Chen (IBM-MIT)](https://sites.google.com/site/pinyuchenpage/home)
 
 ## Healh Policy & Analysis
 
@@ -93,6 +95,8 @@ November 18, 2022
   * [Full report: "Long-Term Crisis, The Case for Reforming Medicaid 'Personal Care' in New York"](https://www.empirecenter.org/publications/long-term-crisis/)
   * [Author: Bill Hammond](https://www.empirecenter.org/publications/author/billhammond/)
   * <https://www.empirecenter.org/wp-content/uploads/2022/11/Long-Term-Crisis-final.pdf>
+* [Risk Adjustment: It’s Time For Reform](https://www.healthaffairs.org/content/forefront/risk-adjustment-s-time-reform)
+  * by [Aneesh Chopra](https://www.linkedin.com/in/apchopra/), former [first Cheif Technology Officer of the United States](https://en.wikipedia.org/wiki/Aneesh_Chopra), current founder of [CareJourney](https://carejourney.com/)
 
 ## Healthcare & Related Data
 
@@ -133,6 +137,8 @@ November 18, 2022
 * [CMS Center for Program Integrity](https://www.cms.gov/About-CMS/Components/CPI)
 * [HHS emPOWER Program](https://empowerprogram.hhs.gov/)
 * [Healthy ML Group at MIT - Dr. Marzyeh Ghassemi](https://healthyml.org/)
+* [New York Academy of Medicine > Collections > Data Sets](https://www.nyam.org/library/collections-and-resources/data-sets/)
+* [CMS 2008-2010 Data Entrepreneurs’ Synthetic Public Use File (DE-SynPUF)](https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/SynPUFs/DE_Syn_PUF)
 
 ## FHIR
 
