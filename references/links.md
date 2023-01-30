@@ -208,6 +208,8 @@ November 18, 2022
 * [HHS Office of the Inspector General](https://oig.hhs.gov/)
   * [Health Care Fruad & Abuse Control Program FY 2021 (pdf)](https://oig.hhs.gov/publications/docs/hcfac/FY2021-hcfac.pdf)
   * [OIG's Top Unimplemented Recommendations 2021 (pdf)](https://oig.hhs.gov/reports-and-publications/compendium/index.asp)
+* [Tahir Ekin - Texas State Univ.](https://faculty.txst.edu/profile/1238240) | [personal site](https://www.tahirekin.com/)
+  * [google scholar page](https://scholar.google.com/citations?hl=en&user=xFOypawAAAAJ)
 
 ## System Dynamics (to expand)
 * <https://sites.google.com/site/ranxupersonalweb/home>
