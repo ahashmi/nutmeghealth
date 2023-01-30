@@ -80,3 +80,93 @@
 2023-01-25 21:19:44,784 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
 2023-01-25 21:19:45,796 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
 2023-01-25 21:19:45,985 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:06:08,598 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:06:08,606 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:06:09,321 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:06:10,654 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:06:11,079 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:09:19,767 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:09:19,775 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:09:20,275 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:09:21,318 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:09:21,534 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:09:55,827 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:09:55,827 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:09:56,301 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:10:40,287 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:10:40,287 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:10:40,760 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:10:41,795 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:10:42,020 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:11:40,094 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:11:40,094 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:11:40,558 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:11:41,638 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:11:41,871 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:12:32,058 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:12:32,058 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:12:32,543 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:12:33,620 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:12:33,862 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:15:14,475 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:15:14,475 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:15:14,983 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:15:16,117 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:15:16,351 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:15:33,462 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:15:33,463 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:15:33,946 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:15:35,085 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:15:35,325 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:18:12,705 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:18:12,705 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:18:13,246 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:18:14,528 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:18:14,755 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:26:16,023 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:26:16,023 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:26:16,589 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:27:07,051 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:27:07,059 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:27:07,531 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:27:50,443 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:27:50,443 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:27:50,957 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:28:30,720 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:28:30,720 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:28:31,178 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:29:21,385 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:29:21,385 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:29:21,907 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:29:23,638 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:29:23,888 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:56:35,991 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:56:35,991 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:56:36,538 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:56:37,762 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:56:38,013 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:57:22,844 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:57:22,845 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:57:23,305 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:57:24,619 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:57:24,836 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:57:49,036 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:57:49,036 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:57:49,496 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:57:50,812 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:57:51,036 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:58:06,657 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:58:06,658 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:58:07,167 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:58:08,419 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:58:08,642 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 19:58:21,225 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 19:58:21,225 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 19:58:21,749 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 19:58:23,011 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 19:58:23,234 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-01-29 20:01:26,107 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-01-29 20:01:26,107 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-01-29 20:01:26,589 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-01-29 20:01:27,847 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-01-29 20:01:28,072 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
