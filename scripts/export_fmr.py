@@ -141,7 +141,7 @@ def publish_state_totals(state_data: dict, logger_nm: str) -> None:
 def publish_graph_data(state_data: dict, logger_nm: str) -> None:
   func_logger = getLogger(logger_nm)
   publ_dir = paths['site'] / "_analyses"
-  years_str = ', '.join(FMR_PLOTS)
+  plots_str = ', '.join(FMR_PLOTS)
   for st_abbr, fmr_data in state_data.items():
     out_lines = []
     graph_file = publ_dir / f"{st_abbr}_graphs.js"
@@ -159,7 +159,7 @@ def publish_graph_data(state_data: dict, logger_nm: str) -> None:
           out_lines.append(f"\tname: '{fmr_type}',")
           out_lines.append(f"\ttype: 'scatter'")
           out_lines.append("};\n")
-    out_lines.append(f"var data = [{years_str}];\n")
+    out_lines.append(f"var data = [{plots_str}];")
     out_lines.append(fmr_layout_str)
     out_lines.append("Plotly.newPlot('fmr_plot', data, layout);")
     with open(graph_file, 'w') as graph_out:
