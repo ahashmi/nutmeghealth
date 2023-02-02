@@ -2,148 +2,22 @@
 layout: interior
 ---
 
-{% assign current = site.data[page.datayr].status %}
-{% assign st_data = current.states[page.name] %}
-{% assign dtypes = 'IP, AS, ED' | split: ', ' %}
-{% assign rprt_nm = page.name | append: '_report' %}
-{% assign report_data = site.data[page.datayr].state_data[rprt_nm] %}
+<h1>{{ page.title }}</h1>
 
-<div class="grid-row">
-  <h1>Report: {{ page.title }} {{ page.datayr }}</h1>
-</div>
+<p>
+  Medicaid Expansion: 
+  <strong>{% if page.expansion %}Yes{% else %}No{% endif %}</strong>
+</p>
 
-<div class="grid-row">
-  <div class="grid-col-8">
-    <h2>
-      PSHL Files:
-      <span class="{% if st_data.pshl_status == 'pending' %}
-                alert
-              {% endif %}">
-        {{ st_data.pshl_status }}
-      </span>
-    </h2>
-    {% if st_data.processed != 'pending' %}
-      <table class="usa-table">
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Modified</th>
-            <th>Type</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for pshl_file in st_data.hosp_lists %}
-            <tr>
-              <td>{{ pshl_file.filename }}</td>
-              <td>{{ pshl_file.modified }}</td>
-              <td>{{ pshl_file.type }}</td>
-            </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-    {% endif %}
+<img src="{{
+    '/assets/img/states/'
+    | append: page.title
+    | append: '.png'
+    | relative_url
+  }}" alt="{{ page.title }}" />
 
-    <h2>
-      PROC Files: 
-      <span class="{% if st_data.processed == 'pending' %}
-                alert
-              {% endif %}">
-        {{ st_data.processed }}
-      </span>
-    </h2>
-    {% if st_data.processed != 'pending' %}
-      <table class="usa-table">
-        <thead>
-          <tr>
-            <th>Data Type</th>
-            <th>Processed</th>
-          </tr>
-        </thead>
-        <tbody>
-        {% for dtype in dtypes %}
-          {% if st_data[dtype] %}
-            <tr>
-              <td>{{ dtype }}</td>
-              <td>{{ st_data[dtype] }}</td>
-            </tr>
-          {% endif %}
-        {% endfor %}
-      </tbody>
-      </table>
-    {% endif %}
-  </div>
+{{ content }}
 
-  <div class="grid-col-4">
-    <div class="info-box">
-      <p><strong>Report Date</strong>: {{ current.report_date }}</p>
-      <p><strong>Team</strong>: {{ st_data.team}}</p>
-      <p><strong>Liaison</strong>: {{ st_data.liaison }}</p>
-      <p><strong>Central Distributor</strong>: {{ st_data.centdist }}</p>
-    </div>
-  </div>
-</div>
+<div id="fmr_plot"></div>
 
-<div class="grid-row">
-  {{ content }}
-</div>
-
-<div class="grid-row">
-  <div class="tabs">
-    {% for tab in report_data %}
-      <button class="tab-link" data-target="{{ tab[0] }}"
-        {% if forloop.index == 1 %}
-          id="defaultOpen"
-        {% endif %}
-        onclick="openPanel(event)"
-        >
-        {{ tab[0] | upcase }}
-      </button>
-    {% endfor %}
-  </div>
-
-  {% for panel in report_data %}
-    <div id="{{ panel[0] }}" class="tab-panel grid-container">
-      {% for section in panel[1] %}
-        <div class="grid-row">
-          <h3 class="panel-title">{{ section[0] | upcase }}</h3>
-          {% if section[1].summary %}
-            <p class="margin-bottom-0">
-              <strong>Summary</strong>
-              {% for entry in section[1].summary %}
-                {{ entry[0] }}: {{ entry[1] }}
-                {% if forloop.last == false %}
-                  |
-                {% endif %}
-              {% endfor %}
-            </p>
-          {% endif %}
-        </div>
-        <div class="grid-row">
-          {% for sample in section[1].samples %}
-            {% assign data = sample[1] %}
-            <table class="usa-table usa-table--striped usa-table--compact">
-              <caption>
-                {{ sample[0] | capitalize }}
-              </caption>
-              <thead>
-                <tr>
-                  {% for col in data[0] %}
-                    <th>{{ col[0] }}</th>
-                  {% endfor %}
-                </tr>
-              </thead>
-              {% for row in data %}
-                <tr>
-                  {% for cell in row %}
-                    <td>{{ cell[1] }}</td>
-                  {% endfor %}
-                </tr>
-              {% endfor %}
-            </table>
-          {% endfor %}
-        </div>
-      {% endfor %}
-    </div>
-  {% endfor %}
-
-</div>
+<script src="{{ page.state_cd }}_graphs.js"></script>

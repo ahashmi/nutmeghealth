@@ -99,28 +99,28 @@ var simplemaps_usmap_mapdata = {
 			description: 'default',
 			color: 'default',
 			hover_color: 'default',
-			url: 'default'
+			url: 'analyses/NH'
 			},
 		"VT": {
 			name: 'Vermont',
 			description: 'default',
 			color: 'default',
 			hover_color: 'default',
-			url: 'default'
+			url: 'analyses/VT'
 			},
 		"ME": {
 			name: 'Maine',
 			description: 'default',
 			color: 'default',
 			hover_color: 'default',
-			url: 'default'	
+			url: 'analyses/ME'	
 			},
 		"RI": {
 			name: 'Rhode Island',
 			description: 'default',
 			color: 'default',
 			hover_color: 'default',
-			url: 'default'		
+			url: 'analyses/RI'		
 			},
 		"NY": {
 			name: 'New York',
@@ -197,7 +197,7 @@ var simplemaps_usmap_mapdata = {
 			description: 'default',
 			color: 'default',
 			hover_color: 'default',
-			url: 'default'				
+			url: 'analyses/CT'				
 			},
 		"WI": {
 			name: 'Wisconsin',

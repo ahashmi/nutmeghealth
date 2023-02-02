@@ -1,6 +1,8 @@
 ---
 layout: state_page
-title: Massachusetts
-state_cd: MA
+title: Connecticut
+state_cd: CT
 expansion: true
 ---
+
+

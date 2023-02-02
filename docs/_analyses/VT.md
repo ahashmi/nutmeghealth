@@ -1,6 +1,6 @@
 ---
 layout: state_page
-title: Massachusetts
-state_cd: MA
+title: Vermont
+state_cd: VT
 expansion: true
 ---

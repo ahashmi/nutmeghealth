@@ -1,6 +1,6 @@
 ---
 layout: state_page
-title: Massachusetts
-state_cd: MA
+title: Rhode Island
+state_cd: RI
 expansion: true
 ---

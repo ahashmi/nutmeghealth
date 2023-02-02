@@ -16,6 +16,21 @@ fmr_sheet_kwargs = {
   'header': 6
 }
 
+fmr_layout_str = """
+var layout = {
+    title: 'State FMR Total Computable Amounts',
+    height: 640,
+    yaxis: {
+        title: 'MAP',
+		side: 'left'
+    },
+    yaxis2: {
+        title: 'ADM & CHIP',
+        overlaying: 'y',
+        side: 'right'
+    }
+};
+"""
 
 class FMR:
   
@@ -136,16 +151,21 @@ def publish_graph_data(state_data: dict, logger_nm: str) -> None:
           out_lines.append(f"\tx: {DATA_YEARS},")
           amts = []
           for yr_data in fmr_years.values():
-            amts.append(yr_data['amounts']['Total Computable'])
+            amt = yr_data['amounts']['Total Computable']
+            amts.append(round(amt))
           out_lines.append(f"\ty: {amts},")
+          if fmr_type != 'MAP':
+            out_lines.append(f"\tyaxis: 'y2',")
+          out_lines.append(f"\tname: '{fmr_type}',")
           out_lines.append(f"\ttype: 'scatter'")
           out_lines.append("};\n")
     out_lines.append(f"var data = [{years_str}];\n")
-    out_lines.append("Plotly.newPlot('fmr_plot', data);")
+    out_lines.append(fmr_layout_str)
+    out_lines.append("Plotly.newPlot('fmr_plot', data, layout);")
     with open(graph_file, 'w') as graph_out:
       graph_out.write('\n'.join(out_lines))
   func_logger.info(
-    f"[publish_graph_data] output files written ({len(state_data)}): {list(state_data.keys())}"
+    f"[publish_graph_data] graph files written -> types: {FMR_PLOTS}, states: {len(state_data)}"
     )
 
 def main(

@@ -1,6 +1,6 @@
 ---
 layout: state_page
-title: Massachusetts
-state_cd: MA
+title: Maine
+state_cd: ME
 expansion: true
 ---
