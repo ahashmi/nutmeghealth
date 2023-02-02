@@ -1,0 +1,348 @@
+{
+    "MAP": {
+        "2015": {
+            "meta": "Created On: Thursday, December 1, 2016 3:37 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 2477405878.0,
+                "Federal Share": 1549190920.0,
+                "Federal Share Medicaid": 1539626950.0,
+                "Federal Share ARRA": -1284416.0,
+                "Federal Share BIPP": 10848386.0,
+                "State Share": 928214958.0
+            }
+        },
+        "2016": {
+            "meta": "Created On: Tuesday, February 6, 2018 3:10 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 2490164925.0,
+                "Federal Share": 1565847570.0,
+                "Federal Share Medicaid": 1566226016.0,
+                "Federal Share ARRA": -294894.0,
+                "Federal Share BIPP": -83552.0,
+                "State Share": 924317355.0
+            }
+        },
+        "2017": {
+            "meta": "Created On: Friday, February 22, 2019 12:25 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 2565081585.0,
+                "Federal Share": 1653922038.0,
+                "Federal Share Medicaid": 1654184977.0,
+                "Federal Share ARRA": -126698.0,
+                "Federal Share BIPP": -136241.0,
+                "State Share": 911159547.0
+            }
+        },
+        "2018": {
+            "meta": "Created On: Tuesday, April 21, 2020 2:32 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 2686772711.0,
+                "Federal Share": 1731417451.0,
+                "Federal Share Medicaid": 1731438599.0,
+                "Federal Share ARRA": -2936.0,
+                "Federal Share BIPP": -18212.0,
+                "State Share": 955355260.0
+            }
+        },
+        "2019": {
+            "meta": "Created On: Tuesday, September 15, 2020 2:17 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 2867136972.0,
+                "Federal Share": 1884882929.0,
+                "Federal Share Medicaid": 1884879230.0,
+                "Federal Share ARRA": -1114.0,
+                "Federal Share BIPP": 4813.0,
+                "State Share": 982254043.0
+            }
+        },
+        "2020": {
+            "meta": "Created On: Wednesday, July 21, 2021 4:24 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 3208972015.0,
+                "Federal Share": 2276525559.0,
+                "Federal Share Medicaid": 2142660994.0,
+                "Federal Share ARRA": -6213.0,
+                "Federal Share COVID": 133871066.0,
+                "State Share": 932446456.0
+            }
+        },
+        "2021": {
+            "meta": "Created On: Tuesday, July 19, 2022 9:06 AM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 3344325038.0,
+                "Federal Share": 2434457688.0,
+                "Federal Share Medicaid": 2255514457.0,
+                "Federal Share ARRA": -3893.0,
+                "Federal Share COVID": 178947124.0,
+                "State Share": 909867350.0
+            }
+        }
+    },
+    "ADM": {
+        "2015": {
+            "meta": "Created On: Thursday, December 1, 2016 3:37 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 143020754.0,
+                "Federal Share": 98600821.0,
+                "State Share": 44419933.0
+            }
+        },
+        "2016": {
+            "meta": "Created On: Tuesday, February 6, 2018 3:11 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 146278926.0,
+                "Federal Share": 101964921.0,
+                "State Share": 44314005.0
+            }
+        },
+        "2017": {
+            "meta": "Created On: Friday, February 22, 2019 12:25 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 169444328.0,
+                "Federal Share": 123888708.0,
+                "State Share": 45555620.0
+            }
+        },
+        "2018": {
+            "meta": "Created On: Tuesday, April 21, 2020 2:32 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 154235161.0,
+                "Federal Share": 106092357.0,
+                "State Share": 48142804.0
+            }
+        },
+        "2019": {
+            "meta": "Created On: Tuesday, September 15, 2020 2:17 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 151862966.0,
+                "Federal Share": 103805535.0,
+                "State Share": 48057431.0
+            }
+        },
+        "2020": {
+            "meta": "Created On: Wednesday, July 21, 2021 4:24 PM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 146526455.0,
+                "Federal Share": 97839801.0,
+                "State Share": 48686654.0
+            }
+        },
+        "2021": {
+            "meta": "Created On: Tuesday, July 19, 2022 9:06 AM",
+            "service_category": "Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 160771800.0,
+                "Federal Share": 108217987.0,
+                "State Share": 52553813.0
+            }
+        }
+    },
+    "CHIP": {
+        "2015": {
+            "meta": "Created On: Thursday, December 8, 2016 10:19 AM",
+            "service_category": "Total",
+            "amounts": {
+                "Total Computable": 13157154.0,
+                "Federal Share": 9660758.0,
+                "State Share": 3496396.0
+            }
+        },
+        "2016": {
+            "meta": "Created On: Thursday, February 8, 2018 10:01 AM",
+            "service_category": "Total",
+            "amounts": {
+                "Total Computable": 13778397.0,
+                "Federal Share": 13353126.0,
+                "State Share": 425271.0
+            }
+        },
+        "2017": {
+            "meta": "Created On: Friday, March 22, 2019 8:50 AM",
+            "service_category": "Total",
+            "amounts": {
+                "Total Computable": 14373818.0,
+                "Federal Share": 14125200.0,
+                "State Share": 248618.0
+            }
+        },
+        "2018": {
+            "meta": "Created On: Monday, May 4, 2020 2:12 PM",
+            "service_category": "Total",
+            "amounts": {
+                "Total Computable": 17299244.0,
+                "Federal Share": 16925848.0,
+                "State Share": 373396.0
+            }
+        },
+        "2019": {
+            "meta": "Created On: Tuesday, September 15, 2020 2:15 PM",
+            "service_category": "Total",
+            "amounts": {
+                "Total Computable": 19102859.0,
+                "Federal Share": 18731931.0,
+                "State Share": 370928.0
+            }
+        },
+        "2020": {
+            "meta": "Created On: Tuesday, September 21, 2021 1:20 PM",
+            "service_category": "Total",
+            "amounts": {
+                "Total Computable": 16934280.0,
+                "Federal Share": 15135221.0,
+                "State Share": 1799059.0
+            }
+        },
+        "2021": {
+            "meta": "Created On: Tuesday, July 19, 2022 9:11 AM",
+            "service_category": "Total",
+            "amounts": {
+                "Total Computable": 18547641.0,
+                "Federal Share": 14588659.0,
+                "State Share": 3958982.0
+            }
+        }
+    },
+    "MCHIP": {
+        "2015": {
+            "meta": "Created On: Thursday, December 8, 2016 10:19 AM",
+            "service_category": "C-Total Net",
+            "amounts": {
+                "Total Computable": 18691421.0,
+                "Federal Share": 13704359.0,
+                "State Share": 4987062.0
+            }
+        },
+        "2016": {
+            "meta": "Created On: Thursday, February 8, 2018 10:01 AM",
+            "service_category": "C-Total Net",
+            "amounts": {
+                "Total Computable": 19667138.0,
+                "Federal Share": 19065860.0,
+                "State Share": 601278.0
+            }
+        },
+        "2017": {
+            "meta": "Created On: Friday, March 22, 2019 8:50 AM",
+            "service_category": "C-Total Net",
+            "amounts": {
+                "Total Computable": 20481095.0,
+                "Federal Share": 20078923.0,
+                "State Share": 402172.0
+            }
+        },
+        "2018": {
+            "meta": "Created On: Monday, May 4, 2020 2:12 PM",
+            "service_category": "C-Total Net",
+            "amounts": {
+                "Total Computable": 18621033.0,
+                "Federal Share": 18257021.0,
+                "State Share": 364012.0
+            }
+        },
+        "2019": {
+            "meta": "Created On: Tuesday, September 15, 2020 2:15 PM",
+            "service_category": "C-Total Net",
+            "amounts": {
+                "Total Computable": 17685869.0,
+                "Federal Share": 17360853.0,
+                "State Share": 325016.0
+            }
+        },
+        "2020": {
+            "meta": "Created On: Tuesday, September 21, 2021 1:20 PM",
+            "service_category": "C-Total Net",
+            "amounts": {
+                "Total Computable": 21034217.0,
+                "Federal Share": 18765573.0,
+                "State Share": 2268644.0
+            }
+        },
+        "2021": {
+            "meta": "Created On: Tuesday, July 19, 2022 9:11 AM",
+            "service_category": "C-Total Net",
+            "amounts": {
+                "Total Computable": 24970160.0,
+                "Federal Share": 19787555.0,
+                "State Share": 5182605.0
+            }
+        }
+    },
+    "MCHIP 20%": {
+        "2015": {
+            "meta": "Created On: Thursday, December 8, 2016 10:19 AM",
+            "service_category": "T-Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 0.0,
+                "Federal Share": 0.0,
+                "State Share": 0.0
+            }
+        },
+        "2016": {
+            "meta": "Created On: Thursday, February 8, 2018 10:01 AM",
+            "service_category": "T-Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 0.0,
+                "Federal Share": 0.0,
+                "State Share": 0.0
+            }
+        },
+        "2017": {
+            "meta": "Created On: Friday, March 22, 2019 8:50 AM",
+            "service_category": "T-Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 0.0,
+                "Federal Share": 0.0,
+                "State Share": 0.0
+            }
+        },
+        "2018": {
+            "meta": "Created On: Monday, May 4, 2020 2:12 PM",
+            "service_category": "T-Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 0.0,
+                "Federal Share": 0.0,
+                "State Share": 0.0
+            }
+        },
+        "2019": {
+            "meta": "Created On: Tuesday, September 15, 2020 2:15 PM",
+            "service_category": "T-Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 0.0,
+                "Federal Share": 0.0,
+                "State Share": 0.0
+            }
+        },
+        "2020": {
+            "meta": "Created On: Tuesday, September 21, 2021 1:20 PM",
+            "service_category": "T-Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 0.0,
+                "Federal Share": 0.0,
+                "State Share": 0.0
+            }
+        },
+        "2021": {
+            "meta": "Created On: Tuesday, July 19, 2022 9:11 AM",
+            "service_category": "T-Total Net Expenditures",
+            "amounts": {
+                "Total Computable": 0.0,
+                "Federal Share": 0.0,
+                "State Share": 0.0
+            }
+        }
+    }
+}

@@ -1,6 +1,7 @@
 ---
 layout: interior
 title: Massachusetts
+state_cd: MA
 expansion: true
 ---
 
