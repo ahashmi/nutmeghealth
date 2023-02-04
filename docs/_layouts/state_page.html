@@ -6,15 +6,25 @@ layout: interior
 
 <p>
   Medicaid Expansion: 
-  <strong>{% if page.expansion %}Yes{% else %}No{% endif %}</strong>
+  <strong>
+    {% if page.expansion %}
+      {{ page.expansion }}
+    {% else %}
+      No Information Provided
+    {% endif %}
+  </strong>
 </p>
 
-<img src="{{
-    '/assets/img/states/'
-    | append: page.title
-    | append: '.png'
-    | relative_url
-  }}" alt="{{ page.title }}" />
+{% if page.territory %}
+  <p><small>no map found</small></p>
+{% else %}
+  <img src="{{
+      '/assets/img/states/'
+      | append: page.title
+      | append: '.png'
+      | relative_url
+    }}" alt="{{ page.title }}" />
+{% endif %}
 
 {{ content }}
 

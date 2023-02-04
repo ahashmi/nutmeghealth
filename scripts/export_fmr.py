@@ -204,6 +204,6 @@ if __name__ == '__main__':
     logger_nm='export_fmr'
   )
   main(
-    state_list=TEST_STATES,
+    # state_list=TEST_STATES,
     logger_nm='export_fmr',
   )

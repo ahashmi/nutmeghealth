@@ -1293,3 +1293,52 @@
 2023-02-02 09:57:56,281 - export_fmr - INFO - [extract_fmr_data] states updated: 6
 2023-02-02 09:57:56,317 - export_fmr - INFO - [publish_state_data] output files written (6): ['VT', 'NH', 'ME', 'MA', 'CT', 'RI']
 2023-02-02 09:57:56,321 - export_fmr - INFO - [publish_graph_data] graph files written -> types: ['MAP', 'ADM', 'CHIP'], states: 6
+2023-02-03 21:09:26,042 - export_fmr - DEBUG - [Export_FMR main] defaulting to all states
+2023-02-03 21:09:26,042 - export_fmr - DEBUG - [extract_fmr] data years -> from: 2015 to: 2021
+2023-02-03 21:09:26,042 - export_fmr - INFO - [extract_fmr] MDCD files found: 7
+2023-02-03 21:09:26,577 - export_fmr - DEBUG - [FMR] 2015 MDCD file initialized
+2023-02-03 21:09:27,605 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 114
+2023-02-03 21:09:27,803 - export_fmr - INFO - [extract_amounts] data types: {'ADM', 'MAP'}
+2023-02-03 21:09:27,967 - export_fmr - DEBUG - [FMR] 2016 MDCD file initialized
+2023-02-03 21:09:28,980 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 114
+2023-02-03 21:09:29,162 - export_fmr - INFO - [extract_amounts] data types: {'ADM', 'MAP'}
+2023-02-03 21:09:29,324 - export_fmr - DEBUG - [FMR] 2017 MDCD file initialized
+2023-02-03 21:09:30,396 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 114
+2023-02-03 21:09:30,579 - export_fmr - INFO - [extract_amounts] data types: {'ADM', 'MAP'}
+2023-02-03 21:09:30,741 - export_fmr - DEBUG - [FMR] 2018 MDCD file initialized
+2023-02-03 21:09:31,805 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 114
+2023-02-03 21:09:32,010 - export_fmr - INFO - [extract_amounts] data types: {'ADM', 'MAP'}
+2023-02-03 21:09:32,194 - export_fmr - DEBUG - [FMR] 2019 MDCD file initialized
+2023-02-03 21:09:33,230 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 114
+2023-02-03 21:09:33,404 - export_fmr - INFO - [extract_amounts] data types: {'ADM', 'MAP'}
+2023-02-03 21:09:33,567 - export_fmr - DEBUG - [FMR] 2020 MDCD file initialized
+2023-02-03 21:09:34,621 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 114
+2023-02-03 21:09:34,817 - export_fmr - INFO - [extract_amounts] data types: {'ADM', 'MAP'}
+2023-02-03 21:09:34,992 - export_fmr - DEBUG - [FMR] 2021 MDCD file initialized
+2023-02-03 21:09:36,138 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 114
+2023-02-03 21:09:36,346 - export_fmr - INFO - [extract_amounts] data types: {'ADM', 'MAP'}
+2023-02-03 21:09:36,347 - export_fmr - INFO - [extract_fmr] CHIP files found: 7
+2023-02-03 21:09:36,586 - export_fmr - DEBUG - [FMR] 2015 CHIP file initialized
+2023-02-03 21:09:37,377 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 171
+2023-02-03 21:09:37,636 - export_fmr - INFO - [extract_amounts] data types: {'MCHIP 20%', 'MCHIP', 'CHIP'}
+2023-02-03 21:09:37,870 - export_fmr - DEBUG - [FMR] 2016 CHIP file initialized
+2023-02-03 21:09:38,592 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 171
+2023-02-03 21:09:38,835 - export_fmr - INFO - [extract_amounts] data types: {'MCHIP 20%', 'MCHIP', 'CHIP'}
+2023-02-03 21:09:39,086 - export_fmr - DEBUG - [FMR] 2017 CHIP file initialized
+2023-02-03 21:09:39,769 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 171
+2023-02-03 21:09:40,041 - export_fmr - INFO - [extract_amounts] data types: {'MCHIP 20%', 'MCHIP', 'CHIP'}
+2023-02-03 21:09:40,293 - export_fmr - DEBUG - [FMR] 2018 CHIP file initialized
+2023-02-03 21:09:40,999 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 171
+2023-02-03 21:09:41,234 - export_fmr - INFO - [extract_amounts] data types: {'MCHIP 20%', 'MCHIP', 'CHIP'}
+2023-02-03 21:09:41,505 - export_fmr - DEBUG - [FMR] 2019 CHIP file initialized
+2023-02-03 21:09:42,223 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 171
+2023-02-03 21:09:42,467 - export_fmr - INFO - [extract_amounts] data types: {'MCHIP 20%', 'MCHIP', 'CHIP'}
+2023-02-03 21:09:42,704 - export_fmr - DEBUG - [FMR] 2020 CHIP file initialized
+2023-02-03 21:09:43,459 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 171
+2023-02-03 21:09:43,735 - export_fmr - INFO - [extract_amounts] data types: {'MCHIP 20%', 'MCHIP', 'CHIP'}
+2023-02-03 21:09:44,002 - export_fmr - DEBUG - [FMR] 2021 CHIP file initialized
+2023-02-03 21:09:44,738 - export_fmr - DEBUG - [parse_sheets] loaded sheets: 171
+2023-02-03 21:09:44,988 - export_fmr - INFO - [extract_amounts] data types: {'MCHIP 20%', 'MCHIP', 'CHIP'}
+2023-02-03 21:09:44,988 - export_fmr - INFO - [extract_fmr_data] states updated: 60
+2023-02-03 21:09:45,143 - export_fmr - INFO - [publish_state_data] output files written (60): ['AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA', 'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ', 'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY', 'GU', 'PR', 'VI', 'DK', 'OL', 'PI', 'USA', 'DC', 'MP', 'AS']
+2023-02-03 21:09:45,198 - export_fmr - INFO - [publish_graph_data] graph files written -> types: ['MAP', 'ADM', 'CHIP'], states: 60

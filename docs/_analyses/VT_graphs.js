@@ -23,7 +23,6 @@ var CHIP = {
 
 var data = [MAP, ADM, CHIP];
 
-
 var layout = {
     title: 'State FMR Total Computable Amounts',
     height: 640,

@@ -36,6 +36,9 @@ November 18, 2022
 * [In bias we trust? Explanation methods that help users determine whether to trust machine-learning model predictions can be less accurate for disadvantaged subgroups, a new study finds.](https://news.mit.edu/2022/machine-learning-bias-0601)
 * [Tutorial: AI Fairness through Robustness](https://research.ibm.com/publications/ai-fairness-through-robustness)
   * Authors: [Mikhail Yurochkin (IBM-MIT)](https://moonfolk.github.io/), [Yuekai Sun (UMich)](https://yuekai.github.io/), [Pin-Yu Chen (IBM-MIT)](https://sites.google.com/site/pinyuchenpage/home)
+* [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+* [Jan 2022, An ONC Artificial Intelligence Showcase – Seizing the Opportunities and Managing the Risks of Use of AI in Health IT](https://www.healthit.gov/news/events/onc-artificial-intelligence-showcase-seizing-opportunities-and-managing-risks-use-ai)
+  * multiple stakeholders, agenda, and recording
 
 ## Healh Policy & Analysis
 
@@ -139,6 +142,11 @@ November 18, 2022
 * [Healthy ML Group at MIT - Dr. Marzyeh Ghassemi](https://healthyml.org/)
 * [New York Academy of Medicine > Collections > Data Sets](https://www.nyam.org/library/collections-and-resources/data-sets/)
 * [CMS 2008-2010 Data Entrepreneurs’ Synthetic Public Use File (DE-SynPUF)](https://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/SynPUFs/DE_Syn_PUF)
+* [HealthJulia](https://juliahealth.org/)
+  * [github org](https://github.com/JuliaHealth)
+* [Peterson-KFF Health System Tracker](https://www.healthsystemtracker.org/)
+* [US Bureau of Economic Analysis](https://www.bea.gov/data/special-topics/health-care)
+* [KFF: Medicaid State Fact Sheets](https://www.kff.org/interactive/medicaid-state-fact-sheets/)
 
 ## FHIR
 
@@ -152,6 +160,8 @@ November 18, 2022
 * Implementation Guides related to provider directories:
   * [Validated Provider - older?](http://build.fhir.org/ig/HL7/VhDir/)
   * [DaVinci PDEX Plan Net - more current](https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/)
+* [SMART on FHIR](https://docs.smarthealthit.org/)
+* [Vermonster github](https://github.com/Vermonster)
 
 ## Nutrition & Health
 
@@ -175,6 +185,19 @@ November 18, 2022
 * [Characteristics and determinants of high-risk unscheduled return visits to the emergency department | Emergency Medicine Journal](https://emj.bmj.com/content/37/2/79.abstract)
 * [Ziad Obermeyer | NBER](https://www.nber.org/people/ziad_obermeyer?page=1&perPage=50)
 * [Research – Ziad Obermeyer](http://ziadobermeyer.com/research/)
+
+## Other Researchers
+
+* [Miguel Hernan - Harvard](https://www.hsph.harvard.edu/miguel-hernan/)
+* [Richard McElrath - Max Planc Inst.](https://www.eva.mpg.de/ecology/staff/richard-mcelreath/)
+  * [Statistical Rethinking (book)](https://xcelab.net/rm/statistical-rethinking/)
+  * [Statistical Rethinkig 2023 (course)](https://github.com/rmcelreath/stat_rethinking_2023)
+  * in julia: <https://shmuma.github.io/rethinking-2ed-julia/>
+* [Willaim Brown - Brandeis](https://heller.brandeis.edu/facguide/person.html?emplid=37e46766a2b3cc3578919b8b337edf6886f568f4)
+  * co-author on "Machine Learning Methods in Health Economics and Outcomes
+Research—The PALISADE Checklist: A Good Practices Report of an ISPOR
+Task Force"
+* [Ellen Andrews - CT Health Policy Project](https://cthealthpolicy.org/)
 
 ## Methods
 
@@ -210,7 +233,9 @@ November 18, 2022
   * [OIG's Top Unimplemented Recommendations 2021 (pdf)](https://oig.hhs.gov/reports-and-publications/compendium/index.asp)
 * [Tahir Ekin - Texas State Univ.](https://faculty.txst.edu/profile/1238240) | [personal site](https://www.tahirekin.com/)
   * [google scholar page](https://scholar.google.com/citations?hl=en&user=xFOypawAAAAJ)
+* [US DOJ (2/2/2023): New Jersey Man & Company Operating Nursing Homes and Assisted Living Facilities in Wisconsin Charged with Health Care Fraud](https://www.justice.gov/usao-wdwi/pr/new-jersey-man-company-operating-nursing-homes-and-assisted-living-facilities-wisconsin)
 
 ## System Dynamics (to expand)
+
 * <https://sites.google.com/site/ranxupersonalweb/home>
 * <https://sites.google.com/vt.edu/navid>
