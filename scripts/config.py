@@ -3,6 +3,8 @@ import us
 
 PROJ_PATH = Path(__file__).parents[1]
 
+DATA_YEARS = [str(y) for y in range(2015,2022)]
+
 paths = {
   'data': PROJ_PATH / 'DATA',
   'logs': PROJ_PATH / 'logs',

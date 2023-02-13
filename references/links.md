@@ -234,6 +234,7 @@ Task Force"
 * [Tahir Ekin - Texas State Univ.](https://faculty.txst.edu/profile/1238240) | [personal site](https://www.tahirekin.com/)
   * [google scholar page](https://scholar.google.com/citations?hl=en&user=xFOypawAAAAJ)
 * [US DOJ (2/2/2023): New Jersey Man & Company Operating Nursing Homes and Assisted Living Facilities in Wisconsin Charged with Health Care Fraud](https://www.justice.gov/usao-wdwi/pr/new-jersey-man-company-operating-nursing-homes-and-assisted-living-facilities-wisconsin)
+* [Medicaid and CHIP Managed Care Final Rules](https://www.medicaid.gov/medicaid/managed-care/guidance/medicaid-and-chip-managed-care-final-rules/index.html)
 
 ## System Dynamics (to expand)
 

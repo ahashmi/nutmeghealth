@@ -1,4 +1,4 @@
-from config import paths, states_abbrs
+from config import paths, states_abbrs, DATA_YEARS
 from util import config_log
 from logging import getLogger
 import pandas as pd
@@ -6,7 +6,6 @@ import json
 from copy import deepcopy
 
 TEST_STATES = ['VT', 'NH', 'ME', 'MA', 'CT', 'RI']
-DATA_YEARS = [str(y) for y in range(2015,2022)]
 FMR_PLOTS = ['MAP', 'ADM', 'CHIP']
 FMR_TYPES = FMR_PLOTS + ['MCHIP', 'MCHIP 20%']
 FMR_DIR = paths['data'] / 'fmr'
@@ -196,7 +195,6 @@ def main(
     state_data=all_states,
     logger_nm=logger_nm
   )
-  
   
 
 if __name__ == '__main__':
