@@ -100,6 +100,7 @@ November 18, 2022
   * <https://www.empirecenter.org/wp-content/uploads/2022/11/Long-Term-Crisis-final.pdf>
 * [Risk Adjustment: It’s Time For Reform](https://www.healthaffairs.org/content/forefront/risk-adjustment-s-time-reform)
   * by [Aneesh Chopra](https://www.linkedin.com/in/apchopra/), former [first Cheif Technology Officer of the United States](https://en.wikipedia.org/wiki/Aneesh_Chopra), current founder of [CareJourney](https://carejourney.com/)
+* [KFF: What to Know about Medicare Spending and Financing](https://www.kff.org/medicare/issue-brief/what-to-know-about-medicare-spending-and-financing/)
 
 ## Healthcare & Related Data
 
@@ -147,6 +148,14 @@ November 18, 2022
 * [Peterson-KFF Health System Tracker](https://www.healthsystemtracker.org/)
 * [US Bureau of Economic Analysis](https://www.bea.gov/data/special-topics/health-care)
 * [KFF: Medicaid State Fact Sheets](https://www.kff.org/interactive/medicaid-state-fact-sheets/)
+* [CMS Innovation Center: Data & Reports](https://innovation.cms.gov/data-and-reports)
+* [CMS Program Statistics (Medicare)](https://data.cms.gov/collection/cms-program-statistics)
+* [Hospitals Data | Homeland Infrastructure Foundation-Level Data (HIFLD)](https://aws.amazon.com/marketplace/pp/prodview-pg52qkffii33s)
+  * offered by `rearc` free through AWS Data Exchange
+* [John Snow Labs - Healthcare Data Library](https://www.johnsnowlabs.com/welcome-to-the-healthcare-data-library/)
+* [Institute for Health Metrics](https://www.healthmetrics.org/new-page)
+  * [insightsDB Synthetic Structured EHR Data](https://aws.amazon.com/marketplace/pp/prodview-hln66aqswpyui)
+* 
 
 ## FHIR
 
@@ -162,6 +171,8 @@ November 18, 2022
   * [DaVinci PDEX Plan Net - more current](https://build.fhir.org/ig/HL7/davinci-pdex-plan-net/)
 * [SMART on FHIR](https://docs.smarthealthit.org/)
 * [Vermonster github](https://github.com/Vermonster)
+* [FLIP - Federated Learning Interoperability Platform](https://github.com/AI4VBH/FLIP)
+  * [repo by The London Medical Imaging & AI Centre for Value Based Healthcare](https://aicentre.co.uk/)
 
 ## Nutrition & Health
 
