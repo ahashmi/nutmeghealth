@@ -155,7 +155,6 @@ November 18, 2022
 * [John Snow Labs - Healthcare Data Library](https://www.johnsnowlabs.com/welcome-to-the-healthcare-data-library/)
 * [Institute for Health Metrics](https://www.healthmetrics.org/new-page)
   * [insightsDB Synthetic Structured EHR Data](https://aws.amazon.com/marketplace/pp/prodview-hln66aqswpyui)
-* 
 
 ## FHIR
 
