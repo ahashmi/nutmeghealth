@@ -1,0 +1,533 @@
+﻿﻿Agenda | CDC Hybrid Industry Day
+https://cdcid.fbcevent.com/agenda
+
+AIPM - Roux Institute at Northeastern University
+https://roux.northeastern.edu/aipm/
+
+Applied Natural Language Processing | NLP Summit
+https://www.nlpsummit.org/#register
+
+Frontiers | The United States must improve its data infrastructure to ensure high-quality mental health care
+https://www.frontiersin.org/articles/10.3389/frhs.2023.1059049/full
+
+1906.00442.pdf
+https://arxiv.org/pdf/1906.00442.pdf
+
+Julia Data Science
+https://juliadatascience.io/juliadatascience.pdf
+
+(2) Jianli Ren | LinkedIn
+https://www.linkedin.com/in/jianliren/?originalSubdomain=ca
+
+(2) Ryan Gregory Mastro, PhD | LinkedIn
+https://www.linkedin.com/in/ryan-gregory-mastro-phd/
+
+Workshop
+https://www.starflame.org/warm
+
+Causal Network Analysis | Annual Review of Sociology
+https://www.annualreviews.org/doi/abs/10.1146/annurev-soc-030320-102100
+
+Jun Xu - Modern Applied Regressions
+https://sites.google.com/site/socjunxu/home/statistics/modern-applied-regressions
+
+An Enhanced Secure Deep Learning Algorithm for Fraud Detection in Wireless Communication
+https://www.hindawi.com/journals/wcmc/2021/6079582/
+
+Credit Card Fraud Detection Using Machine Learning | IEEE Conference Publication | IEEE Xplore
+https://ieeexplore.ieee.org/abstract/document/9121114
+
+Applying Supervised Machine Learning Algorithms for Fraud Detection in Anti-Money Laundering | hc:43349 | Humanities CORE
+https://hcommons.org/deposits/item/hc:43349/
+
+WMTDBC: An unsupervised multivariate analysis model for fraud detection in health insurance claims - ScienceDirect
+https://www.sciencedirect.com/science/article/abs/pii/S0957417422022771
+
+Big Book of R
+https://www.bigbookofr.com/
+
+A cheat sheet for using IBM Watson Libraries - IBM Developer
+https://developer.ibm.com/blogs/cheatsheet-for-watson-libraries/
+
+Think Stats: Probability and Statistics for Programmers - 2e - Open Textbook Library
+https://open.umn.edu/opentextbooks/textbooks/287#:~:text=Think%20Stats%20is%20an%20introduction,the%20National%20Institutes%20of%20Health.
+
+Credit Card Fraud Detection | Kaggle
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/code?datasetId=310&sortBy=voteCount
+
+A Secure AI-Driven Architecture for Automated Insurance Systems: Fraud Detection and Risk Measurement | IEEE Journals & Magazine | IEEE Xplore
+https://ieeexplore.ieee.org/abstract/document/9046765
+
+Intelligent financial fraud detection practices in post-pandemic era - ScienceDirect
+https://www.sciencedirect.com/science/article/pii/S2666675821001016
+
+Example-dependent cost-sensitive credit cards fraud detection using SMOTE and Bayes minimum risk | SpringerLink
+https://link.springer.com/article/10.1007/s42452-020-03375-w
+
+Predicting credit card fraud with Sarbanes‐Oxley assessments and Fama‐French risk factors - Westland - 2020 - Intelligent Systems in Accounting, Finance and Management - Wiley Online Library
+https://onlinelibrary.wiley.com/doi/10.1002/isaf.1472
+
+amazon-science/fraud-dataset-benchmark: Repository for Fraud Dataset Benchmark
+https://github.com/amazon-science/fraud-dataset-benchmark
+
+Fraud Detection | Papers With Code
+https://paperswithcode.com/task/fraud-detection
+
+Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters | Papers With Code
+https://paperswithcode.com/paper/enhancing-graph-neural-network-based-fraud
+
+Promoting Fairness through Hyperparameter Optimization | Papers With Code
+https://paperswithcode.com/paper/promoting-fairness-through-hyperparameter
+
+How effective are Graph Neural Networks in Fraud Detection for Network Data? | Papers With Code
+https://paperswithcode.com/paper/how-effective-are-graph-neural-networks-in
+
+Remote Sensing | Free Full-Text | Wildfire Smoke Particle Properties and Evolution, From Space-Based Multi-Angle Imaging II: The Williams Flats Fire during the FIREX-AQ Campaign
+https://www.mdpi.com/2072-4292/12/22/3823
+
+Smoke Plume Dynamics
+https://www.fs.usda.gov/research/publications/book/wildfiresmoke/wildfiresmokechapter4.pdf
+
+acp-21-1407-2021.pdf
+https://acp.copernicus.org/articles/21/1407/2021/acp-21-1407-2021.pdf
+
+ACP - Evaluation and intercomparison of wildfire smoke forecasts from multiple modeling systems for the 2019 Williams Flats fire
+https://acp.copernicus.org/articles/21/14427/2021/
+
+Applying Machine Learning Techniques to Track Smoke Plumes: Phase II
+https://www.tceq.texas.gov/downloads/air-quality/research/reports/data-analysis/5822231966013-20220630-aer-machine-learning-smoke-plume-tracking-phaseii.pdf
+
+How to beat the heck out of XGBoost with LightGBM | Kaggle
+https://www.kaggle.com/code/bextuychiev/how-to-beat-the-heck-out-of-xgboost-with-lightgbm
+
+Probabilistic Decision Support
+https://www.weather.gov/tbw/probabilistic
+
+Probabilistic Hazards Outlook
+https://www.cpc.ncep.noaa.gov/products/predictions/threats/threats.php
+
+A framework for probabilistic weather forecast post-processing across models and lead times using machine learning | Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences
+https://royalsocietypublishing.org/doi/10.1098/rsta.2020.0099
+
+Wildfire Smoke: A Guide for Public Health Officials | AirNow.gov
+https://www.airnow.gov/publications/wildfire-smoke-guide/wildfire-smoke-a-guide-for-public-health-officials/
+
+PowerPoint Presentation
+https://louisvilleky.gov/air-pollution-control-district/document/benmappresentationpdf
+
+Respiratory Impacts of Wildland Fire Smoke: Future Challenges and Policy Opportunities. An Official American Thoracic Society Workshop Report | Annals of the American Thoracic Society
+https://www.atsjournals.org/doi/full/10.1513/AnnalsATS.202102-148ST
+
+Air Quality Dispersion Modeling | US EPA
+https://www.epa.gov/scram/air-quality-dispersion-modeling
+
+positionstack - Free Address Geocoding & Maps API
+https://positionstack.com/
+
+Pandemic Oversight - Home | Pandemic Oversight
+https://www.pandemicoversight.gov/
+
+Healthcare Integrated General Ledger Accounting System (HIGLAS) | CMS
+https://www.cms.gov/Research-Statistics-Data-and-Systems/Computer-Data-and-Systems/HIGLAS
+
+CPI | CMS
+https://www.cms.gov/about-cms/components/cpi
+
+future-of-risk-modeling-110871.pdf
+https://www.sas.com/content/dam/SAS/documents/marketing-whitepapers-ebooks/sas-whitepapers/en/future-of-risk-modeling-110871.pdf
+
+A Machine Learning Risk Management Framework for Sustainable Oil and Gas Solutions > Landmark Solutions – E&P Software
+https://www.landmark.solutions/Spotlights/ID/39/A-Machine-Learning-Risk-Management-Framework-for-Sustainable-Oil-and-Gas-Solutions
+
+AI Risk Management Framework | NIST
+https://www.nist.gov/itl/ai-risk-management-framework
+
+Operationalizing Fraud Preventing
+https://www.ibm.com/downloads/cas/DOXY3Q94
+
+Preventing Fraud with AI and IBM Telum Processor: The Value of Investing in IBM z16 - IBM Z and LinuxONE Community
+https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/gregory-sechuga/2022/07/05/preventing-fraud-with-ai-and-ibm-telum-processor
+
+Improper Payments | U.S. GAO
+https://www.gao.gov/improper-payments
+
+Data Applications → Analyze Oracle EBS General Ledger
+https://docs.incorta.com/5.2/blueprints-oracle-ebs-general-ledger
+
+U.S. Treasury Fiscal Data
+https://fiscaldata.treasury.gov/
+
+(2) Mojgan Pedoeim | LinkedIn
+https://www.linkedin.com/in/mojgan-pedoeim-796938/
+
+Reference | X12
+https://x12.org/reference
+
+Medicare Program Integrity Manual
+https://www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/downloads/pim83c02.pdf
+
+Fraud Detection Systems: Centers for Medicare and Medicaid Services Needs to Ensure More Widespread Use | U.S. GAO
+https://www.gao.gov/products/gao-11-475#:~:text=One%20PI%20is%20a%20Web,trained%20and%20using%20the%20system.
+
+Chapter 7 Cleaning data | Audit Analytics with R
+https://auditanalytics.jonlin.ca/cleaning-data.html#basic-math
+
+The fight against money laundering: Machine learning is a game changer | McKinsey
+https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-fight-against-money-laundering-machine-learning-is-a-game-changer#/
+
+the-fight-against-money-laundering-machine-learning-is-a-game-changer-final-v1.pdf
+https://www.mckinsey.com/~/media/mckinsey/business%20functions/risk/our%20insights/the%20fight%20against%20money%20laundering%20machine%20learning%20is%20a%20game%20changer/the-fight-against-money-laundering-machine-learning-is-a-game-changer-final-v1.pdf
+
+Gartner Reprint
+https://www.gartner.com/doc/reprints?__hstc=144076010.9a9bdcb925a24005e7cedacbb7785f7d.1678974535819.1678974535819.1678974535819.1&__hssc=144076010.2.1678974535819&__hsfp=1515391374&id=1-2CBLDDCK&ct=230120&st=sb&submissionGuid=6106277c-1c4d-47f9-9104-abca139ff31e
+
+Next generation anti-money laundering: robotics, semantic analysis and AI | SAS
+https://www.sas.com/en_id/insights/articles/marketing/next-generation-anti-money-laundering.html?utm_source=google&utm_medium=cpc&utm_campaign=fraudbanking-us&utm_content=GMS-136821&gclid=CjwKCAjw_MqgBhAGEiwAnYOAet0WhwAiPPt_Ljzh2Z4VFMUmIzE37przx2Ud1E1vW7ZEI_O3L5ZMjBoCfmQQAvD_BwE
+
+Test data science code with Azure DevOps - Azure Architecture Center | Microsoft Learn
+https://learn.microsoft.com/en-us/azure/architecture/data-science-process/code-test
+
+Machine Learning Fundamentals at CSE - Code With Engineering Playbook
+https://microsoft.github.io/code-with-engineering-playbook/machine-learning/
+
+DSSG Hitchhickers guide
+https://dssg.github.io/hitchhikers-guide/
+
+Data Consolidation - Conexus
+https://conexus.com/
+
+[1503.03571] Algebraic Data Integration
+https://arxiv.org/abs/1503.03571
+
+Broad Institute
+https://www.broadinstitute.org/
+
+2301.04846v1.pdf
+https://arxiv.org/pdf/2301.04846v1.pdf
+
+Categorical data integration for computational science - ScienceDirect
+https://www.sciencedirect.com/science/article/abs/pii/S0927025619302046
+
+_DHW_08__Orchid_Long.pdf
+http://wwwlgis.informatik.uni-kl.de/cms/fileadmin/publications/2008/_DHW_08__Orchid_Long.pdf
+
+David Spivak's Homepage
+https://math.mit.edu/~dspivak/
+
+1
+https://math.mit.edu/~dspivak/informatics/grants/NASA-Proposal.pdf
+
+Categorical informatics
+https://math.mit.edu/~dspivak/informatics/
+
+Ryan Wisnesky
+https://www.wisnesky.net/
+
+CQL
+https://www.categoricaldata.net/
+
+Splink
+https://moj-analytical-services.github.io/splink/
+
+AWS Samples
+https://github.com/aws-samples?q=responsi&type=all&language=&sort=
+
+How a paper by three Oxford academics influenced AWS bias and explainability software - Amazon Science
+https://www.amazon.science/latest-news/how-a-paper-by-three-oxford-academics-influenced-aws-bias-and-explainability-software
+
+[2005.05906] Why Fairness Cannot Be Automated: Bridging the Gap Between EU Non-Discrimination Law and AI
+https://arxiv.org/abs/2005.05906
+
+delivery.php
+https://deliverypdf.ssrn.com/delivery.php?ID=468065099084001018011002097015126074002033009058089053073089097071090000069070127090056119012045118056006023028028066028113119050004033058059086031019082119074092011047082044026113099021022090005110108123104105015004089086118100069005076107004028029100&EXT=pdf&INDEX=TRUE
+
+Amazon SageMaker Clarify: Machine learning bias detection and explainability in the cloud - Amazon Science
+https://www.amazon.science/publications/amazon-sagemaker-clarify-machine-learning-bias-detection-and-explainability-in-the-cloud
+
+Fair Bayesian optimization - Amazon Science
+https://www.amazon.science/publications/bayesian-optimization-with-fairness-constraints
+
+Fairness measures for machine learning in finance - Amazon Science
+https://www.amazon.science/publications/fairness-measures-for-machine-learning-in-finance
+
+‪J. Christopher Westland‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?hl=en&user=yvO4QoIAAAAJ&view_op=list_works&sortby=pubdate
+
+auditanalytics/inst/extdata at main · westland/auditanalytics
+https://github.com/westland/auditanalytics/tree/main/inst/extdata
+
+Teaching | J. Christopher Westland
+https://westland.people.uic.edu/?page_id=30
+
+Financial Statement Fraud Detection: An Analysis of Statistical and Machine Learning Algorithms
+https://www.researchgate.net/profile/Johan-Perols/publication/256045322_Financial_Statement_Fraud_Detection_An_Analysis_of_Statistical_and_Machine_Learning_Algorithms/links/5af06ebe0f7e9ba366415e00/Financial-Statement-Fraud-Detection-An-Analysis-of-Statistical-and-Machine-Learning-Algorithms.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail
+
+Systems | Free Full-Text | Detecting Anomalies in Financial Data Using Machine Learning Algorithms
+https://www.mdpi.com/2079-8954/10/5/130
+
+systems-10-00130.pdf
+file:///C:/Users/AliHashmi/Downloads/systems-10-00130.pdf
+
+Audit data analytics, machine learning, and full population testing - ScienceDirect
+https://www.sciencedirect.com/science/article/pii/S240591882200006X
+
+87.pdf
+http://ndl.ethernet.edu.et/bitstream/123456789/75939/1/87.pdf
+
+Employing transaction aggregation strategy to detect credit card fraud
+http://euro.ecom.cmu.edu/resources/elibrary/epay/1-s2.0-S0957417412007166-main.pdf
+
+A comparative study of frequentist vs Bayesian A/B testing in the detection of E-commerce fraud | Emerald Insight
+https://www.emerald.com/insight/content/doi/10.1108/JEBDE-07-2022-0020/full/html
+
+Predicting credit card fraud with Sarbanes‐Oxley assessments and Fama‐French risk factors - Westland - 2020 - Intelligent Systems in Accounting, Finance and Management - Wiley Online Library
+https://onlinelibrary.wiley.com/doi/10.1002/isaf.1472
+
+Microsoft Word - Sox-Breach .docx
+https://arxiv.org/ftp/arxiv/papers/1802/1802.10001.pdf
+
+Fiddler AI – ML Model Monitoring and Model Performance Management
+https://www.fiddler.ai/
+
+amundsen-io/amundsen: Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+https://github.com/amundsen-io/amundsen
+
+OpenLineage/OpenLineage: An Open Standard for lineage metadata collection
+https://github.com/OpenLineage/OpenLineage
+
+Egeria Project
+https://egeria-project.org/education/egeria-dojo/developer/overview/
+
+ydataai/ydata-synthetic: Synthetic data generators for tabular and time-series data
+https://github.com/ydataai/ydata-synthetic
+
+Overview — ydata-profiling 0.0.dev0 documentation
+https://ydata-profiling.ydata.ai/docs/master/index.html
+
+GSA launches AI Challenge to drive better healthcare outcomes | GSA
+https://www.gsa.gov/about-us/newsroom/news-releases/gsa-launches-ai-challenge-to-drive-better-healthcare-outcomes-02092023
+
+Health Equity DataJam Homepage 2023 | HealthData.gov
+https://healthdata.gov/stories/s/Health-Equity-DataJam-Homepage-2023/nqx6-g6vz
+
+Cost Reports | CMS
+https://www.cms.gov/research-statistics-data-and-systems/downloadable-public-use-files/cost-reports
+
+us-lshc-health-care-fraud-abuse.pdf
+https://www2.deloitte.com/content/dam/Deloitte/us/Documents/life-sciences-health-care/us-lshc-health-care-fraud-abuse.pdf
+
+Modernizing Medicaid Management Information Systems | Deloitte US
+https://www2.deloitte.com/us/en/pages/public-sector/solutions/medicaid-management-information-system-modernization.html
+
+Council of the Inspectors General on Integrity and Efficiency | Oversight.gov
+https://www.oversight.gov/inspectors-general/council-inspectors-general-integrity-and-efficiency#:~:text=Members%20of%20CIGIE-,The%20Council%20of%20the%20Inspectors%20General%20on%20Integrity%20and%20Efficiency,well%2Dtrained%20and%20highly%20skilled
+
+Integrity Committee | Council of the Inspectors General on Integrity and Efficiency; IGnet
+https://www.ignet.gov/cigie/committees/integrity-committee
+
+Deloitte’s Program Integrity Solution | Deloitte US
+https://www2.deloitte.com/us/en/pages/risk/solutions/anti-fraud-waste-and-abuse-managed-services-enterprise.html
+
+CMS Program Integrity's Role in Combatting FWA While Maintaining Health Equity
+https://hitconsultant.net/2023/02/14/cms-program-integritys-role-in-combatting-fwa-while-maintaining-health-equity/
+
+Healthcare Claim Payment Accuracy Solutions | Cotiviti
+https://www.cotiviti.com/solutions/payment-accuracy?utm_campaign=0123_PA_A_Multiview%20PPC&utm_source=Multiview-PaymentAccuracy-Google-03.2023&utm_medium=MV-PaymentAccuracy-Google&utm_content=Multiview-PaymentAccuracy-Google-03.2023&gclid=Cj0KCQjw2cWgBhDYARIsALggUhpFrEgs2VpkZU_buvJc-XjZ88qg-QwtUCHQ-YGWj0dxjVNXm3Xvg10aAsFrEALw_wcB&gclsrc=aw.ds
+
+Program Integrity | Medicaid
+https://www.medicaid.gov/medicaid/program-integrity/index.html
+
+UPICs Hold Promise to Enhance Program Integrity Across Medicare and Medicaid, But Challenges Remain
+https://oig.hhs.gov/oei/reports/OEI-03-20-00330.pdf
+
+awslabs/realtime-fraud-detection-with-gnn-on-dgl: An end-to-end blueprint architecture for real-time fraud detection(leveraging graph database Amazon Neptune) using Amazon SageMaker and Deep Graph Library (DGL) to construct a heterogeneous graph from tabular data and train a Graph Neural Network(GNN) model to detect fraudulent transactions in the IEEE-CIS dataset.
+https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl
+
+benedekrozemberczki/awesome-fraud-detection-papers: A curated list of data mining papers about fraud detection.
+https://github.com/benedekrozemberczki/awesome-fraud-detection-papers
+
+pygod-team/pygod: A Python Library for Graph Outlier Detection (Anomaly Detection)
+https://github.com/pygod-team/pygod
+
+IBM/xgboost-smote-detect-fraud: Can we predict accurately on the skewed data? What are the sampling techniques that can be used. Which models/techniques can be used in this scenario? Find the answers in this code pattern!
+https://github.com/IBM/xgboost-smote-detect-fraud
+
+awslabs/sagemaker-graph-fraud-detection: Use Amazon SageMaker and Deep Graph Library (DGL) for Fraud Detection in Networks
+https://github.com/awslabs/sagemaker-graph-fraud-detection
+
+Peraton Labs - Home
+https://www.peratonlabs.com/
+
+Medicaid Integrity Program | CMS
+https://www.cms.gov/Medicare-Medicaid-Coordination/Fraud-Prevention/Medicaid-Integrity-Program
+
+Leveraging Primary Care Population-Based Payments In Medicaid To Advance Health Equity | Health Affairs
+https://www.healthaffairs.org/content/forefront/leveraging-primary-care-population-based-payments-medicaid-advance-health-equity
+
+Medicare Advantage Audit Changes Let Plans Keep Billions In Overpayments | Health Affairs
+https://www.healthaffairs.org/content/forefront/medicare-advantage-audit-changes-let-plans-keep-billions-overpayments
+
+ARPA-H signals it’s open for business with range of new initiatives | ARPA-H
+https://arpa-h.gov/news/one-year/
+
+Overview - SAS Innovate 2023
+https://innovate.sas.com/event/8f50bb6d-ae11-4687-a7a9-f6c8204eba24/summary?RefID=PLN3166_1065585743&utm_source=LINKEDIN&utm_medium=social-advocacy&utm_content=9136037550&utm_campaign=SAS%20Brand
+
+Open Broad Agency Announcement | ARPA-H
+https://arpa-h.gov/engage/baa/
+
+PowerPoint Presentation
+https://d1.awsstatic.com/events/Summits/reinvent2022/HLC204_Advancing-health-equity-with-Amazon-HealthLake.pdf
+
+The Estimated Value of Tax Exemption for Nonprofit Hospitals Was Nearly $28 Billion in 2020 | KFF
+https://www.kff.org/health-costs/issue-brief/the-estimated-value-of-tax-exemption-for-nonprofit-hospitals-was-nearly-28-billion-in-2020/
+
+CMS Innovation Center Homepage | CMS Innovation Center
+https://innovation.cms.gov/
+
+Medical Loss Ratio | CMS
+https://www.cms.gov/CCIIO/Programs-and-Initiatives/Health-Insurance-Market-Reforms/Medical-Loss-Ratio
+
+Total Medical Loss Ratio (MLR) Rebates in All Markets for Consumers and Families | KFF
+https://www.kff.org/health-reform/state-indicator/mlr-rebates-total/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+
+SurrealDB | Documentation | The ultimate serverless cloud database
+https://surrealdb.com/docs/integration/libraries/nodejs
+
+Web frameworks: Why use Express.js with Node.js? | Red Hat Developer
+https://developers.redhat.com/articles/2021/12/03/introduction-nodejs-reference-architecture-part-6-choosing-web-frameworks
+
+Node.js Reference Architecture | Node.JS Reference Architecture
+https://nodeshift.dev/nodejs-reference-architecture/
+
+Organization and Performance of US Health Systems | Health Care Reform | JAMA | JAMA Network
+https://jamanetwork.com/journals/jama/article-abstract/2800656
+
+Unlocking Population Health Analytics and Revenue Cycle Management Inefficiencies with AWS
+https://awsddwhealthcare0314.splashthat.com/?trk=46e744c4-8877-469b-b583-0b233cd7c7c0&sc_channel=em
+
+Council On Health Care Spending And Value | Health Affairs
+https://www.healthaffairs.org/council-on-health-care-spending-and-value
+
+A Road Map For Action On Health Care Spending And Value: Part III – Spending Growth Targets
+https://www.forbes.com/sites/billfrist/2023/02/28/a-road-map-for-action-on-health-care-spending-and-value-part-iii--spending-growth-targets/?sh=2f2aa78f3e35
+
+From-Vision-to-Design-in-Advancing-Medicare-Payment-Reform-1.pdf
+https://www.brookings.edu/wp-content/uploads/2021/10/From-Vision-to-Design-in-Advancing-Medicare-Payment-Reform-1.pdf
+
+hope.scienceconnect.io
+https://hope.scienceconnect.io/api/oauth/authorize?ui_locales=en&scope=affiliations+login_method+merged_users+openid+settings&response_type=code&redirect_uri=https%3A%2F%2Fwww.healthaffairs.org%2Faction%2FoidcCallback%3FidpCode%3Dconnect&state=KzDt5w8lBI4nWMEi9xiTD_WVqq22vbMcEfTRDf-Czh0&nonce=POS%2F0yw1cEhhv4XOZV3Gmp%2Bg78zdTFJctfLhdIs%2Bj%2FM%3D&prompt=none&client_id=hope
+
+Evaluation.gov | In the Spotlight – IRS Office of Research, Applied Analytics, and Statistics
+https://www.evaluation.gov/2021-11-17-in-the-spotlight-irs-raas/
+
+17rpirsbehavioralinsights.pdf
+https://www.irs.gov/pub/irs-soi/17rpirsbehavioralinsights.pdf
+
+National Institute of Statistical Sciences
+https://www.niss.org/
+
+epfml/OptML_course: EPFL Course - Optimization for Machine Learning - CS-439
+https://github.com/epfml/OptML_course
+
+9780132593601.pdf
+https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20the%20Design%20and%20Analysis%20of%20Algorithms%20%283rd%20ed.%29%20%5BLevitin%202011-10-09%5D.pdf
+
+Mathematics for Machine Learning and Data Science | Coursera
+https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
+
+Eugene Bagdasaryan's website
+https://www.cs.cornell.edu/~eugene/
+
+‪Eugene Bagdasaryan‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?hl=en&user=_MfoOC8AAAAJ&view_op=list_works&sortby=pubdate
+
+(2) Eugene Bagdasaryan | LinkedIn
+https://www.linkedin.com/in/ebagdasaryan/
+
+BANDS Workshop at ICLR 2023 - Department of Computer Science - Purdue University
+https://www.cs.purdue.edu/news/articles/2022/bands-iclr23.html
+
+The New Crisis of Increasing All-Cause Mortality in US Children and Adolescents | Adolescent Medicine | JAMA | JAMA Network
+https://jamanetwork.com/journals/jama/fullarticle/2802602?guestAccessKey=a55902a1-f7dc-407a-b252-4a5c204cf169&utm_source=For_The_Media
+
+cleanlab/cleanlab: The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
+https://github.com/cleanlab/cleanlab
+
+Cleanlab
+https://cleanlab.ai/
+
+(2) Milena Pribić | LinkedIn
+https://www.linkedin.com/in/milenapribic/
+
+everydayethics.pdf
+https://www.ibm.com/watson/assets/duo/pdf/everydayethics.pdf
+
+laptops and netbooks :: thinkpad edge laptops :: thinkpad e590 type 20nb 20nc :: 20nb :: 20nb005hge :: pf1qavga - Lenovo Support US
+https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/thinkpad-edge-laptops/thinkpad-e590-type-20nb-20nc/20nb/20nb005hge/pf1qavga/downloads/driver-list/component?name=Networking%3A%20Wireless%20LAN
+
+‪Justin D. Weisz‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?hl=en&user=84FWSVUAAAAJ&view_op=list_works&sortby=pubdate
+
+Justin D Weisz - Home
+https://dl.acm.org/profile/81311482644
+
+Justin Weisz | IBM Research Profile
+https://research.ibm.com/people/justin-weisz
+
+(2) Justin Weisz | LinkedIn
+https://www.linkedin.com/in/jweisz3/
+
+[2202.04903] Investigating Explainability of Generative AI for Code through Scenario-based Design
+https://arxiv.org/abs/2202.04903
+
+The Emergence of Human-Centered AI | by Justin Weisz | Human-Centered AI | Feb, 2023 | Medium
+https://medium.com/human-centered-ai/the-emergence-of-human-centered-ai-25c6ff3b83f4
+
+HAI-GEN Workshop at IUI 2023 - HAI-GEN 2023
+https://hai-gen.github.io/2023/
+
+Home | HCXAI
+https://hcxai.jimdosite.com/
+
+Generative AI and HCI | CHI 2023 Workshop
+https://generativeaiandhci.github.io/
+
+Public Health: Building an integrated public health infrastructure | McKinsey
+https://www.mckinsey.com/industries/public-and-social-sector/our-insights/enabling-the-future-of-us-public-health-through-technology?stcr=74A24869A24647DB9B432A772833814F&cid=other-eml-alt-mip-mck&hlkid=0a2b46b4d2224e53b7cfb74dcdc15358&hctky=12827625&hdpid=49d05247-a68a-481c-a68c-69e285e9541c
+
+W3 | Open source development at IBM
+https://w3.ibm.com/developer/open-source/
+
+Behind the News - Sustainability accelerator
+https://w3.ibm.com/w3publisher/behind-the-news/sustainability-accelerator
+
+Hardware Security Keys - Choose your key
+https://w3.ibm.com/w3publisher/hardware-security-keys/choose-your-key
+
+Home - Winter Simulation Conference 2023
+https://meetings.informs.org/wordpress/wsc2023/
+
+(2) Melanie De Grano | LinkedIn
+https://www.linkedin.com/in/melanie-de-grano-740a174/
+
+(2) Howard Osborne | LinkedIn
+https://www.linkedin.com/in/howard-osborne-17b93217a/
+
+‪Dylan Small‬ - ‪Google Scholar‬
+https://scholar.google.com/citations?hl=en&user=R8L_WPQAAAAJ&view_op=list_works&sortby=pubdate
+
+Dylan Small
+http://www-stat.wharton.upenn.edu/~dsmall/
+
+U.S. Environmental Protection Agency | US EPA
+https://www.epa.gov/
+
+(2) P. Joseph (Joe) Gibson | LinkedIn
+https://www.linkedin.com/in/pjosephgibson/
+
+Joe Gibson | HealthIT.gov
+https://www.healthit.gov/hitac/member/joe-gibson
+
+Public Health 101 Series|CDC
+https://www.cdc.gov/training/publichealth101/index.html
