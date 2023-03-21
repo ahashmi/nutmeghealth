@@ -39,6 +39,7 @@ November 18, 2022
 * [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 * [Jan 2022, An ONC Artificial Intelligence Showcase – Seizing the Opportunities and Managing the Risks of Use of AI in Health IT](https://www.healthit.gov/news/events/onc-artificial-intelligence-showcase-seizing-opportunities-and-managing-risks-use-ai)
   * multiple stakeholders, agenda, and recording
+* [IBM: Everyday Ethics for AI (pdf)](https://www.ibm.com/watson/assets/duo/pdf/everydayethics.pdf)
 
 ## Healh Policy & Analysis
 
@@ -208,6 +209,7 @@ November 18, 2022
 Research—The PALISADE Checklist: A Good Practices Report of an ISPOR
 Task Force"
 * [Ellen Andrews - CT Health Policy Project](https://cthealthpolicy.org/)
+* [Justin Weisz - IBM Research](https://scholar.google.com/citations?hl=en&user=84FWSVUAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Methods
 
@@ -245,8 +247,24 @@ Task Force"
   * [google scholar page](https://scholar.google.com/citations?hl=en&user=xFOypawAAAAJ)
 * [US DOJ (2/2/2023): New Jersey Man & Company Operating Nursing Homes and Assisted Living Facilities in Wisconsin Charged with Health Care Fraud](https://www.justice.gov/usao-wdwi/pr/new-jersey-man-company-operating-nursing-homes-and-assisted-living-facilities-wisconsin)
 * [Medicaid and CHIP Managed Care Final Rules](https://www.medicaid.gov/medicaid/managed-care/guidance/medicaid-and-chip-managed-care-final-rules/index.html)
+* [J. Christopher Westland | U. of Chicago](https://business.uic.edu/profiles/j-christopher-westland/)
+  * [Book/repo: Audit Analytics: Data Science for the Accounting Profession](https://github.com/westland/auditanalytics)
+  * [pdf: Structural Equation Models](http://ndl.ethernet.edu.et/bitstream/123456789/75939/1/87.pdf)
+* [UPICs Hold Promise To Enhance Program Integrity Across Medicare and Medicaid, But Challenges Remain](https://oig.hhs.gov/oei/reports/OEI-03-20-00330.asp) | [pdf](https://oig.hhs.gov/oei/reports/OEI-03-20-00330.pdf)
+* [awslabs/realtime-fruad-detection-with-gnn-on-dgl](https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl)
+* [awslabs / sagemaker-graph-fraud-detection](https://github.com/awslabs/sagemaker-graph-fraud-detection)
+* Aweseome Fraud Detection Papers: <https://github.com/benedekrozemberczki/awesome-fraud-detection-papers>
+* [IBM / xgboost-smote-detect-fraud](https://github.com/IBM/xgboost-smote-detect-fraud)
+* [Deloitte > Health Care Fraud and Abuse Enforcement: Relationship Scrutiny (pdf)](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/life-sciences-health-care/us-lshc-health-care-fraud-abuse.pdf)
+* **<https://paperswithcode.com/task/fraud-detection>**
 
 ## System Dynamics (to expand)
 
 * <https://sites.google.com/site/ranxupersonalweb/home>
 * <https://sites.google.com/vt.edu/navid>
+
+## Data Science/Analytics Books
+
+* [The Analytic Detective by Steve Leeds](https://analyticdetective.com/)
+  * UConn alum, spoke at symposium 2022Q4: [Non-Technical Strategies and Behaviors Every Successful Data Analyst Should Adopt](https://statistics.uconn.edu/2022/11/29/statistics-colloquium-steve-leeds-ironwood-pharmaceuticals/)
+* <https://timharford.com/books/datadetective/>
