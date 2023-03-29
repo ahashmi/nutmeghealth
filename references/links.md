@@ -210,6 +210,8 @@ Research—The PALISADE Checklist: A Good Practices Report of an ISPOR
 Task Force"
 * [Ellen Andrews - CT Health Policy Project](https://cthealthpolicy.org/)
 * [Justin Weisz - IBM Research](https://scholar.google.com/citations?hl=en&user=84FWSVUAAAAJ&view_op=list_works&sortby=pubdate)
+* [Michael Chernew - Harvard, Healthcare Ecoomics](https://hcp.hms.harvard.edu/people/michael-e-chernew)
+* [Jonathan SKinner - Dartmouth](https://www.jonskinner.org/)
 
 ## Methods
 
