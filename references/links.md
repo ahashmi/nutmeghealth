@@ -212,6 +212,7 @@ Task Force"
 * [Justin Weisz - IBM Research](https://scholar.google.com/citations?hl=en&user=84FWSVUAAAAJ&view_op=list_works&sortby=pubdate)
 * [Michael Chernew - Harvard, Healthcare Ecoomics](https://hcp.hms.harvard.edu/people/michael-e-chernew)
 * [Jonathan SKinner - Dartmouth](https://www.jonskinner.org/)
+* [Jose Zubizarreta - Harvard](http://jrzubizarreta.com/)
 
 ## Methods
 

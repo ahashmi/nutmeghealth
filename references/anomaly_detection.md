@@ -24,7 +24,7 @@ Hmmlearn
 
 * Hidden Markov Models (HMM)
 
-PyOD
+[PyOD](https://pyod.readthedocs.io/en/latest/)
 
 * Local Correlation Integral (LCI)
 * Histogram-based Outlier Detection (HBOS)
